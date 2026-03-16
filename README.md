@@ -1,6 +1,6 @@
 # Bible Dictionary Dataset
 
-Biblical dictionary entries from Easton's Bible Dictionary (1897) and Smith's Bible Dictionary (1863), extracted from the CCEL (Christian Classics Ethereal Library) ThML XML sources.
+Biblical dictionary entries parsed from 4 CCEL ThML XML sources into 5 structured dictionary datasets.
 
 Part of the [NEUU](https://github.com/neuu-org) biblical scholarship ecosystem.
 
@@ -8,26 +8,36 @@ Part of the [NEUU](https://github.com/neuu-org) biblical scholarship ecosystem.
 
 | Metric | Value |
 |--------|-------|
-| Total entries (parsed) | 5,998 |
+| Raw XML sources | 4 (Easton, Smith, Hastings, Hitchcock) |
+| Parsed dictionaries | 5 (Easton, Smith, Hastings, Hitchcock, Schaff) |
 | Easton entries | 3,962 |
 | Smith entries | 4,561 |
-| Entries in both | 2,525 |
-| Total scripture references | 35,089 |
-| Raw XML sources | 12 biblical dictionaries |
+| Hastings entries | 5,033 |
+| Hitchcock entries | 2,619 |
+| Schaff entries | 4,725 |
+| **Total entries** | **20,900** |
 
 ## Pipeline
 
 ```
-00_raw/ccel/xml/                          ← Original ThML XML from CCEL
-  ├── easton_ebd2.xml (7.2 MB)
-  ├── smith_bibledict.xml (6.5 MB)
-  └── 10 additional biblical dictionaries
-              ↓ parse_easton_smith.py
-01_parsed/   (5,998 merged entries, a-z)  ← Easton + Smith merged by term
-              ↓ split_sources.py
-02_sources/  (separated by dictionary)    ← Each dictionary standalone
-  ├── easton/ (3,962 entries)
-  └── smith/  (4,561 entries)
+00_raw/ccel/xml/                          <- Original ThML XML from CCEL
+  ├── easton_ebd2.xml
+  ├── smith_bibledict.xml
+  ├── hastings_dict_bible.xml
+  └── hitchcock_bible_names.xml
+              |
+              | parse_easton_smith.py
+              v
+01_parsed/   (Easton + Smith merged by term, a-z + _index.json)
+              |
+              | split_sources.py
+              v
+02_sources/  (each dictionary standalone)
+  ├── easton/    (3,962 entries)
+  ├── smith/     (4,561 entries)
+  ├── hastings/  (5,033 entries)  <- parse_hastings.py
+  ├── hitchcock/ (2,619 entries)  <- parse_hitchcock.py
+  └── schaff/    (4,725 entries)  <- parse_schaff.py
 ```
 
 ## Structure
@@ -40,38 +50,36 @@ bible-dictionary-dataset/
 │   │       ├── easton_ebd2.xml          # Easton's Bible Dictionary
 │   │       ├── smith_bibledict.xml      # Smith's Bible Dictionary
 │   │       ├── hastings_dict_bible.xml  # Hastings Dictionary of the Bible
-│   │       ├── hastings_dictv1-v4.xml   # Hastings (4 volumes)
-│   │       ├── hastings_christ_gospels_v1-v2.xml
-│   │       ├── hitchcock_bible_names.xml
-│   │       ├── grimm_greek_lexicon.xml  # Greek-English Lexicon NT
-│   │       └── wigram_greek_concordance.xml
+│   │       └── hitchcock_bible_names.xml # Hitchcock's Bible Names
 │   │
 │   ├── 01_parsed/                       # Merged Easton + Smith (by term)
 │   │   ├── a.json ... z.json           # 26 alphabetical files
 │   │   └── _index.json                 # Stats and file listing
 │   │
 │   └── 02_sources/                      # Separated by dictionary
-│       ├── easton/                      # 3,962 entries (Easton only)
-│       │   ├── a.json ... z.json
-│       │   └── _index.json
-│       └── smith/                       # 4,561 entries (Smith only)
-│           ├── a.json ... z.json
-│           └── _index.json
+│       ├── easton/    (3,962 entries)
+│       ├── smith/     (4,561 entries)
+│       ├── hastings/  (5,033 entries)
+│       ├── hitchcock/ (2,619 entries)
+│       └── schaff/    (4,725 entries)
 │
 ├── scripts/
-│   ├── parse_easton_smith.py            # XML → 01_parsed (merge both dictionaries)
-│   └── split_sources.py                 # 01_parsed → 02_sources (separate by dictionary)
+│   ├── parse_easton_smith.py            # XML -> 01_parsed (merge both dictionaries)
+│   ├── split_sources.py                 # 01_parsed -> 02_sources (separate Easton/Smith)
+│   ├── parse_hastings.py                # XML -> 02_sources/hastings
+│   ├── parse_hitchcock.py               # XML -> 02_sources/hitchcock
+│   └── parse_schaff.py                  # CCEL parquet JSON -> 02_sources/schaff
 ```
 
 ## Data Layers
 
-### 00_raw — Original ThML XML
+### 00_raw -- Original ThML XML
 
 XML files from the [CCEL](https://www.ccel.org/) via [jncraton/ccel-paragraphs](https://huggingface.co/datasets/jncraton/ccel-paragraphs). ThML (Theological Markup Language) with `<term>`, `<def>`, and `<scripRef>` tags.
 
-12 biblical dictionaries available as raw XML. Currently only Easton and Smith are parsed.
+4 XML sources are stored in `data/00_raw/ccel/xml/`.
 
-### 01_parsed — Merged by Term
+### 01_parsed -- Merged by Term
 
 Result of `parse_easton_smith.py`: both dictionaries merged by uppercase term name. When the same term exists in both, definitions from both sources are combined.
 
@@ -92,9 +100,9 @@ Result of `parse_easton_smith.py`: both dictionaries merged by uppercase term na
 }
 ```
 
-### 02_sources — Separated by Dictionary
+### 02_sources -- Separated by Dictionary
 
-Result of `split_sources.py`: each dictionary as standalone entries, containing only its own definitions.
+Each dictionary as standalone entries, containing only its own definitions.
 
 ```json
 {
@@ -109,30 +117,33 @@ Result of `split_sources.py`: each dictionary as standalone entries, containing 
 
 ## Raw XML Sources
 
-| File | Dictionary | Size | Parsed? |
-|------|-----------|------|:-------:|
-| `easton_ebd2.xml` | Easton's Bible Dictionary (1897) | 7.2 MB | Yes |
-| `smith_bibledict.xml` | Smith's Bible Dictionary (1863) | 6.5 MB | Yes |
-| `hastings_dict_bible.xml` | Hastings Dictionary of the Bible | 9.3 MB | Not yet |
-| `hastings_dictv1-v4.xml` | Hastings (4 volumes) | 1.0 MB | Not yet |
-| `hastings_christ_gospels_v1-v2.xml` | Dictionary of Christ and the Gospels | 0.5 MB | Not yet |
-| `hitchcock_bible_names.xml` | Hitchcock's Bible Names | 0.2 MB | Not yet |
-| `grimm_greek_lexicon.xml` | Greek-English Lexicon of the NT | 0.2 MB | Not yet |
-| `wigram_greek_concordance.xml` | Greek Concordance of the NT | 0.3 MB | Not yet |
+| File | Dictionary | Parsed? |
+|------|-----------|:-------:|
+| `easton_ebd2.xml` | Easton's Bible Dictionary (1897) | Yes (3,962 entries) |
+| `smith_bibledict.xml` | Smith's Bible Dictionary (1863) | Yes (4,561 entries) |
+| `hastings_dict_bible.xml` | Hastings Dictionary of the Bible (1898) | Yes (5,033 entries) |
+| `hitchcock_bible_names.xml` | Hitchcock's Bible Names (1869) | Yes (2,619 entries) |
+
+Schaff's Dictionary of the Bible (4,725 entries) was parsed from CCEL parquet JSON via `parse_schaff.py`.
 
 ## Scripts
 
 ```bash
-# Parse Easton + Smith XML → merged JSON
+# Parse Easton + Smith XML -> merged JSON
 python scripts/parse_easton_smith.py
 
-# Split merged → separate sources
+# Split merged -> separate sources
 python scripts/split_sources.py
+
+# Parse individual dictionaries -> 02_sources
+python scripts/parse_hastings.py
+python scripts/parse_hitchcock.py
+python scripts/parse_schaff.py
 ```
 
 ## License
 
-All source dictionaries are **public domain** (1863-1897). Dataset and scripts: **CC BY 4.0**.
+All source dictionaries are **public domain** (1863-1898). Dataset and scripts: **CC BY 4.0**.
 
 ## Citation
 
@@ -148,9 +159,9 @@ All source dictionaries are **public domain** (1863-1897). Dataset and scripts: 
 
 ## Related Datasets
 
-- [bible-topics-dataset](https://github.com/neuu-org/bible-topics-dataset) — Consumes dictionary for V3 definitions
-- [bible-gazetteers-dataset](https://github.com/neuu-org/bible-gazetteers-dataset) — Entities and symbols
-- [bible-commentaries-dataset](https://github.com/neuu-org/bible-commentaries-dataset) — 31,218 commentaries
-- [bible-crossrefs-dataset](https://github.com/neuu-org/bible-crossrefs-dataset) — 1.1M+ cross-references
-- [bible-text-dataset](https://github.com/neuu-org/bible-text-dataset) — 17 Bible translations
-- [bible-hybrid-search](https://github.com/neuu-org/bible-hybrid-search) — Hybrid retrieval research
+- [bible-topics-dataset](https://github.com/neuu-org/bible-topics-dataset) -- Consumes dictionary for V3 definitions
+- [bible-gazetteers-dataset](https://github.com/neuu-org/bible-gazetteers-dataset) -- Entities and symbols
+- [bible-commentaries-dataset](https://github.com/neuu-org/bible-commentaries-dataset) -- 31,218 commentaries
+- [bible-crossrefs-dataset](https://github.com/neuu-org/bible-crossrefs-dataset) -- 1.1M+ cross-references
+- [bible-text-dataset](https://github.com/neuu-org/bible-text-dataset) -- 17 Bible translations
+- [bible-hybrid-search](https://github.com/neuu-org/bible-hybrid-search) -- Hybrid retrieval research

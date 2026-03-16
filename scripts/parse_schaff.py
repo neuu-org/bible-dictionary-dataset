@@ -24,8 +24,10 @@ from pathlib import Path
 from typing import Optional
 
 REPO_ROOT = Path(__file__).parent.parent
-# Use the extracted JSON from CCEL parquets
-RAW_JSON = Path("E:/neuu-datasets/ccel-all-dictionaries/a_dictionary_of_the_bible.json")
+# Source: extracted JSON from jncraton/ccel-paragraphs parquets.
+# This file is not stored in the repo; it must be produced by extracting
+# Schaff paragraphs from the CCEL parquet dataset before running this script.
+RAW_JSON = REPO_ROOT / "data" / "00_raw" / "ccel" / "json" / "a_dictionary_of_the_bible.json"
 OUTPUT_DIR = REPO_ROOT / "data" / "02_sources" / "schaff"
 SOURCE_CODE = "SCH"
 

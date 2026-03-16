@@ -15,12 +15,12 @@ from typing import Optional
 import html
 
 # Paths
-BASE_DIR = Path(__file__).parent.parent
-CCEL_DIR = BASE_DIR / "data" / "ccel"
-OUTPUT_DIR = BASE_DIR / "data" / "dataset" / "dictionary"
+REPO_ROOT = Path(__file__).parent.parent
+CCEL_DIR = REPO_ROOT / "data" / "00_raw" / "ccel" / "xml"
+OUTPUT_DIR = REPO_ROOT / "data" / "01_parsed"
 
-EASTON_XML = CCEL_DIR / "e" / "easton" / "ebd2.xml"
-SMITH_XML = CCEL_DIR / "s" / "smith_w" / "bibledict.xml"
+EASTON_XML = CCEL_DIR / "easton_ebd2.xml"
+SMITH_XML = CCEL_DIR / "smith_bibledict.xml"
 
 
 def normalize_ref(parsed: str) -> Optional[str]:

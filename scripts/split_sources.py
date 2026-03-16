@@ -20,8 +20,8 @@ from collections import defaultdict
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
-UNIFIED_DIR = REPO_ROOT / "data" / "02_unified"
-SOURCES_DIR = REPO_ROOT / "data" / "01_sources"
+UNIFIED_DIR = REPO_ROOT / "data" / "01_parsed"
+SOURCES_DIR = REPO_ROOT / "data" / "02_sources"
 
 
 def split():
