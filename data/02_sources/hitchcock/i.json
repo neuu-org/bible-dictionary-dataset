@@ -1,0 +1,982 @@
+{
+  "IBHAR": {
+    "name": "Ibhar",
+    "slug": "ibhar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "election; he that is chosen"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IBLEAM": {
+    "name": "Ibleam",
+    "slug": "ibleam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ancient people; people decreasing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IBNEIAH": {
+    "name": "Ibneiah",
+    "slug": "ibneiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Ibniah, the building of the Lord; the understanding of the Lord; son by adoption"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IBRI": {
+    "name": "Ibri",
+    "slug": "ibri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "passing over; being angry; being with young"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IBZAN": {
+    "name": "Ibzan",
+    "slug": "ibzan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "father of a target; father of coldness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ICHABOD": {
+    "name": "Ichabod",
+    "slug": "ichabod",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "where is the glory? or, no glory"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ICONIUM": {
+    "name": "Iconium",
+    "slug": "iconium",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "coming"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IDALAH": {
+    "name": "Idalah",
+    "slug": "idalah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the hand of slander, or of cursing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IDBASH": {
+    "name": "Idbash",
+    "slug": "idbash",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "flowing with honey; the land of destruction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IDDO": {
+    "name": "Iddo",
+    "slug": "iddo",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his band; power; praise"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IDUMEA": {
+    "name": "Idumea",
+    "slug": "idumea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "red; earthy; bloody"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IGAL": {
+    "name": "Igal",
+    "slug": "igal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "redeemed; defiled"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IGDALIAH": {
+    "name": "Igdaliah",
+    "slug": "igdaliah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the greatness of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IGEAL": {
+    "name": "Igeal",
+    "slug": "igeal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a redeemer; redeemed; defiled"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IIM": {
+    "name": "Iim",
+    "slug": "iim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "heaps of Hebrews, or of angry men"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IJE-ABARIM": {
+    "name": "Ije-abarim",
+    "slug": "ije-abarim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "heaps of Hebrews, or of passers over"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IJON": {
+    "name": "Ijon",
+    "slug": "ijon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "look; eye; fountain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IKKESH": {
+    "name": "Ikkesh",
+    "slug": "ikkesh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "forward; wicked"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ILLYRICUM": {
+    "name": "Illyricum",
+    "slug": "illyricum",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "joy; rejoicing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IMLAH": {
+    "name": "Imlah",
+    "slug": "imlah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "plentitude; circumcision"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IMMANUEL": {
+    "name": "Immanuel",
+    "slug": "immanuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God with us"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IMMER": {
+    "name": "Immer",
+    "slug": "immer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "saying; speaking; a lamb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IMNAH": {
+    "name": "Imnah",
+    "slug": "imnah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Jimnah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IMRAH": {
+    "name": "Imrah",
+    "slug": "imrah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a rebel; waxing bitter; changing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IMRI": {
+    "name": "Imri",
+    "slug": "imri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "speaking; exalting; bitter; a lamb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "INDIA": {
+    "name": "India",
+    "slug": "india",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "praise; law"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IPHEDEIAH": {
+    "name": "Iphedeiah",
+    "slug": "iphedeiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "redemption of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IR": {
+    "name": "Ir",
+    "slug": "ir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "watchman; city; vision"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRA": {
+    "name": "Ira",
+    "slug": "ira",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "watchman; making bare; pouring out"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRAD": {
+    "name": "Irad",
+    "slug": "irad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wild ass; heap of empire; dragon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRAM": {
+    "name": "Iram",
+    "slug": "iram",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the effusion of them; a high heap"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRI": {
+    "name": "Iri",
+    "slug": "iri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fire; light"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRIJAH": {
+    "name": "Irijah",
+    "slug": "irijah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the fear of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRPEEL": {
+    "name": "Irpeel",
+    "slug": "irpeel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the health, medicine, or exulting of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IRSHEMESH": {
+    "name": "Irshemesh",
+    "slug": "irshemesh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a city of bondage"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISAAC": {
+    "name": "Isaac",
+    "slug": "isaac",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "laughter"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISAIAH": {
+    "name": "Isaiah",
+    "slug": "isaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the salvation of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISCAH": {
+    "name": "Iscah",
+    "slug": "iscah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that anoints"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISCARIOT": {
+    "name": "Iscariot",
+    "slug": "iscariot",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a man of murder; a hireling"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISH-PAN": {
+    "name": "Ish-pan",
+    "slug": "ish-pan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hid; broken in two"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISH-TOB": {
+    "name": "Ish-tob",
+    "slug": "ish-tob",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "good man"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHBAK": {
+    "name": "Ishbak",
+    "slug": "ishbak",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who is empty or exhausted"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHBI-BENOB": {
+    "name": "Ishbi-benob",
+    "slug": "ishbi-benob",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "respiration; conversion; taking captive"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHBOSHETH": {
+    "name": "Ishbosheth",
+    "slug": "ishbosheth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a man of shame"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHI": {
+    "name": "Ishi",
+    "slug": "ishi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "salvation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHIAH": {
+    "name": "Ishiah",
+    "slug": "ishiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "it is the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHMA": {
+    "name": "Ishma",
+    "slug": "ishma",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "named; marveling; desolation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHMACHIAH": {
+    "name": "Ishmachiah",
+    "slug": "ishmachiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cleaving to the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHMAEL": {
+    "name": "Ishmael",
+    "slug": "ishmael",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God that hears"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHMAIAH": {
+    "name": "Ishmaiah",
+    "slug": "ishmaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hearing or obeying the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHMERAI": {
+    "name": "Ishmerai",
+    "slug": "ishmerai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "keeper, or keeping"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHOD": {
+    "name": "Ishod",
+    "slug": "ishod",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a comely man"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISHUA": {
+    "name": "Ishua",
+    "slug": "ishua",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "plainness; equal"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISPAH": {
+    "name": "Ispah",
+    "slug": "ispah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a jasper stone"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISRAEL": {
+    "name": "Israel",
+    "slug": "israel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who prevails with God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISSACHAR": {
+    "name": "Issachar",
+    "slug": "issachar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "reward; recompense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ISUI": {
+    "name": "Isui",
+    "slug": "isui",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Ishuah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITALY": {
+    "name": "Italy",
+    "slug": "italy",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "abounding with calves or heifers"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITHAI": {
+    "name": "Ithai",
+    "slug": "ithai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong; my sign; a plowshare"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITHAMAR": {
+    "name": "Ithamar",
+    "slug": "ithamar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "island of the palm-tree"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITHIEL": {
+    "name": "Ithiel",
+    "slug": "ithiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sign, or coming of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITHMAH": {
+    "name": "Ithmah",
+    "slug": "ithmah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an orphan"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITHRAN": {
+    "name": "Ithran",
+    "slug": "ithran",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "remaining; searching out diligently"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITHREAM": {
+    "name": "Ithream",
+    "slug": "ithream",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "excellence of the people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITTAH-KAZIN": {
+    "name": "Ittah-kazin",
+    "slug": "ittah-kazin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hour, or time, of a prince"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ITUREA": {
+    "name": "Iturea",
+    "slug": "iturea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "guarded; mountainous"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IVAH": {
+    "name": "Ivah",
+    "slug": "ivah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "iniquity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IZEHAR": {
+    "name": "Izehar",
+    "slug": "izehar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Izhar, clearness; oil"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IZRAHIAH": {
+    "name": "Izrahiah",
+    "slug": "izrahiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the Lord ariseth; the clearness of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "IZRI": {
+    "name": "Izri",
+    "slug": "izri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fasting; tribulation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

@@ -1,0 +1,1668 @@
+{
+  "PAARAI": {
+    "name": "Paarai",
+    "slug": "paarai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "opening"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PADAN-ARAM": {
+    "name": "Padan-aram",
+    "slug": "padan-aram",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cultivated field or table-land"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PADON": {
+    "name": "Padon",
+    "slug": "padon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his redemption; ox-yoke"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAGIEL": {
+    "name": "Pagiel",
+    "slug": "pagiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prevention, or prayer, of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAHATH-MOAB": {
+    "name": "Pahath-Moab",
+    "slug": "pahath-moab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ruler of Moab"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAI": {
+    "name": "Pai",
+    "slug": "pai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Pau, howling; sighing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PALAL": {
+    "name": "Palal",
+    "slug": "palal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thinking"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PALESTINA": {
+    "name": "Palestina",
+    "slug": "palestina",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "which is covered; watered; or brings and causes ruin"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PALLU": {
+    "name": "Pallu",
+    "slug": "pallu",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "marvelous; hidden"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PALTI": {
+    "name": "Palti",
+    "slug": "palti",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "deliverance; flight"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PALTIEL": {
+    "name": "Paltiel",
+    "slug": "paltiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "deliverance; or banishment, of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAMPHYLIA": {
+    "name": "Pamphylia",
+    "slug": "pamphylia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a nation made up of every tribe"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAPHOS": {
+    "name": "Paphos",
+    "slug": "paphos",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "which boils, or is very hot"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARAH": {
+    "name": "Parah",
+    "slug": "parah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a cow; increasing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARAN": {
+    "name": "Paran",
+    "slug": "paran",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beauty; glory; ornament"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARBAR": {
+    "name": "Parbar",
+    "slug": "parbar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a suburb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARMASHTA": {
+    "name": "Parmashta",
+    "slug": "parmashta",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a yearling bull"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARMENAS": {
+    "name": "Parmenas",
+    "slug": "parmenas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that abides, or is permanent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARNACH": {
+    "name": "Parnach",
+    "slug": "parnach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bull striking, or struck"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAROSH": {
+    "name": "Parosh",
+    "slug": "parosh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a flea; the fruit of a moth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARSHANDATHA": {
+    "name": "Parshandatha",
+    "slug": "parshandatha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "given by prayer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PARUAH": {
+    "name": "Paruah",
+    "slug": "paruah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "flourishing; that flies away"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PASACH": {
+    "name": "Pasach",
+    "slug": "pasach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thy broken piece"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PASDAMMIN": {
+    "name": "Pasdammin",
+    "slug": "pasdammin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "portion or diminishing of blood"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PASEAH": {
+    "name": "Paseah",
+    "slug": "paseah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "passing over; halting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PASHUR": {
+    "name": "Pashur",
+    "slug": "pashur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that extends or multiplies the hole; whiteness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PATARA": {
+    "name": "Patara",
+    "slug": "patara",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "trodden under foot"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PATHROS": {
+    "name": "Pathros",
+    "slug": "pathros",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Pathrusim, mouthful of dough; persuasion of ruin"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PATMOS": {
+    "name": "Patmos",
+    "slug": "patmos",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mortal"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PATROBAS": {
+    "name": "Patrobas",
+    "slug": "patrobas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "paternal; that pursues the steps of his father"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAU": {
+    "name": "Pau",
+    "slug": "pau",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Pai"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAUL": {
+    "name": "Paul",
+    "slug": "paul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "small; little"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PAULUS": {
+    "name": "Paulus",
+    "slug": "paulus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Paul"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEDAHZUR": {
+    "name": "Pedahzur",
+    "slug": "pedahzur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong or powerful savior; stone of redemption"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEDAIAH": {
+    "name": "Pedaiah",
+    "slug": "pedaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "redemption of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEKAH": {
+    "name": "Pekah",
+    "slug": "pekah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that opens; that is at liberty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEKAHIAH": {
+    "name": "Pekahiah",
+    "slug": "pekahiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "it is the Lord that opens"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEKOD": {
+    "name": "Pekod",
+    "slug": "pekod",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "noble; rulers"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PELAIAH": {
+    "name": "Pelaiah",
+    "slug": "pelaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the Lord's secret or miracle"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PELALIAH": {
+    "name": "Pelaliah",
+    "slug": "pelaliah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "entreating the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PELATIAH": {
+    "name": "Pelatiah",
+    "slug": "pelatiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "let the Lord deliver; deliverance of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PELEG": {
+    "name": "Peleg",
+    "slug": "peleg",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "division"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PELETHITES": {
+    "name": "Pelethites",
+    "slug": "pelethites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judges; destroyers"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PELONITE": {
+    "name": "Pelonite",
+    "slug": "pelonite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "falling; secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PENIEL": {
+    "name": "Peniel",
+    "slug": "peniel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "face or vision of God; that sees God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PENINNAH": {
+    "name": "Peninnah",
+    "slug": "peninnah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pearl; precious stone; the face"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PENTAPOLIS": {
+    "name": "Pentapolis",
+    "slug": "pentapolis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "five cities"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PENTATEUCH": {
+    "name": "Pentateuch",
+    "slug": "pentateuch",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the five books of Moses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PENTECOST": {
+    "name": "Pentecost",
+    "slug": "pentecost",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fiftieth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PENUEL": {
+    "name": "Penuel",
+    "slug": "penuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Peniel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEOR": {
+    "name": "Peor",
+    "slug": "peor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hole; opening"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERAZIM": {
+    "name": "Perazim",
+    "slug": "perazim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "divisions"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERESH": {
+    "name": "Peresh",
+    "slug": "peresh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "horseman"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEREZ": {
+    "name": "Perez",
+    "slug": "perez",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "divided"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEREZ-UZZA": {
+    "name": "Perez-Uzza",
+    "slug": "perez-uzza",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "division of Uzza, or of strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERGA": {
+    "name": "Perga",
+    "slug": "perga",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "very earthy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERGAMOS": {
+    "name": "Pergamos",
+    "slug": "pergamos",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "height; elevation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERIDA": {
+    "name": "Perida",
+    "slug": "perida",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "separation; division"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERIZZITES": {
+    "name": "Perizzites",
+    "slug": "perizzites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dwelling in villages"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERSIA": {
+    "name": "Persia",
+    "slug": "persia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that cuts or divides; a nail; a gryphon; a horseman"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERSIS": {
+    "name": "Persis",
+    "slug": "persis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Persia"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PERUDA": {
+    "name": "Peruda",
+    "slug": "peruda",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Perida"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PETER": {
+    "name": "Peter",
+    "slug": "peter",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a rock or stone"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PETHAHIAH": {
+    "name": "Pethahiah",
+    "slug": "pethahiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the Lord opening; gate of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PETHUEL": {
+    "name": "Pethuel",
+    "slug": "pethuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mouth of God; persuasion of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PEULTHAI": {
+    "name": "Peulthai",
+    "slug": "peulthai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my works"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHALEC": {
+    "name": "Phalec",
+    "slug": "phalec",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Peleg"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHALLU": {
+    "name": "Phallu",
+    "slug": "phallu",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Pallu, admirable; hidden"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHALTI PALTI": {
+    "name": "Phalti Palti",
+    "slug": "phalti-palti",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "deliverance, flight"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHANUEL": {
+    "name": "Phanuel",
+    "slug": "phanuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "face or vision of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHARAOH": {
+    "name": "Pharaoh",
+    "slug": "pharaoh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that disperses; that spoils"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHAREZ": {
+    "name": "Pharez",
+    "slug": "pharez",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "division; rupture"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHARISEES": {
+    "name": "Pharisees",
+    "slug": "pharisees",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "set apart"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHARPAR": {
+    "name": "Pharpar",
+    "slug": "pharpar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that produces fruit"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHEBE": {
+    "name": "Phebe",
+    "slug": "phebe",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "shining; pure"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHENICE": {
+    "name": "Phenice",
+    "slug": "phenice",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Phoenicia, red; purple"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHICHOL": {
+    "name": "Phichol",
+    "slug": "phichol",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the mouth of all, or every tongue"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILADELPHIA": {
+    "name": "Philadelphia",
+    "slug": "philadelphia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "love of a brother"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILEMON": {
+    "name": "Philemon",
+    "slug": "philemon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who kisses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILETUS": {
+    "name": "Philetus",
+    "slug": "philetus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "amiable; beloved"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILIP": {
+    "name": "Philip",
+    "slug": "philip",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "warlike; a lover of horses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILIPPI": {
+    "name": "Philippi",
+    "slug": "philippi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Philip, in the plural"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILISTINES": {
+    "name": "Philistines",
+    "slug": "philistines",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "those who dwell in villages"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHILOLOGUS": {
+    "name": "Philologus",
+    "slug": "philologus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a lover of letters, or of the word"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHINEHAS": {
+    "name": "Phinehas",
+    "slug": "phinehas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bold aspect; face of trust or protection"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHLEGON": {
+    "name": "Phlegon",
+    "slug": "phlegon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "zealous; burning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHRYGIA": {
+    "name": "Phrygia",
+    "slug": "phrygia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dry; barren"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHURAH": {
+    "name": "Phurah",
+    "slug": "phurah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that bears fruit, or grows"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHYGELLUS": {
+    "name": "Phygellus",
+    "slug": "phygellus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fugitive"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PHYLACTERIES": {
+    "name": "Phylacteries",
+    "slug": "phylacteries",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "things to be especially observed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PI-BESETH": {
+    "name": "Pi-beseth",
+    "slug": "pi-beseth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "abode of the goddess Bahest or Bast"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PI-HAHIROTH": {
+    "name": "Pi-hahiroth",
+    "slug": "pi-hahiroth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the mouth; the pass of Hiroth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PILATE": {
+    "name": "Pilate",
+    "slug": "pilate",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "armed with a dart"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PINON": {
+    "name": "Pinon",
+    "slug": "pinon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pearl; gem; that beholds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PIRAM": {
+    "name": "Piram",
+    "slug": "piram",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a wild ass of them"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PIRATHON": {
+    "name": "Pirathon",
+    "slug": "pirathon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his dissipation or deprivation; his rupture"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PISGAH": {
+    "name": "Pisgah",
+    "slug": "pisgah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hill; eminence; fortress"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PISIDIA": {
+    "name": "Pisidia",
+    "slug": "pisidia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pitch; pitchy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PISON": {
+    "name": "Pison",
+    "slug": "pison",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "changing; extension of the mouth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PITHOM": {
+    "name": "Pithom",
+    "slug": "pithom",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their mouthful; a dilatation of the mouth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PITHON": {
+    "name": "Pithon",
+    "slug": "pithon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mouthful; persuasion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "POCHERETH": {
+    "name": "Pochereth",
+    "slug": "pochereth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cutting of the mouth of warfare"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PONTIUS": {
+    "name": "Pontius",
+    "slug": "pontius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "marine; belonging to the sea"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PONTUS": {
+    "name": "Pontus",
+    "slug": "pontus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the sea"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PORATHA": {
+    "name": "Poratha",
+    "slug": "poratha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fruitful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "POTIPHAR": {
+    "name": "Potiphar",
+    "slug": "potiphar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bull of Africa; a fat bull"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "POTIPHERAH": {
+    "name": "Potipherah",
+    "slug": "potipherah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that scatters abroad, or demolishes, the fat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PRISCA": {
+    "name": "Prisca",
+    "slug": "prisca",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ancient"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PRISCILLA": {
+    "name": "Priscilla",
+    "slug": "priscilla",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Prisca"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PROCHORUS": {
+    "name": "Prochorus",
+    "slug": "prochorus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that presides over the choirs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUAH": {
+    "name": "Puah",
+    "slug": "puah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mouth; corner; bush of hair"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUBLIUS": {
+    "name": "Publius",
+    "slug": "publius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "common"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUDENS": {
+    "name": "Pudens",
+    "slug": "pudens",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "shamefaced"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUL": {
+    "name": "Pul",
+    "slug": "pul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bean; destruction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUNITES": {
+    "name": "Punites",
+    "slug": "punites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beholding; my face"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUNON": {
+    "name": "Punon",
+    "slug": "punon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "precious stone; that beholds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUR": {
+    "name": "Pur",
+    "slug": "pur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Purim, lot"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUTEOLI": {
+    "name": "Puteoli",
+    "slug": "puteoli",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sulphureous wells"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "PUTIEL": {
+    "name": "Putiel",
+    "slug": "putiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my fatness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

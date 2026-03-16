@@ -1,0 +1,2382 @@
+{
+  "EBAL": {
+    "name": "Ebal",
+    "slug": "ebal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ancient heaps"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EBED": {
+    "name": "Ebed",
+    "slug": "ebed",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a servant; laborer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EBED-MELECH": {
+    "name": "Ebed-melech",
+    "slug": "ebed-melech",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the king's servant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EBEN-EZER": {
+    "name": "Eben-ezer",
+    "slug": "eben-ezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the stone of help"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EBER": {
+    "name": "Eber",
+    "slug": "eber",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "one that passes; anger"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EBIASAPH": {
+    "name": "Ebiasaph",
+    "slug": "ebiasaph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a father that gathers or adds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EBRONAH": {
+    "name": "Ebronah",
+    "slug": "ebronah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "passage over; being angry"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ECCLESIASTES": {
+    "name": "Ecclesiastes",
+    "slug": "ecclesiastes",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a preacher"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ED": {
+    "name": "Ed",
+    "slug": "ed",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "witness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EDEN": {
+    "name": "Eden",
+    "slug": "eden",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pleasure; delight"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EDER": {
+    "name": "Eder",
+    "slug": "eder",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a flock"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EDOM": {
+    "name": "Edom",
+    "slug": "edom",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "red, earthy; of blood"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EDREI": {
+    "name": "Edrei",
+    "slug": "edrei",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a very great mass, or cloud"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EGLAH": {
+    "name": "Eglah",
+    "slug": "eglah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "heifer; chariot; round"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EGLAIM": {
+    "name": "Eglaim",
+    "slug": "eglaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "drops of the sea"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EGLON": {
+    "name": "Eglon",
+    "slug": "eglon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Eglah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EGYPT": {
+    "name": "Egypt",
+    "slug": "egypt",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that troubles or oppresses; anguish"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EHUD": {
+    "name": "Ehud",
+    "slug": "ehud",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that praises"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EKER": {
+    "name": "Eker",
+    "slug": "eker",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "barren, feeble"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EKRON": {
+    "name": "Ekron",
+    "slug": "ekron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "barrenness; torn away"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EL-BETH-EL": {
+    "name": "El-beth-el",
+    "slug": "el-beth-el",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the God of Bethel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EL-ELOHE-ISRAEL": {
+    "name": "El-elohe-Israel",
+    "slug": "el-elohe-israel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God, the God of Israel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELADAH": {
+    "name": "Eladah",
+    "slug": "eladah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the eternity of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELAH": {
+    "name": "Elah",
+    "slug": "elah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an oak; a curse; perjury"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELAM": {
+    "name": "Elam",
+    "slug": "elam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a young man; a virgin; a secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELASAH": {
+    "name": "Elasah",
+    "slug": "elasah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the doings of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELATH": {
+    "name": "Elath",
+    "slug": "elath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a hind; strength; an oak"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELDAAH": {
+    "name": "Eldaah",
+    "slug": "eldaah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "knowledge of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELDAD": {
+    "name": "Eldad",
+    "slug": "eldad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "favored of God; love of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELEAD": {
+    "name": "Elead",
+    "slug": "elead",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "witness of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELEALEH": {
+    "name": "Elealeh",
+    "slug": "elealeh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "burnt-offering of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELEAZAR": {
+    "name": "Eleazar",
+    "slug": "eleazar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "help of God, court of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELEPH": {
+    "name": "Eleph",
+    "slug": "eleph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "learning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELHANAN": {
+    "name": "Elhanan",
+    "slug": "elhanan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "grace, or gift, or mercy of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELI": {
+    "name": "Eli",
+    "slug": "eli",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Eli, my God, my God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIAB": {
+    "name": "Eliab",
+    "slug": "eliab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my father; God is the father"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIADA": {
+    "name": "Eliada",
+    "slug": "eliada",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "knowledge of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIAH": {
+    "name": "Eliah",
+    "slug": "eliah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIAHBA": {
+    "name": "Eliahba",
+    "slug": "eliahba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my God the Father"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIAKIM": {
+    "name": "Eliakim",
+    "slug": "eliakim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "resurrection of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIAM": {
+    "name": "Eliam",
+    "slug": "eliam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the people of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIAS": {
+    "name": "Elias",
+    "slug": "elias",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Elijah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIASAPH": {
+    "name": "Eliasaph",
+    "slug": "eliasaph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the Lord increaseth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIASHIB": {
+    "name": "Eliashib",
+    "slug": "eliashib",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the God of conversion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIATHAH": {
+    "name": "Eliathah",
+    "slug": "eliathah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thou art my God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIDAD": {
+    "name": "Elidad",
+    "slug": "elidad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beloved of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIEL": {
+    "name": "Eliel",
+    "slug": "eliel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God, my God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIENAI": {
+    "name": "Elienai",
+    "slug": "elienai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the God of my eyes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIEZER": {
+    "name": "Eliezer",
+    "slug": "eliezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "help, or court, of my God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIHOREPH": {
+    "name": "Elihoreph",
+    "slug": "elihoreph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "god of winter, or of youth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIHU": {
+    "name": "Elihu",
+    "slug": "elihu",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he is my God himself"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIJAH": {
+    "name": "Elijah",
+    "slug": "elijah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God the Lord, the strong Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIKA": {
+    "name": "Elika",
+    "slug": "elika",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pelican of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIM": {
+    "name": "Elim",
+    "slug": "elim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the rams; the strong; stags"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIMELECH": {
+    "name": "Elimelech",
+    "slug": "elimelech",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my God is king"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIOENAI": {
+    "name": "Elioenai",
+    "slug": "elioenai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "toward him are mine eyes; or to him are my fountains"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIPHAL": {
+    "name": "Eliphal",
+    "slug": "eliphal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a miracle of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIPHALET": {
+    "name": "Eliphalet",
+    "slug": "eliphalet",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the God of deliverance"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIPHAZ": {
+    "name": "Eliphaz",
+    "slug": "eliphaz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the endeavor of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISABETH": {
+    "name": "Elisabeth",
+    "slug": "elisabeth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Elizabeth, the oath, or fullness, of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISHA": {
+    "name": "Elisha",
+    "slug": "elisha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "salvation of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISHAH": {
+    "name": "Elishah",
+    "slug": "elishah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "it is God; the lamb of God: God that gives help"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISHAMA": {
+    "name": "Elishama",
+    "slug": "elishama",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God hearing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISHAPHAT": {
+    "name": "Elishaphat",
+    "slug": "elishaphat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my God judgeth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISHEBA": {
+    "name": "Elisheba",
+    "slug": "elisheba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Elisabeth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELISHUA": {
+    "name": "Elishua",
+    "slug": "elishua",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my salvation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIUD": {
+    "name": "Eliud",
+    "slug": "eliud",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my praise"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELIZUR": {
+    "name": "Elizur",
+    "slug": "elizur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my strength; my rock; rock of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELKANAH": {
+    "name": "Elkanah",
+    "slug": "elkanah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God the zealous; the zeal of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELKESHAI": {
+    "name": "Elkeshai",
+    "slug": "elkeshai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hardiness or rigor of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELKOSHITE": {
+    "name": "Elkoshite",
+    "slug": "elkoshite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a man of Elkeshai"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELLASAR": {
+    "name": "Ellasar",
+    "slug": "ellasar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "revolting from God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELMODAM": {
+    "name": "Elmodam",
+    "slug": "elmodam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the God of measure, or of the garment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELNAAM": {
+    "name": "Elnaam",
+    "slug": "elnaam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God's fairness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELNATHAN": {
+    "name": "Elnathan",
+    "slug": "elnathan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God hath given; the gift of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELOHI": {
+    "name": "Elohi",
+    "slug": "elohi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Elohim, God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELON": {
+    "name": "Elon",
+    "slug": "elon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "oak; grove; strong"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELON-BETH-HANAN": {
+    "name": "Elon-beth-hanan",
+    "slug": "elon-beth-hanan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of grace or mercy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELPAAL": {
+    "name": "Elpaal",
+    "slug": "elpaal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God's work"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELPALET": {
+    "name": "Elpalet",
+    "slug": "elpalet",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Eliphalet"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELTEKEH": {
+    "name": "Eltekeh",
+    "slug": "eltekeh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "of grace or mercy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELTEKETH": {
+    "name": "Elteketh",
+    "slug": "elteketh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the case of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELTOLAD": {
+    "name": "Eltolad",
+    "slug": "eltolad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the generation of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELUL": {
+    "name": "Elul",
+    "slug": "elul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cry or outcry"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELUZAI": {
+    "name": "Eluzai",
+    "slug": "eluzai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELYMAS": {
+    "name": "Elymas",
+    "slug": "elymas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a magician, a corrupter"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELZABAD": {
+    "name": "Elzabad",
+    "slug": "elzabad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the dowry of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ELZAPHAN": {
+    "name": "Elzaphan",
+    "slug": "elzaphan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God of the northeast wind"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EMIMS": {
+    "name": "Emims",
+    "slug": "emims",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fears; terrors; formidable; people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EMMANUEL": {
+    "name": "Emmanuel",
+    "slug": "emmanuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God with us"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EMMAUS": {
+    "name": "Emmaus",
+    "slug": "emmaus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "people despised or obscure"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EMMOR": {
+    "name": "Emmor",
+    "slug": "emmor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an ass"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-DOR": {
+    "name": "En-dor",
+    "slug": "en-dor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fountain, eye of generation, or of habitation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-EGLAIM": {
+    "name": "En-eglaim",
+    "slug": "en-eglaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "eye, or fountain, of calves"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-GANNIM": {
+    "name": "En-gannim",
+    "slug": "en-gannim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "eye, or fountain, of protection or of gardens"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-GEDI": {
+    "name": "En-gedi",
+    "slug": "en-gedi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "eye, or fountain, of the goat, or of happiness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-HADDAH": {
+    "name": "En-haddah",
+    "slug": "en-haddah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "quick sight; well of gladness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-HAKKORE": {
+    "name": "En-hakkore",
+    "slug": "en-hakkore",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fountain of him that called or prayed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-HAZOR": {
+    "name": "En-hazor",
+    "slug": "en-hazor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the grass of the well"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-MISHPAT": {
+    "name": "En-mishpat",
+    "slug": "en-mishpat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fountain of judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-RIMMON": {
+    "name": "En-rimmon",
+    "slug": "en-rimmon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "well of weight"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-ROGEL": {
+    "name": "En-rogel",
+    "slug": "en-rogel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the fuller's fountain; the well of searching"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-SHEMESH": {
+    "name": "En-shemesh",
+    "slug": "en-shemesh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fountain, or eye, of the sun"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EN-TAPPUAH": {
+    "name": "En-tappuah",
+    "slug": "en-tappuah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fountain of an apple, or of inflation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ENAM": {
+    "name": "Enam",
+    "slug": "enam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fountain, open place"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ENAN": {
+    "name": "Enan",
+    "slug": "enan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cloud"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ENEAS": {
+    "name": "Eneas",
+    "slug": "eneas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "laudable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ENOCH": {
+    "name": "Enoch",
+    "slug": "enoch",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dedicated; disciplined"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ENON": {
+    "name": "Enon",
+    "slug": "enon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cloud; mass of darkness; fountain; eye"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ENOS": {
+    "name": "Enos",
+    "slug": "enos",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mortal man; sick; despaired of; forgetful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPAPHRAS": {
+    "name": "Epaphras",
+    "slug": "epaphras",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "covered with foam"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPAPHRODITUS": {
+    "name": "Epaphroditus",
+    "slug": "epaphroditus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "agreeable; handsome"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPENETUS": {
+    "name": "Epenetus",
+    "slug": "epenetus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "laudable; worthy of praise"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPH-LAL": {
+    "name": "Eph-lal",
+    "slug": "eph-lal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judging; praying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHAH": {
+    "name": "Ephah",
+    "slug": "ephah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "weary; tired"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHER": {
+    "name": "Epher",
+    "slug": "epher",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dust; lead"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHES-DAMMIM": {
+    "name": "Ephes-dammim",
+    "slug": "ephes-dammim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "effusion of blood"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHESUS": {
+    "name": "Ephesus",
+    "slug": "ephesus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "desirable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHPHATHA": {
+    "name": "Ephphatha",
+    "slug": "ephphatha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "be opened"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHRAIM": {
+    "name": "Ephraim",
+    "slug": "ephraim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fruitful; increasing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHRATAH": {
+    "name": "Ephratah",
+    "slug": "ephratah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Ephrath, abundance; bearing fruit"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPHRON": {
+    "name": "Ephron",
+    "slug": "ephron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dust"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EPICUREAN": {
+    "name": "Epicurean",
+    "slug": "epicurean",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "follower of Epicurus, i.e., of one who gives assistance"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ER": {
+    "name": "Er",
+    "slug": "er",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "watchman"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ERAN": {
+    "name": "Eran",
+    "slug": "eran",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "follower"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ERASTUS": {
+    "name": "Erastus",
+    "slug": "erastus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lovely, amiable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ERECH": {
+    "name": "Erech",
+    "slug": "erech",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "length; health; physic"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ERI": {
+    "name": "Eri",
+    "slug": "eri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my city"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESAIAS": {
+    "name": "Esaias",
+    "slug": "esaias",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Isaiah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESAR-HADDON": {
+    "name": "Esar-haddon",
+    "slug": "esar-haddon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that closes the point; joy; cheerfulness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESAU": {
+    "name": "Esau",
+    "slug": "esau",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that acts or finishes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESEK": {
+    "name": "Esek",
+    "slug": "esek",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "contention"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESH-BAAL": {
+    "name": "Esh-baal",
+    "slug": "esh-baal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the fire of the idol, or of the ruler"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESH-BAN": {
+    "name": "Esh-ban",
+    "slug": "esh-ban",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fire of the sun"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESHCOL": {
+    "name": "Eshcol",
+    "slug": "eshcol",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bunch of grapes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESHEAN": {
+    "name": "Eshean",
+    "slug": "eshean",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "held up"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESHEK": {
+    "name": "Eshek",
+    "slug": "eshek",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "violence, force"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESHKALON": {
+    "name": "Eshkalon",
+    "slug": "eshkalon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Askelon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESHTAOL": {
+    "name": "Eshtaol",
+    "slug": "eshtaol",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a strong woman"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESHTEMOA": {
+    "name": "Eshtemoa",
+    "slug": "eshtemoa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the bosom of a woman"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESLI": {
+    "name": "Esli",
+    "slug": "esli",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "near me; he who separates"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESMACHIAH": {
+    "name": "Esmachiah",
+    "slug": "esmachiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "joined to the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESROM": {
+    "name": "Esrom",
+    "slug": "esrom",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dart of joy; division of a song"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ESTHER": {
+    "name": "Esther",
+    "slug": "esther",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "secret; hidden"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETAM": {
+    "name": "Etam",
+    "slug": "etam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their bird, their covering"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHAM": {
+    "name": "Etham",
+    "slug": "etham",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their strength; their sign"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHAN": {
+    "name": "Ethan",
+    "slug": "ethan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong; the gift of the island"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHANIM": {
+    "name": "Ethanim",
+    "slug": "ethanim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong; valiant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHBAAL": {
+    "name": "Ethbaal",
+    "slug": "ethbaal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "toward the idol, or with Baal"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHER": {
+    "name": "Ether",
+    "slug": "ether",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "talk"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHIOPIA": {
+    "name": "Ethiopia",
+    "slug": "ethiopia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "blackness; heat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHNAN": {
+    "name": "Ethnan",
+    "slug": "ethnan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "gift"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ETHNI": {
+    "name": "Ethni",
+    "slug": "ethni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EUBULUS": {
+    "name": "Eubulus",
+    "slug": "eubulus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prudent; good counselor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EUNICE": {
+    "name": "Eunice",
+    "slug": "eunice",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "good victory"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EUODIAS": {
+    "name": "Euodias",
+    "slug": "euodias",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sweet scent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EUPHRATES": {
+    "name": "Euphrates",
+    "slug": "euphrates",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that makes fruitful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EUTYCHUS": {
+    "name": "Eutychus",
+    "slug": "eutychus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "happy; fortunate"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EVE": {
+    "name": "Eve",
+    "slug": "eve",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "living; enlivening"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EVI": {
+    "name": "Evi",
+    "slug": "evi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "unjust"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EVIL-MERODACH": {
+    "name": "Evil-merodach",
+    "slug": "evil-merodach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the fool of Merodach; the fool grinds bitterly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EXODUS": {
+    "name": "Exodus",
+    "slug": "exodus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "going out, departure"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZBON": {
+    "name": "Ezbon",
+    "slug": "ezbon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hastening to understand"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZEKIEL": {
+    "name": "Ezekiel",
+    "slug": "ezekiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the strength of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZEL": {
+    "name": "Ezel",
+    "slug": "ezel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "going abroad; walk"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZEM": {
+    "name": "Ezem",
+    "slug": "ezem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bone"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZER": {
+    "name": "Ezer",
+    "slug": "ezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a help"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZION-GEBER": {
+    "name": "Ezion-geber",
+    "slug": "ezion-geber",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the wood of the man"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZRA": {
+    "name": "Ezra",
+    "slug": "ezra",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "help; court"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "EZRI": {
+    "name": "Ezri",
+    "slug": "ezri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my help"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

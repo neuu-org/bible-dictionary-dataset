@@ -1,0 +1,1248 @@
+{
+  "GAAL": {
+    "name": "Gaal",
+    "slug": "gaal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "contempt; abomination"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAASH": {
+    "name": "Gaash",
+    "slug": "gaash",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "tempest; commotion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GABBAI": {
+    "name": "Gabbai",
+    "slug": "gabbai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the back"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GABBATHA": {
+    "name": "Gabbatha",
+    "slug": "gabbatha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "high; elevated"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GABRIEL": {
+    "name": "Gabriel",
+    "slug": "gabriel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAD": {
+    "name": "Gad",
+    "slug": "gad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a band; a troop"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GADARENES": {
+    "name": "Gadarenes",
+    "slug": "gadarenes",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "men of Gadara, i.e., a place surrounded or walled"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GADDI": {
+    "name": "Gaddi",
+    "slug": "gaddi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my troop; a kid"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GADDIEL": {
+    "name": "Gaddiel",
+    "slug": "gaddiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "goat of God; the Lord my happiness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAIUS": {
+    "name": "Gaius",
+    "slug": "gaius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lord; an earthly man"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GALAL": {
+    "name": "Galal",
+    "slug": "galal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a roll, a wheel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GALATIA": {
+    "name": "Galatia",
+    "slug": "galatia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "white; the color of milk"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GALEED": {
+    "name": "Galeed",
+    "slug": "galeed",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the heap of witness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GALILEE": {
+    "name": "Galilee",
+    "slug": "galilee",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wheel; revolution"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GALLIM": {
+    "name": "Gallim",
+    "slug": "gallim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who heap up; who cover"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GALLIO": {
+    "name": "Gallio",
+    "slug": "gallio",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who sucks, or lives on milk"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAMALIEL": {
+    "name": "Gamaliel",
+    "slug": "gamaliel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "recompense of God; camel of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAMMADIMS": {
+    "name": "Gammadims",
+    "slug": "gammadims",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dwarfs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAMUL": {
+    "name": "Gamul",
+    "slug": "gamul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a recompense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAREB": {
+    "name": "Gareb",
+    "slug": "gareb",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a scab"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GARMITES": {
+    "name": "Garmites",
+    "slug": "garmites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "men of Garmi, ie., bones, or, my cause"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GATAM": {
+    "name": "Gatam",
+    "slug": "gatam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their lowing; their touch"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GATH": {
+    "name": "Gath",
+    "slug": "gath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a wine-press"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GATH-RIMMON": {
+    "name": "Gath-rimmon",
+    "slug": "gath-rimmon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the high wine-press"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAZA": {
+    "name": "Gaza",
+    "slug": "gaza",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong; a goat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAZABAR": {
+    "name": "Gazabar",
+    "slug": "gazabar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a treasurer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAZER": {
+    "name": "Gazer",
+    "slug": "gazer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a dividing; a sentence"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAZEZ": {
+    "name": "Gazez",
+    "slug": "gazez",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a passing over"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GAZZAM": {
+    "name": "Gazzam",
+    "slug": "gazzam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the fleece of them"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEBA": {
+    "name": "Geba",
+    "slug": "geba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a hill; cup"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEBAL": {
+    "name": "Gebal",
+    "slug": "gebal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bound; limit"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEBER": {
+    "name": "Geber",
+    "slug": "geber",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "manly, strong"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEBIM": {
+    "name": "Gebim",
+    "slug": "gebim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "grasshoppers; height"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEDALIAH": {
+    "name": "Gedaliah",
+    "slug": "gedaliah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my greatness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEDER": {
+    "name": "Geder",
+    "slug": "geder",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Gederah, Gederoth, a wall"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEDEROTHAIM": {
+    "name": "Gederothaim",
+    "slug": "gederothaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hedges"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEHAZI": {
+    "name": "Gehazi",
+    "slug": "gehazi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "valley of sight"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GELILOTH": {
+    "name": "Geliloth",
+    "slug": "geliloth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rolling, wheel, heap"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEMALLI": {
+    "name": "Gemalli",
+    "slug": "gemalli",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wares; a camel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEMARIAH": {
+    "name": "Gemariah",
+    "slug": "gemariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "accomplishment or perfection of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GENESIS": {
+    "name": "Genesis",
+    "slug": "genesis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beginning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GENNESARET": {
+    "name": "Gennesaret",
+    "slug": "gennesaret",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "garden of the prince"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GENUBATH": {
+    "name": "Genubath",
+    "slug": "genubath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "theft; robbery"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GERA": {
+    "name": "Gera",
+    "slug": "gera",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pilgrimage, combat; dispute"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GERAR": {
+    "name": "Gerar",
+    "slug": "gerar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Gera"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GERGESENES": {
+    "name": "Gergesenes",
+    "slug": "gergesenes",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "those who come from pilgrimage or fight"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GERIZIM": {
+    "name": "Gerizim",
+    "slug": "gerizim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cutters, hatchets"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GERSHOM": {
+    "name": "Gershom",
+    "slug": "gershom",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a stranger here"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GERSHON": {
+    "name": "Gershon",
+    "slug": "gershon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his banishment; the change of pilgrimage"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GESHUR": {
+    "name": "Geshur",
+    "slug": "geshur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Geshuri, sight of the valley; a walled valley"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GETHER": {
+    "name": "Gether",
+    "slug": "gether",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the vale of trial or searching"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GETHSEMANE": {
+    "name": "Gethsemane",
+    "slug": "gethsemane",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a very fat or plentiful vale"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEUEL": {
+    "name": "Geuel",
+    "slug": "geuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God's redemption"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GEZER": {
+    "name": "Gezer",
+    "slug": "gezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dividing, sentence"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIAH": {
+    "name": "Giah",
+    "slug": "giah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "to guide; draw out; produce; a groan or sigh"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIBBAR": {
+    "name": "Gibbar",
+    "slug": "gibbar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strong, manly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIBBETHON": {
+    "name": "Gibbethon",
+    "slug": "gibbethon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a back; a high house"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIBEAH": {
+    "name": "Gibeah",
+    "slug": "gibeah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a hill"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIBEON": {
+    "name": "Gibeon",
+    "slug": "gibeon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hill; cup; thing lifted up"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIDDEL": {
+    "name": "Giddel",
+    "slug": "giddel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "great"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIDEON": {
+    "name": "Gideon",
+    "slug": "gideon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that bruises or breaks; a destroyer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIDEONI": {
+    "name": "Gideoni",
+    "slug": "gideoni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Gideon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIHON": {
+    "name": "Gihon",
+    "slug": "gihon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "valley of grace"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GILALAI": {
+    "name": "Gilalai",
+    "slug": "gilalai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a wheel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GILBOA": {
+    "name": "Gilboa",
+    "slug": "gilboa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "revolution of inquiry"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GILEAD": {
+    "name": "Gilead",
+    "slug": "gilead",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the heap or mass of testimony"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GILGAL": {
+    "name": "Gilgal",
+    "slug": "gilgal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wheel; rolling; heap"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GILOH": {
+    "name": "Giloh",
+    "slug": "giloh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that rejoices; he that overturns"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIMZO": {
+    "name": "Gimzo",
+    "slug": "gimzo",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that bulrush"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GINATH": {
+    "name": "Ginath",
+    "slug": "ginath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Ginnetho, a garden"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GIRGASHITE": {
+    "name": "Girgashite",
+    "slug": "girgashite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who arrives from pilgrimage"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GISPA": {
+    "name": "Gispa",
+    "slug": "gispa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "coming hither"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GITTAH-HEPHER": {
+    "name": "Gittah-hepher",
+    "slug": "gittah-hepher",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "digging; a wine-press"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GITTAIM": {
+    "name": "Gittaim",
+    "slug": "gittaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a wine-press"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GITTITES": {
+    "name": "Gittites",
+    "slug": "gittites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "men of Gath, ie., of a wine-press"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOATH": {
+    "name": "Goath",
+    "slug": "goath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his touching; his roaring"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOB": {
+    "name": "Gob",
+    "slug": "gob",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cistern; grasshopper"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOG": {
+    "name": "Gog",
+    "slug": "gog",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "roof; covering"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOLAN": {
+    "name": "Golan",
+    "slug": "golan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "passage; revolution"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOLGOTHA": {
+    "name": "Golgotha",
+    "slug": "golgotha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a heap of skulls; something skull-shaped"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOLIATH": {
+    "name": "Goliath",
+    "slug": "goliath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "passage; revolution; heap"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOMER": {
+    "name": "Gomer",
+    "slug": "gomer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "to finish; complete"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOMORRAH": {
+    "name": "Gomorrah",
+    "slug": "gomorrah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rebellious people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOSHEN": {
+    "name": "Goshen",
+    "slug": "goshen",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "approaching; drawing near"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GOZAN": {
+    "name": "Gozan",
+    "slug": "gozan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fleece; pasture; who nourisheth the body"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GUDGODAH": {
+    "name": "Gudgodah",
+    "slug": "gudgodah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "happiness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GUNI": {
+    "name": "Guni",
+    "slug": "guni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a garden; a covering"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GUR": {
+    "name": "Gur",
+    "slug": "gur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the young of a beast; a whelp"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "GUR-BAAL": {
+    "name": "Gur-baal",
+    "slug": "gur-baal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the governor's whelp"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

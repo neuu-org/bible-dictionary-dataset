@@ -1,0 +1,856 @@
+{
+  "DABAREH": {
+    "name": "Dabareh",
+    "slug": "dabareh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the word; the thing; a bee; obedient"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DABBASHETH": {
+    "name": "Dabbasheth",
+    "slug": "dabbasheth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "flowing with honey"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DABERATH": {
+    "name": "Daberath",
+    "slug": "daberath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Dabareh"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DAGON": {
+    "name": "Dagon",
+    "slug": "dagon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "corn; a fish"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DALAIAH": {
+    "name": "Dalaiah",
+    "slug": "dalaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the poor of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DALMANUTHA": {
+    "name": "Dalmanutha",
+    "slug": "dalmanutha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bucket; a branch"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DALMATIA": {
+    "name": "Dalmatia",
+    "slug": "dalmatia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "deceitful lamps; vain brightness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DALPHON": {
+    "name": "Dalphon",
+    "slug": "dalphon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of caves"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DAMARIS": {
+    "name": "Damaris",
+    "slug": "damaris",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a little woman"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DAMASCUS": {
+    "name": "Damascus",
+    "slug": "damascus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a sack full of blood; the similitude of burning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DAN": {
+    "name": "Dan",
+    "slug": "dan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judgment; he that judges"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DANIEL": {
+    "name": "Daniel",
+    "slug": "daniel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judgment of God; God my judge"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DANNAH": {
+    "name": "Dannah",
+    "slug": "dannah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judging"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DARAH": {
+    "name": "Darah",
+    "slug": "darah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "generation; house of the shepherd or of the companion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DARDA": {
+    "name": "Darda",
+    "slug": "darda",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "home of knowledge"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DARIUS": {
+    "name": "Darius",
+    "slug": "darius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that informs himself"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DARKON": {
+    "name": "Darkon",
+    "slug": "darkon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "of generation; of possession"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DATHAN": {
+    "name": "Dathan",
+    "slug": "dathan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "laws or rites"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DAVID": {
+    "name": "David",
+    "slug": "david",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "well-beloved, dear"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEBIR": {
+    "name": "Debir",
+    "slug": "debir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an orator; a word"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEBORAH": {
+    "name": "Deborah",
+    "slug": "deborah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "word; thing; a bee"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DECAPOLIS": {
+    "name": "Decapolis",
+    "slug": "decapolis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "containing ten cities"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEDAN": {
+    "name": "Dedan",
+    "slug": "dedan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their breasts; friendship; a judge"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEDANIM": {
+    "name": "Dedanim",
+    "slug": "dedanim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the descendants of Dedan"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEKAR": {
+    "name": "Dekar",
+    "slug": "dekar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "force"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DELAIAH": {
+    "name": "Delaiah",
+    "slug": "delaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the poor of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DELILAH": {
+    "name": "Delilah",
+    "slug": "delilah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "poor; small; head of hair"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEMAS": {
+    "name": "Demas",
+    "slug": "demas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "popular"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEMETRIUS": {
+    "name": "Demetrius",
+    "slug": "demetrius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "belonging to corn, or to Ceres"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DERBE": {
+    "name": "Derbe",
+    "slug": "derbe",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a sting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEUEL": {
+    "name": "Deuel",
+    "slug": "deuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the knowledge of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DEUTERONOMY": {
+    "name": "Deuteronomy",
+    "slug": "deuteronomy",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "repetition of the law"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIANA": {
+    "name": "Diana",
+    "slug": "diana",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "luminous, perfect"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIBLAIM": {
+    "name": "Diblaim",
+    "slug": "diblaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cluster of figs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIBLATH": {
+    "name": "Diblath",
+    "slug": "diblath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "paste of dry figs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIBON": {
+    "name": "Dibon",
+    "slug": "dibon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "abundance of knowledge"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIBON-GAD": {
+    "name": "Dibon-gad",
+    "slug": "dibon-gad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "great understanding; abundance of sons"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIBRI": {
+    "name": "Dibri",
+    "slug": "dibri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an orator"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIBZAHAB": {
+    "name": "Dibzahab",
+    "slug": "dibzahab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Dizahab, where much gold is"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIDYMUS": {
+    "name": "Didymus",
+    "slug": "didymus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a twin; double"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIKLAH": {
+    "name": "Diklah",
+    "slug": "diklah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Dildah, his diminishing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DILEAN": {
+    "name": "Dilean",
+    "slug": "dilean",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that is poor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIMON": {
+    "name": "Dimon",
+    "slug": "dimon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "where it is red"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIMONAH": {
+    "name": "Dimonah",
+    "slug": "dimonah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dunghill"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DINAH": {
+    "name": "Dinah",
+    "slug": "dinah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judgment; who judges"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DINHABAH": {
+    "name": "Dinhabah",
+    "slug": "dinhabah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he gives judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIONYSIUS": {
+    "name": "Dionysius",
+    "slug": "dionysius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "divinely touched"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DIOTREPHES": {
+    "name": "Diotrephes",
+    "slug": "diotrephes",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "nourished by Jupiter"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DISHAN": {
+    "name": "Dishan",
+    "slug": "dishan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a threshing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DISHON": {
+    "name": "Dishon",
+    "slug": "dishon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fatness; ashes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DODAI": {
+    "name": "Dodai",
+    "slug": "dodai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Dodanim, beloved"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DODAVAH": {
+    "name": "Dodavah",
+    "slug": "dodavah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "love"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DODO": {
+    "name": "Dodo",
+    "slug": "dodo",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his uncle"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DOEG": {
+    "name": "Doeg",
+    "slug": "doeg",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "careful, who acts with uneasiness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DOPHKAH": {
+    "name": "Dophkah",
+    "slug": "dophkah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a knocking"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DOR": {
+    "name": "Dor",
+    "slug": "dor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "generation, habitation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DORCAS": {
+    "name": "Dorcas",
+    "slug": "dorcas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a female roe-deer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DOTHAN": {
+    "name": "Dothan",
+    "slug": "dothan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the law; custom"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DRUSILLA": {
+    "name": "Drusilla",
+    "slug": "drusilla",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "watered by the dew"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DUMALI": {
+    "name": "Dumali",
+    "slug": "dumali",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "silence; resemblance"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "DURA": {
+    "name": "Dura",
+    "slug": "dura",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Dor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

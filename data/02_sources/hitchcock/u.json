@@ -1,0 +1,324 @@
+{
+  "UCAL": {
+    "name": "Ucal",
+    "slug": "ucal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "power, prevalency"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UEL": {
+    "name": "Uel",
+    "slug": "uel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "desiring God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ULAI": {
+    "name": "Ulai",
+    "slug": "ulai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strength; fool; senseless"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ULAM": {
+    "name": "Ulam",
+    "slug": "ulam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the porch; the court; their strength; their folly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "ULLA": {
+    "name": "Ulla",
+    "slug": "ulla",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "elevation; leaf; young child"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UMMAH": {
+    "name": "Ummah",
+    "slug": "ummah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "darkened; covered; his people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UNNI": {
+    "name": "Unni",
+    "slug": "unni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "poor; afflicted; that answers"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UPHARSIN": {
+    "name": "Upharsin",
+    "slug": "upharsin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "divided"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UPHAZ": {
+    "name": "Uphaz",
+    "slug": "uphaz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pure gold; gold of Phasis or Pison"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UR": {
+    "name": "Ur",
+    "slug": "ur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fire, light, a valley"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "URBANE": {
+    "name": "Urbane",
+    "slug": "urbane",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "courteous"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "URI": {
+    "name": "Uri",
+    "slug": "uri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my light, my fire"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "URIAH": {
+    "name": "Uriah",
+    "slug": "uriah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "or Urijah, the Lord is my light or fire"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "URIEL": {
+    "name": "Uriel",
+    "slug": "uriel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Uriah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "URIM": {
+    "name": "Urim",
+    "slug": "urim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lights; fires"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UTHAI": {
+    "name": "Uthai",
+    "slug": "uthai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my iniquity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZ": {
+    "name": "Uz",
+    "slug": "uz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "counsel; words"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZAI": {
+    "name": "Uzai",
+    "slug": "uzai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZAL": {
+    "name": "Uzal",
+    "slug": "uzal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wandering"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZZAH": {
+    "name": "Uzzah",
+    "slug": "uzzah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strength; goat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZZEN-SHERAH": {
+    "name": "Uzzen-sherah",
+    "slug": "uzzen-sherah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ear of the flesh"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZZI": {
+    "name": "Uzzi",
+    "slug": "uzzi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my strength; my kid"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "UZZIAH": {
+    "name": "Uzziah",
+    "slug": "uzziah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Uzziel, the strength, or kid, of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

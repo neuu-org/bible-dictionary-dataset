@@ -1,0 +1,44 @@
+{
+  "FELIX": {
+    "name": "Felix",
+    "slug": "felix",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "happy, prosperous"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "FESTUS": {
+    "name": "Festus",
+    "slug": "festus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "festive, joyful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "FORTUNATUS": {
+    "name": "Fortunatus",
+    "slug": "fortunatus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lucky, fortunate"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

@@ -1,0 +1,1332 @@
+{
+  "CABBON": {
+    "name": "Cabbon",
+    "slug": "cabbon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "as though understanding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CABUL": {
+    "name": "Cabul",
+    "slug": "cabul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "displeasing; dirty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAIN": {
+    "name": "Cain",
+    "slug": "cain",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "possession, or possessed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAINAN": {
+    "name": "Cainan",
+    "slug": "cainan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "possessor; purchaser"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAIPHAS": {
+    "name": "Caiphas",
+    "slug": "caiphas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that seeks with diligence; one that vomiteth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALAH": {
+    "name": "Calah",
+    "slug": "calah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "favorable; opportunity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALCOL": {
+    "name": "Calcol",
+    "slug": "calcol",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "nourishing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALEB": {
+    "name": "Caleb",
+    "slug": "caleb",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a dog; a crow; a basket"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALEB-EPHRATAH": {
+    "name": "Caleb-Ephratah",
+    "slug": "caleb-ephratah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "see Ephratah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALNEH": {
+    "name": "Calneh",
+    "slug": "calneh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "our consummation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALNO": {
+    "name": "Calno",
+    "slug": "calno",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "our consummation; altogether himself"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CALVARY": {
+    "name": "Calvary",
+    "slug": "calvary",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the place of a skull"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAMON": {
+    "name": "Camon",
+    "slug": "camon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his resurrection"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CANA": {
+    "name": "Cana",
+    "slug": "cana",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "zeal; jealousy; possession"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CANAAN": {
+    "name": "Canaan",
+    "slug": "canaan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "merchant; trader; or that humbles and subdues"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CANDACE": {
+    "name": "Candace",
+    "slug": "candace",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who possesses contrition"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAPERNAUM": {
+    "name": "Capernaum",
+    "slug": "capernaum",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the field of repentance; city of comfort"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAPHTOR": {
+    "name": "Caphtor",
+    "slug": "caphtor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a sphere, buckle, or hand"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAPPADOCIA": {
+    "name": "Cappadocia",
+    "slug": "cappadocia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the same as Caphtor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CARCAS": {
+    "name": "Carcas",
+    "slug": "carcas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the covering of a lamb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CAREAH": {
+    "name": "Careah",
+    "slug": "careah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bald; ice"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CARMEL": {
+    "name": "Carmel",
+    "slug": "carmel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "circumcised lamb; harvest; full of ears of corn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CARMI": {
+    "name": "Carmi",
+    "slug": "carmi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my vineyard; lamb of the waters"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CARPUS": {
+    "name": "Carpus",
+    "slug": "carpus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fruit; fruitful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CARSHENA": {
+    "name": "Carshena",
+    "slug": "carshena",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a lamb; sleeping"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CASIPHIA": {
+    "name": "Casiphia",
+    "slug": "casiphia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "money; covetousness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CASLUHIM": {
+    "name": "Casluhim",
+    "slug": "casluhim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hopes of life"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CEDRON": {
+    "name": "Cedron",
+    "slug": "cedron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "black; sad"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CENCHREA": {
+    "name": "Cenchrea",
+    "slug": "cenchrea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "millet; small pulse"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CEPHAS": {
+    "name": "Cephas",
+    "slug": "cephas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a rock or stone"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CESAR": {
+    "name": "Cesar",
+    "slug": "cesar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a name applied to those who are cut out of the womb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHALCOL": {
+    "name": "Chalcol",
+    "slug": "chalcol",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who nourishes, consumes, and sustains the whole"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHALDEA": {
+    "name": "Chaldea",
+    "slug": "chaldea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "as demons, or as robbers"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHARCHEMISH": {
+    "name": "Charchemish",
+    "slug": "charchemish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a lamb; as taken away; withdrawn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHARRAN": {
+    "name": "Charran",
+    "slug": "charran",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a singing or calling out"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHEBAR": {
+    "name": "Chebar",
+    "slug": "chebar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "force or strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHEDORLAOMER": {
+    "name": "Chedorlaomer",
+    "slug": "chedorlaomer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "roundness of a sheaf"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHELAL": {
+    "name": "Chelal",
+    "slug": "chelal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "as night"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHELLUH": {
+    "name": "Chelluh",
+    "slug": "chelluh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "all"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHELUB": {
+    "name": "Chelub",
+    "slug": "chelub",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a basket"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHELUBAI": {
+    "name": "Chelubai",
+    "slug": "chelubai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he altogether against me"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHEMARIMS": {
+    "name": "Chemarims",
+    "slug": "chemarims",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "black ones"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHEMOSH": {
+    "name": "Chemosh",
+    "slug": "chemosh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "handling; stroking; taking away"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHENAANAH": {
+    "name": "Chenaanah",
+    "slug": "chenaanah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "broken in pieces"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHENANI": {
+    "name": "Chenani",
+    "slug": "chenani",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my pillar"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHENANIAH": {
+    "name": "Chenaniah",
+    "slug": "chenaniah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "preparation, or disposition, or strength, of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHEPHIRAH": {
+    "name": "Chephirah",
+    "slug": "chephirah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a little lioness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHERAN": {
+    "name": "Cheran",
+    "slug": "cheran",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "anger"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHERETHIMS": {
+    "name": "Cherethims",
+    "slug": "cherethims",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Cherethites, who cut or tear away"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHERITH": {
+    "name": "Cherith",
+    "slug": "cherith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cutting; piercing; slaying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHESED": {
+    "name": "Chesed",
+    "slug": "chesed",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "as a devil, or a destroyer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHESIL": {
+    "name": "Chesil",
+    "slug": "chesil",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "foolishness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHESULLOTH": {
+    "name": "Chesulloth",
+    "slug": "chesulloth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fearfulness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHIDON": {
+    "name": "Chidon",
+    "slug": "chidon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a dart"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHILIAB": {
+    "name": "Chiliab",
+    "slug": "chiliab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "totality; or the perfection of the father"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHILION": {
+    "name": "Chilion",
+    "slug": "chilion",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "finished; complete; perfect"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHILMAD": {
+    "name": "Chilmad",
+    "slug": "chilmad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "teaching or learning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHIMHAM": {
+    "name": "Chimham",
+    "slug": "chimham",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "as they; like to them"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHIOS": {
+    "name": "Chios",
+    "slug": "chios",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "open; opening"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHISLEU": {
+    "name": "Chisleu",
+    "slug": "chisleu",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Cisleu, Casleu, rashness; confidence"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHISLON": {
+    "name": "Chislon",
+    "slug": "chislon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hope, trust"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHISLOTH-TABOR": {
+    "name": "Chisloth-tabor",
+    "slug": "chisloth-tabor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fears; purity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHITTEM": {
+    "name": "Chittem",
+    "slug": "chittem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "those that bruise; gold"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHLOE": {
+    "name": "Chloe",
+    "slug": "chloe",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "green herb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHORAZIN": {
+    "name": "Chorazin",
+    "slug": "chorazin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the secret; here is a mystery"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHOZEBA": {
+    "name": "Chozeba",
+    "slug": "chozeba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "men liers in wait"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHRIST": {
+    "name": "Christ",
+    "slug": "christ",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "anointed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHUN": {
+    "name": "Chun",
+    "slug": "chun",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "making ready"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHUSHAN-RISHATHAIM": {
+    "name": "Chushan-rishathaim",
+    "slug": "chushan-rishathaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "blackness of iniquities"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CHUZA": {
+    "name": "Chuza",
+    "slug": "chuza",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the seer or prophet"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CILICIA": {
+    "name": "Cilicia",
+    "slug": "cilicia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "which rolls or overturns"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CIS": {
+    "name": "Cis",
+    "slug": "cis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Kish"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CLAUDA": {
+    "name": "Clauda",
+    "slug": "clauda",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a lamentable voice"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CLAUDIA": {
+    "name": "Claudia",
+    "slug": "claudia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Claudius, lame"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CLEMENT": {
+    "name": "Clement",
+    "slug": "clement",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mild; good; merciful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CLEOPHAS": {
+    "name": "Cleophas",
+    "slug": "cleophas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the whole glory"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CNIDUS": {
+    "name": "Cnidus",
+    "slug": "cnidus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "age"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "COLHOZEH": {
+    "name": "Colhozeh",
+    "slug": "colhozeh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "every prophet"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "COLOSSE": {
+    "name": "Colosse",
+    "slug": "colosse",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "punishment; correction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CONIAH": {
+    "name": "Coniah",
+    "slug": "coniah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "strength of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "COOS": {
+    "name": "Coos",
+    "slug": "coos",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "top, summit"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CORINTH": {
+    "name": "Corinth",
+    "slug": "corinth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "which is satisfied; ornament; beauty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CORNELIUS": {
+    "name": "Cornelius",
+    "slug": "cornelius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "of a horn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "COSAM": {
+    "name": "Cosam",
+    "slug": "cosam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "divining"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "COZ": {
+    "name": "Coz",
+    "slug": "coz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a thorn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "COZBI": {
+    "name": "Cozbi",
+    "slug": "cozbi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a liar; sliding away"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CRESCENS": {
+    "name": "Crescens",
+    "slug": "crescens",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "growing; increasing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CRETE": {
+    "name": "Crete",
+    "slug": "crete",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "carnal; fleshly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CRISPUS": {
+    "name": "Crispus",
+    "slug": "crispus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "curled"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CUSH": {
+    "name": "Cush",
+    "slug": "cush",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Cushan, Cushi, Ethiopians; blackness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CUTH": {
+    "name": "Cuth",
+    "slug": "cuth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Cuthah, burning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CYPRUS": {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fair; fairness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CYRENE": {
+    "name": "Cyrene",
+    "slug": "cyrene",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a wall; coldness; the floor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CYRENIUS": {
+    "name": "Cyrenius",
+    "slug": "cyrenius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who governs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "CYRUS": {
+    "name": "Cyrus",
+    "slug": "cyrus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "as miserable; as heir"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

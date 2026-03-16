@@ -1,0 +1,3698 @@
+{
+  "SABAOTH": {
+    "name": "Sabaoth",
+    "slug": "sabaoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Lord of hosts"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SABEANS": {
+    "name": "Sabeans",
+    "slug": "sabeans",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "captivity; conversion; old age"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SABTAH": {
+    "name": "Sabtah",
+    "slug": "sabtah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a going about or circuiting; old age"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SABTECHAH": {
+    "name": "Sabtechah",
+    "slug": "sabtechah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that surrounds; that causes wounding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SACAR": {
+    "name": "Sacar",
+    "slug": "sacar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wares; a price"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SADDUCEES": {
+    "name": "Sadducees",
+    "slug": "sadducees",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "followers of Sadoc, or Zadok"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SADOC": {
+    "name": "Sadoc",
+    "slug": "sadoc",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "or Zadok, just; righteous"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALAH": {
+    "name": "Salah",
+    "slug": "salah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mission; sending"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALAMIS": {
+    "name": "Salamis",
+    "slug": "salamis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "shaken; test; beaten"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALATHIEL": {
+    "name": "Salathiel",
+    "slug": "salathiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "asked or lent of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALCAH": {
+    "name": "Salcah",
+    "slug": "salcah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thy basket; thy lifting up"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALEM": {
+    "name": "Salem",
+    "slug": "salem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "complete or perfect peace"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALIM": {
+    "name": "Salim",
+    "slug": "salim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "foxes; fists; path"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALLAI": {
+    "name": "Sallai",
+    "slug": "sallai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Sallu, an exaltation; a basket"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALMA": {
+    "name": "Salma",
+    "slug": "salma",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peace; perfection"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALMON": {
+    "name": "Salmon",
+    "slug": "salmon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peaceable; perfect; he that rewards"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SALOME": {
+    "name": "Salome",
+    "slug": "salome",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Salmon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAMARIA": {
+    "name": "Samaria",
+    "slug": "samaria",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "watch-mountain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAMLAH": {
+    "name": "Samlah",
+    "slug": "samlah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his raiment; his left hand; his astonishment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAMOS": {
+    "name": "Samos",
+    "slug": "samos",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "full of gravel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAMOTHRACIA": {
+    "name": "Samothracia",
+    "slug": "samothracia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an island possessed by the Samians and Thracians"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAMSON": {
+    "name": "Samson",
+    "slug": "samson",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his sun; his service; there the second time"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAMUEL": {
+    "name": "Samuel",
+    "slug": "samuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "heard of God; asked of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SANBALLAT": {
+    "name": "Sanballat",
+    "slug": "sanballat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bramble-bush; enemy in secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SANHEDRIN": {
+    "name": "Sanhedrin",
+    "slug": "sanhedrin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sitting together"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SANSANNAH": {
+    "name": "Sansannah",
+    "slug": "sansannah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bough or bramble of the enemy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAPH": {
+    "name": "Saph",
+    "slug": "saph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rushes; sea-moss"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAPHIR": {
+    "name": "Saphir",
+    "slug": "saphir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "delightful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAPPHIRA": {
+    "name": "Sapphira",
+    "slug": "sapphira",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that relates or tells"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARAH": {
+    "name": "Sarah",
+    "slug": "sarah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lady; princess; princess of the multitude"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARAI": {
+    "name": "Sarai",
+    "slug": "sarai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my lady; my princess"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARDIS": {
+    "name": "Sardis",
+    "slug": "sardis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prince of joy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARDITES": {
+    "name": "Sardites",
+    "slug": "sardites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "removing a dissension"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAREPTA": {
+    "name": "Sarepta",
+    "slug": "sarepta",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a goldsmith's shop"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARGON": {
+    "name": "Sargon",
+    "slug": "sargon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who takes away protection"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARID": {
+    "name": "Sarid",
+    "slug": "sarid",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "remaining; hand of a prince"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARON": {
+    "name": "Saron",
+    "slug": "saron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Sharon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARSECHIM": {
+    "name": "Sarsechim",
+    "slug": "sarsechim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "master of the wardrobe"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SARUCH": {
+    "name": "Saruch",
+    "slug": "saruch",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "branch; layer; lining"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SATAN": {
+    "name": "Satan",
+    "slug": "satan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "contrary; adversary; enemy; accuser"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SAUL": {
+    "name": "Saul",
+    "slug": "saul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "demanded; lent; ditch; death"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SCEVA": {
+    "name": "Sceva",
+    "slug": "sceva",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "disposed; prepared"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SCHAAPH": {
+    "name": "Schaaph",
+    "slug": "schaaph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fleeing; thinking"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEBA": {
+    "name": "Seba",
+    "slug": "seba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a drunkard; that turns"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEBAT": {
+    "name": "Sebat",
+    "slug": "sebat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "twig; scepter; tribe"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SECACAH": {
+    "name": "Secacah",
+    "slug": "secacah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "shadow; covering; defense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SECHU": {
+    "name": "Sechu",
+    "slug": "sechu",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "defense; bough"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SECUNDUS": {
+    "name": "Secundus",
+    "slug": "secundus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "second"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEGUB": {
+    "name": "Segub",
+    "slug": "segub",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fortified; raised"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEIR": {
+    "name": "Seir",
+    "slug": "seir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Seirath, hairy; goat; demon; tempest"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SELA": {
+    "name": "Sela",
+    "slug": "sela",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a rock"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SELA-HAMMAH-LEKOTH": {
+    "name": "Sela-hammah-lekoth",
+    "slug": "sela-hammah-lekoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rock of divisions"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SELAH": {
+    "name": "Selah",
+    "slug": "selah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the end; a pause"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SELED": {
+    "name": "Seled",
+    "slug": "seled",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "affliction; warning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SELEUCIA": {
+    "name": "Seleucia",
+    "slug": "seleucia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "shaken or beaten by the waves"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEM": {
+    "name": "Sem",
+    "slug": "sem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Shem"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEMACHIAH": {
+    "name": "Semachiah",
+    "slug": "semachiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "joined to the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEMAIAH": {
+    "name": "Semaiah",
+    "slug": "semaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "obeying the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEMEI": {
+    "name": "Semei",
+    "slug": "semei",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hearing; obeying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SENAAH": {
+    "name": "Senaah",
+    "slug": "senaah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bramble; enemy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SENEH": {
+    "name": "Seneh",
+    "slug": "seneh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Senaah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SENIR": {
+    "name": "Senir",
+    "slug": "senir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bed-candle; changing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SENNACHERIB": {
+    "name": "Sennacherib",
+    "slug": "sennacherib",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bramble of destruction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEORIM": {
+    "name": "Seorim",
+    "slug": "seorim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "gates; hairs; tempests"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEPHAR": {
+    "name": "Sephar",
+    "slug": "sephar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "book; scribe; number"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEPHARAD": {
+    "name": "Sepharad",
+    "slug": "sepharad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a book descending"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SEPHARVAIM": {
+    "name": "Sepharvaim",
+    "slug": "sepharvaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the two books; the two scribes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SERAH": {
+    "name": "Serah",
+    "slug": "serah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lady of scent; song; the morning star"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SERAIAH": {
+    "name": "Seraiah",
+    "slug": "seraiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prince of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SERAPHIM": {
+    "name": "Seraphim",
+    "slug": "seraphim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "burning; fiery"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SERED": {
+    "name": "Sered",
+    "slug": "sered",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dyer's vat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SERGIUS": {
+    "name": "Sergius",
+    "slug": "sergius",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "net"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SERUG": {
+    "name": "Serug",
+    "slug": "serug",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "branch; layer; twining"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SETH": {
+    "name": "Seth",
+    "slug": "seth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "put; who puts; fixed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SETHUR": {
+    "name": "Sethur",
+    "slug": "sethur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hid; destroying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAALABBIM": {
+    "name": "Shaalabbim",
+    "slug": "shaalabbim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "understanding, or son of a fox"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAALBIM": {
+    "name": "Shaalbim",
+    "slug": "shaalbim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that beholds the heart"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAALBONITE": {
+    "name": "Shaalbonite",
+    "slug": "shaalbonite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a fox's building"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAARAIM": {
+    "name": "Shaaraim",
+    "slug": "shaaraim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "gates; valuation; hairs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAASHGAZ": {
+    "name": "Shaashgaz",
+    "slug": "shaashgaz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that presses the fleece; that shears the sheep"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHABBETHAI": {
+    "name": "Shabbethai",
+    "slug": "shabbethai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my rest"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHACHIA": {
+    "name": "Shachia",
+    "slug": "shachia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "protection of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHADRACH": {
+    "name": "Shadrach",
+    "slug": "shadrach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "tender, nipple"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAGE": {
+    "name": "Shage",
+    "slug": "shage",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "touching softly; multiplying much"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALEM": {
+    "name": "Shalem",
+    "slug": "shalem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Salem"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALIM": {
+    "name": "Shalim",
+    "slug": "shalim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Salim"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALISHA": {
+    "name": "Shalisha",
+    "slug": "shalisha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "three; the third; prince; captain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALLUM": {
+    "name": "Shallum",
+    "slug": "shallum",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "perfect; agreeable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALMAI": {
+    "name": "Shalmai",
+    "slug": "shalmai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my garment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALMAN": {
+    "name": "Shalman",
+    "slug": "shalman",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peaceable; perfect; that rewards"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHALMANESER": {
+    "name": "Shalmaneser",
+    "slug": "shalmaneser",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peace; tied; chained; perfection; retribution"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMARIAH": {
+    "name": "Shamariah",
+    "slug": "shamariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "throne or keeping of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMED": {
+    "name": "Shamed",
+    "slug": "shamed",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "destroying; wearing out"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMER": {
+    "name": "Shamer",
+    "slug": "shamer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "keeper; thorn; dregs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMGAR": {
+    "name": "Shamgar",
+    "slug": "shamgar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "named a stranger; he is here a stranger"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMHUTH": {
+    "name": "Shamhuth",
+    "slug": "shamhuth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "desolation; destruction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMIR": {
+    "name": "Shamir",
+    "slug": "shamir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shamer, prison; bush; lees; thorn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMMAH": {
+    "name": "Shammah",
+    "slug": "shammah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "loss; desolation; astonishment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMMAI": {
+    "name": "Shammai",
+    "slug": "shammai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my name; my desolations"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMMOTH": {
+    "name": "Shammoth",
+    "slug": "shammoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "names; desolations"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMMUAH": {
+    "name": "Shammuah",
+    "slug": "shammuah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that is heard; he that is obeyed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAMSHERAI": {
+    "name": "Shamsherai",
+    "slug": "shamsherai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "there a singer or conqueror"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAPHAM": {
+    "name": "Shapham",
+    "slug": "shapham",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shaphan, rabbit; wild rat; their lip; their brink"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAPHAT": {
+    "name": "Shaphat",
+    "slug": "shaphat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "judge"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHARAI": {
+    "name": "Sharai",
+    "slug": "sharai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my lord; my prince; my song"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHARAR": {
+    "name": "Sharar",
+    "slug": "sharar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "navel; thought; singing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAREZER": {
+    "name": "Sharezer",
+    "slug": "sharezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "overseer of the treasury, or of the storehouse"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHARON": {
+    "name": "Sharon",
+    "slug": "sharon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his plain; his song"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHASHAI": {
+    "name": "Shashai",
+    "slug": "shashai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rejoicing; mercy; linen"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHASHAK": {
+    "name": "Shashak",
+    "slug": "shashak",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bag of linen; the sixth bag"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAUL": {
+    "name": "Shaul",
+    "slug": "shaul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Saul, asked; lent; a grave"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHAVEH": {
+    "name": "Shaveh",
+    "slug": "shaveh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the plain; that makes equality"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEALTIEL": {
+    "name": "Shealtiel",
+    "slug": "shealtiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Salathiel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEAR-JASHUB": {
+    "name": "Shear-jashub",
+    "slug": "shear-jashub",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the remnant shall return"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEARIAH": {
+    "name": "Sheariah",
+    "slug": "sheariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "gate of the Lord; tempest of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBA": {
+    "name": "Sheba",
+    "slug": "sheba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "captivity; old man; repose; oath"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBAM": {
+    "name": "Shebam",
+    "slug": "shebam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "compassing about; old men"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBANIAH": {
+    "name": "Shebaniah",
+    "slug": "shebaniah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the Lord that converts, or recalls from captivity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBARIM": {
+    "name": "Shebarim",
+    "slug": "shebarim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "breakings; hopes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBER": {
+    "name": "Sheber",
+    "slug": "sheber",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "breaking; hope"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBNA": {
+    "name": "Shebna",
+    "slug": "shebna",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who rests himself; who is now captive"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEBUEL": {
+    "name": "Shebuel",
+    "slug": "shebuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "turning, or captivity, or seat, of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHECANIAH": {
+    "name": "Shecaniah",
+    "slug": "shecaniah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "habitation of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHECHEM": {
+    "name": "Shechem",
+    "slug": "shechem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "part; portion; back early in the morning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEDEUR": {
+    "name": "Shedeur",
+    "slug": "shedeur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "field of light; light of the Almighty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEHARIAH": {
+    "name": "Shehariah",
+    "slug": "shehariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mourning or blackness of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHELAH": {
+    "name": "Shelah",
+    "slug": "shelah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that breaks; that unties; that undresses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHELEMIAH": {
+    "name": "Shelemiah",
+    "slug": "shelemiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my perfection; my happiness; my peace"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHELEPH": {
+    "name": "Sheleph",
+    "slug": "sheleph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who draws out"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHELESH": {
+    "name": "Shelesh",
+    "slug": "shelesh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "captain; prince"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHELOMI": {
+    "name": "Shelomi",
+    "slug": "shelomi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shelomith, my peace; my happiness; my recompense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHELUMIEL": {
+    "name": "Shelumiel",
+    "slug": "shelumiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Shelemiah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEM": {
+    "name": "Shem",
+    "slug": "shem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "name; renown"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMA": {
+    "name": "Shema",
+    "slug": "shema",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hearing; obeying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMAIAH": {
+    "name": "Shemaiah",
+    "slug": "shemaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that hears or obeys the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMARIAH": {
+    "name": "Shemariah",
+    "slug": "shemariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God is my guard"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMEBER": {
+    "name": "Shemeber",
+    "slug": "shemeber",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "name of force; name of the strong"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMER": {
+    "name": "Shemer",
+    "slug": "shemer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "guardian; thorn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMIDA": {
+    "name": "Shemida",
+    "slug": "shemida",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "name of knowledge; that puts knowledge"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMINITH": {
+    "name": "Sheminith",
+    "slug": "sheminith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "eighth (an eight-stringed instrument)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMIRAMOTH": {
+    "name": "Shemiramoth",
+    "slug": "shemiramoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the height of the heavens"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEMUEL": {
+    "name": "Shemuel",
+    "slug": "shemuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "appointed by God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEN": {
+    "name": "Shen",
+    "slug": "shen",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "tooth; ivory; change"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHENAZAR": {
+    "name": "Shenazar",
+    "slug": "shenazar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "treasurer of a tooth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHENIR": {
+    "name": "Shenir",
+    "slug": "shenir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lantern; light that sleeps"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEPHATIAH": {
+    "name": "Shephatiah",
+    "slug": "shephatiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the Lord that judges"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEPHI": {
+    "name": "Shephi",
+    "slug": "shephi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beholder; honeycomb; garment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEPHO": {
+    "name": "Shepho",
+    "slug": "shepho",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "desert"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEPHUPHAN": {
+    "name": "Shephuphan",
+    "slug": "shephuphan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "serpent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHERAH": {
+    "name": "Sherah",
+    "slug": "sherah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "flesh; relationship"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEREBIAH": {
+    "name": "Sherebiah",
+    "slug": "sherebiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "singing with the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHESHACH": {
+    "name": "Sheshach",
+    "slug": "sheshach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bag of flax or linen"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHESHAI": {
+    "name": "Sheshai",
+    "slug": "sheshai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "six; mercy; flax"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHESHAN": {
+    "name": "Sheshan",
+    "slug": "sheshan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lily; rose; joy; flax"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHESHBAZZAR": {
+    "name": "Sheshbazzar",
+    "slug": "sheshbazzar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "joy in tribulation; joy of the vintage"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHETHAR": {
+    "name": "Shethar",
+    "slug": "shethar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "putrefied; searching"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHETHAR-BOZNAI": {
+    "name": "Shethar-boznai",
+    "slug": "shethar-boznai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that makes to rot; that seeks those who despise me"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHEVA": {
+    "name": "Sheva",
+    "slug": "sheva",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "vanity; elevation; fame; tumult"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIBBOLETH": {
+    "name": "Shibboleth",
+    "slug": "shibboleth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Sibboleth, ear of corn; stream or flood"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIBMAH": {
+    "name": "Shibmah",
+    "slug": "shibmah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "overmuch captivity, or sitting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHICRON": {
+    "name": "Shicron",
+    "slug": "shicron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "drunkenness; his gift; his wages"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIGGAION": {
+    "name": "Shiggaion",
+    "slug": "shiggaion",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a song of trouble or comfort"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIHON": {
+    "name": "Shihon",
+    "slug": "shihon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sound; wall of strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIHOR-LIBNAH": {
+    "name": "Shihor-libnah",
+    "slug": "shihor-libnah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "blackness of Libnah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILHI": {
+    "name": "Shilhi",
+    "slug": "shilhi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shilhim, bough; weapon; armor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILLEM": {
+    "name": "Shillem",
+    "slug": "shillem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peace; perfection; retribution"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILOAH": {
+    "name": "Shiloah",
+    "slug": "shiloah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Siloah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILOH": {
+    "name": "Shiloh",
+    "slug": "shiloh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILOH (NAME OF A CITY)": {
+    "name": "Shiloh (name of a city)",
+    "slug": "shiloh-name-of-a-city",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peace; abundance"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILOM": {
+    "name": "Shilom",
+    "slug": "shilom",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "tarrying; peace-maker"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHILSHAH": {
+    "name": "Shilshah",
+    "slug": "shilshah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "three; chief; captain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMEAH": {
+    "name": "Shimeah",
+    "slug": "shimeah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shimeath, that hears, or obeys; perdition"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMEI": {
+    "name": "Shimei",
+    "slug": "shimei",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shimi, that hears or obeys; my reputation; my fame"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMEON": {
+    "name": "Shimeon",
+    "slug": "shimeon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Simeon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMMA": {
+    "name": "Shimma",
+    "slug": "shimma",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Shimeah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMON": {
+    "name": "Shimon",
+    "slug": "shimon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "providing well; fatness; oil"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMRATH": {
+    "name": "Shimrath",
+    "slug": "shimrath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hearing; obedient"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMRI": {
+    "name": "Shimri",
+    "slug": "shimri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thorn; dregs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMRITH": {
+    "name": "Shimrith",
+    "slug": "shimrith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shimron, same as Shimri"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIMSHAI": {
+    "name": "Shimshai",
+    "slug": "shimshai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my son"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHINAB": {
+    "name": "Shinab",
+    "slug": "shinab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "father of changing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHINAR": {
+    "name": "Shinar",
+    "slug": "shinar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "watch of him that sleeps"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIPHI": {
+    "name": "Shiphi",
+    "slug": "shiphi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "multitude"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIPHRAH": {
+    "name": "Shiphrah",
+    "slug": "shiphrah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "handsome; trumpet; that does good"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHISHA": {
+    "name": "Shisha",
+    "slug": "shisha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "of marble; pleasant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHISHAK": {
+    "name": "Shishak",
+    "slug": "shishak",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "present of the bag; of the pot; of the thigh"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHITRAI": {
+    "name": "Shitrai",
+    "slug": "shitrai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "gatherer of money"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHITTIM": {
+    "name": "Shittim",
+    "slug": "shittim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thorns"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHIZA": {
+    "name": "Shiza",
+    "slug": "shiza",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "this gift"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOA": {
+    "name": "Shoa",
+    "slug": "shoa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "kings; tyrants"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOBAB": {
+    "name": "Shobab",
+    "slug": "shobab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "returned; turned back; a spark"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOBACH": {
+    "name": "Shobach",
+    "slug": "shobach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "your bonds; your chains"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOBAI": {
+    "name": "Shobai",
+    "slug": "shobai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "turning captivity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOBAL": {
+    "name": "Shobal",
+    "slug": "shobal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "path; ear of corn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOBEK": {
+    "name": "Shobek",
+    "slug": "shobek",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "made void; forsaken"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOCHOH": {
+    "name": "Shochoh",
+    "slug": "shochoh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "defense; a bough"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOHAM": {
+    "name": "Shoham",
+    "slug": "shoham",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "keeping back"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOMER": {
+    "name": "Shomer",
+    "slug": "shomer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "keeper; dregs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOPHACH": {
+    "name": "Shophach",
+    "slug": "shophach",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "pouring out"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOPHAN": {
+    "name": "Shophan",
+    "slug": "shophan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rabbit; hid"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHOSHANNIM": {
+    "name": "Shoshannim",
+    "slug": "shoshannim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "those that shall be changed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUA": {
+    "name": "Shua",
+    "slug": "shua",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "crying; saving"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUAH": {
+    "name": "Shuah",
+    "slug": "shuah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ditch; swimming; humiliation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUAL": {
+    "name": "Shual",
+    "slug": "shual",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fox; path; first"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUBAEL": {
+    "name": "Shubael",
+    "slug": "shubael",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "returning captivity; seat of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUHAM": {
+    "name": "Shuham",
+    "slug": "shuham",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "talking; thinking; humiliation; budding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHULAMITE": {
+    "name": "Shulamite",
+    "slug": "shulamite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peaceable; perfect; that recompenses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUNEM": {
+    "name": "Shunem",
+    "slug": "shunem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their change; their sleep"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUNI": {
+    "name": "Shuni",
+    "slug": "shuni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "changed; sleeping"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUPHIM": {
+    "name": "Shuphim",
+    "slug": "shuphim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Shuppim, wearing them out; their shore"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUR": {
+    "name": "Shur",
+    "slug": "shur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wall; ox; that beholds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUSHAN": {
+    "name": "Shushan",
+    "slug": "shushan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lily; rose; joy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SHUTHELAH": {
+    "name": "Shuthelah",
+    "slug": "shuthelah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "plant; verdure; moist; pot"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIA": {
+    "name": "Sia",
+    "slug": "sia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "moving; help"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIBBECHAI": {
+    "name": "Sibbechai",
+    "slug": "sibbechai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bough; cottage; of springs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIBMAH": {
+    "name": "Sibmah",
+    "slug": "sibmah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "conversion; captivity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SICHEM": {
+    "name": "Sichem",
+    "slug": "sichem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "portion; shoulder"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIDDIM": {
+    "name": "Siddim",
+    "slug": "siddim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the tilled field"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIDON": {
+    "name": "Sidon",
+    "slug": "sidon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hunting; fishing; venison"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIGIONOTH": {
+    "name": "Sigionoth",
+    "slug": "sigionoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "according to variable songs or tunes,"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIHON": {
+    "name": "Sihon",
+    "slug": "sihon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rooting out; conclusion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIHOR": {
+    "name": "Sihor",
+    "slug": "sihor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "black; trouble (the river Nile)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SILAS": {
+    "name": "Silas",
+    "slug": "silas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "three, or the third"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SILLA": {
+    "name": "Silla",
+    "slug": "silla",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "exalting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SILOA": {
+    "name": "Siloa",
+    "slug": "siloa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Siloam, Siloe, same as Shilhi"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SILVANUS": {
+    "name": "Silvanus",
+    "slug": "silvanus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who loves the forest"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIMEON": {
+    "name": "Simeon",
+    "slug": "simeon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that hears or obeys; that is heard"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIMON": {
+    "name": "Simon",
+    "slug": "simon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that hears; that obeys"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIN": {
+    "name": "Sin",
+    "slug": "sin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bush"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SINAI": {
+    "name": "Sinai",
+    "slug": "sinai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bush; enmity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SINIM": {
+    "name": "Sinim",
+    "slug": "sinim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "south country,"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SINON": {
+    "name": "Sinon",
+    "slug": "sinon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a breast-plate; deliverance"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SION": {
+    "name": "Sion",
+    "slug": "sion",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "noise; tumult"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIPPAI": {
+    "name": "Sippai",
+    "slug": "sippai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "threshold; silver cup"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SISAMAI": {
+    "name": "Sisamai",
+    "slug": "sisamai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house; blindness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SISERA": {
+    "name": "Sisera",
+    "slug": "sisera",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that sees a horse or a swallow"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SITNAH": {
+    "name": "Sitnah",
+    "slug": "sitnah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hatred"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SIVAN": {
+    "name": "Sivan",
+    "slug": "sivan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bush or thorn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SMYRNA": {
+    "name": "Smyrna",
+    "slug": "smyrna",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "myrrh"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SO": {
+    "name": "So",
+    "slug": "so",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a measure for grain; vail"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOCOH": {
+    "name": "Socoh",
+    "slug": "socoh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "tents; tabernacles"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SODI": {
+    "name": "Sodi",
+    "slug": "sodi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SODOM": {
+    "name": "Sodom",
+    "slug": "sodom",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their secret; their cement"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOLOMON": {
+    "name": "Solomon",
+    "slug": "solomon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "peaceable; perfect; one who recompenses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOPATER": {
+    "name": "Sopater",
+    "slug": "sopater",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Sosipater, who defends the father"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOPHERETH": {
+    "name": "Sophereth",
+    "slug": "sophereth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "scribe, numbering"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOREK": {
+    "name": "Sorek",
+    "slug": "sorek",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "vine; hissing; a color inclining to yellow"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOSTHENES": {
+    "name": "Sosthenes",
+    "slug": "sosthenes",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "savior; strong; powerful"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SOTAI": {
+    "name": "Sotai",
+    "slug": "sotai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "conclusion in pleading; binding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SPAIN": {
+    "name": "Spain",
+    "slug": "spain",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rare; precious"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "STACHYS": {
+    "name": "Stachys",
+    "slug": "stachys",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "spike or ear of corn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "STEPHANAS": {
+    "name": "Stephanas",
+    "slug": "stephanas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "crown; crowned"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "STEPHEN": {
+    "name": "Stephen",
+    "slug": "stephen",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Stephanas"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUAH": {
+    "name": "Suah",
+    "slug": "suah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "speaking; entreating; ditch"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUCCOTH": {
+    "name": "Succoth",
+    "slug": "succoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "tents; tabernacles"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUCCOTH-BENOTH": {
+    "name": "Succoth-benoth",
+    "slug": "succoth-benoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the tents of daughters, or young women; or prostitutes"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUD": {
+    "name": "Sud",
+    "slug": "sud",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUR": {
+    "name": "Sur",
+    "slug": "sur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that withdraws or departs; rebellion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUSANNA": {
+    "name": "Susanna",
+    "slug": "susanna",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lily; rose; joy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SUSI": {
+    "name": "Susi",
+    "slug": "susi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "horse; swallow; moth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SYCHAR": {
+    "name": "Sychar",
+    "slug": "sychar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "end"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SYENE": {
+    "name": "Syene",
+    "slug": "syene",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a bush; enmity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SYNTYCHE": {
+    "name": "Syntyche",
+    "slug": "syntyche",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that speaks or discourses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "SYRACUSE": {
+    "name": "Syracuse",
+    "slug": "syracuse",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that draws violently"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

@@ -1,0 +1,730 @@
+{
+  "LAADAH": {
+    "name": "Laadah",
+    "slug": "laadah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "to assemble together; to testify; passing over"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAADAN": {
+    "name": "Laadan",
+    "slug": "laadan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "for pleasure; devouring; judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LABAN": {
+    "name": "Laban",
+    "slug": "laban",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "white; shining; gentle; brittle"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LABANA": {
+    "name": "Labana",
+    "slug": "labana",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the moon; whiteness; frankincense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LACHISH": {
+    "name": "Lachish",
+    "slug": "lachish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who walks, or exists, of himself"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAEL": {
+    "name": "Lael",
+    "slug": "lael",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "to God; to the mighty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAHAD": {
+    "name": "Lahad",
+    "slug": "lahad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "praising; to confess"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAHAIROI": {
+    "name": "Lahairoi",
+    "slug": "lahairoi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who liveth and seeth me"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAHMAM": {
+    "name": "Lahmam",
+    "slug": "lahmam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "their bread; their war"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAHMI": {
+    "name": "Lahmi",
+    "slug": "lahmi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my bread; my war"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAISH": {
+    "name": "Laish",
+    "slug": "laish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a lion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAMECH": {
+    "name": "Lamech",
+    "slug": "lamech",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "poor; made low"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAODICEA": {
+    "name": "Laodicea",
+    "slug": "laodicea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "just people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAPIDOTH": {
+    "name": "Lapidoth",
+    "slug": "lapidoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "enlightened; lamps"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LASEA": {
+    "name": "Lasea",
+    "slug": "lasea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thick; wise"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LASHAH": {
+    "name": "Lashah",
+    "slug": "lashah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "to call; to anoint"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LAZARUS": {
+    "name": "Lazarus",
+    "slug": "lazarus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "assistance of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEAH": {
+    "name": "Leah",
+    "slug": "leah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "weary; tired"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEBANON": {
+    "name": "Lebanon",
+    "slug": "lebanon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "white, incense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEBAOTH": {
+    "name": "Lebaoth",
+    "slug": "lebaoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lividness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEBBEUS": {
+    "name": "Lebbeus",
+    "slug": "lebbeus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a man of heart; praising; confessing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEBONAH": {
+    "name": "Lebonah",
+    "slug": "lebonah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Labana"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEHABIM": {
+    "name": "Lehabim",
+    "slug": "lehabim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "flames; inflamed; swords"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEHI": {
+    "name": "Lehi",
+    "slug": "lehi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "jawbone"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEKAH": {
+    "name": "Lekah",
+    "slug": "lekah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "walking; going"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEMUEL": {
+    "name": "Lemuel",
+    "slug": "lemuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God with them, or him"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LESHEM": {
+    "name": "Leshem",
+    "slug": "leshem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a name; putting; a precious stone"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LETUSHIM": {
+    "name": "Letushim",
+    "slug": "letushim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hammermen; filemen"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEUMMIM": {
+    "name": "Leummim",
+    "slug": "leummim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "countries; without water"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LEVI": {
+    "name": "Levi",
+    "slug": "levi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "associated with him"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LIBNAH": {
+    "name": "Libnah",
+    "slug": "libnah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "white; whiteness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LIBNI": {
+    "name": "Libni",
+    "slug": "libni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Libnah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LIBYA": {
+    "name": "Libya",
+    "slug": "libya",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the heart of the sea; fat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LINUS": {
+    "name": "Linus",
+    "slug": "linus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "net"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LO-AMMI": {
+    "name": "Lo-ammi",
+    "slug": "lo-ammi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "not my people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LO-RUHAMAH": {
+    "name": "Lo-ruhamah",
+    "slug": "lo-ruhamah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "not having obtained mercy; not pitied"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LOD": {
+    "name": "Lod",
+    "slug": "lod",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "nativity; generation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LOIS": {
+    "name": "Lois",
+    "slug": "lois",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "better"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LOT": {
+    "name": "Lot",
+    "slug": "lot",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Lotan, wrapt up; hidden; covered; myrrh; rosin"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUBIN": {
+    "name": "Lubin",
+    "slug": "lubin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "heart of a man; heart of the sea"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUCAS": {
+    "name": "Lucas",
+    "slug": "lucas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Lucius, luminous; white"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUCIFER": {
+    "name": "Lucifer",
+    "slug": "lucifer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bringing light"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUD": {
+    "name": "Lud",
+    "slug": "lud",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Ludim, same as Lod"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUHITH": {
+    "name": "Luhith",
+    "slug": "luhith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "made of boards"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUKE": {
+    "name": "Luke",
+    "slug": "luke",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "luminous; white"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LUZ": {
+    "name": "Luz",
+    "slug": "luz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "separation; departure; an almond"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LYCAONIA": {
+    "name": "Lycaonia",
+    "slug": "lycaonia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "she-wolf"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LYDDA": {
+    "name": "Lydda",
+    "slug": "lydda",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Lydia, a standing pool"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LYSANIAS": {
+    "name": "Lysanias",
+    "slug": "lysanias",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that drives away sorrow"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LYSIAS": {
+    "name": "Lysias",
+    "slug": "lysias",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dissolving"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LYSIMACHUS": {
+    "name": "Lysimachus",
+    "slug": "lysimachus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "scattering the battle"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "LYSTRA": {
+    "name": "Lystra",
+    "slug": "lystra",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that dissolves or disperses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

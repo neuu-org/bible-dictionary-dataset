@@ -1,0 +1,2564 @@
+{
+  "BAAL": {
+    "name": "Baal",
+    "slug": "baal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "master; lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-BERITH": {
+    "name": "Baal-berith",
+    "slug": "baal-berith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "idol of the covenant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-GAD": {
+    "name": "Baal-gad",
+    "slug": "baal-gad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "idol of fortune or felicity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-HAMON": {
+    "name": "Baal-hamon",
+    "slug": "baal-hamon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who rules a crowd"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-HERMON": {
+    "name": "Baal-hermon",
+    "slug": "baal-hermon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "possessor of destruction or of a thing cursed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-MEON": {
+    "name": "Baal-meon",
+    "slug": "baal-meon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "idol or master of the house"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-PEOR": {
+    "name": "Baal-peor",
+    "slug": "baal-peor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "master of the opening"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-PERAZIM": {
+    "name": "Baal-perazim",
+    "slug": "baal-perazim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "god of divisions"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-SHALISHA": {
+    "name": "Baal-shalisha",
+    "slug": "baal-shalisha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the god that presides over three; the third idol"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-TAMAR": {
+    "name": "Baal-tamar",
+    "slug": "baal-tamar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "master of the palm-tree"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-ZEBUB": {
+    "name": "Baal-zebub",
+    "slug": "baal-zebub",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "god of the fly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAAL-ZEPHON": {
+    "name": "Baal-zephon",
+    "slug": "baal-zephon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the idol or possession of the north; hidden; secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALAH": {
+    "name": "Baalah",
+    "slug": "baalah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "her idol; she that is governed or subdued; a spouse"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALATH": {
+    "name": "Baalath",
+    "slug": "baalath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a rejoicing; our proud lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALATH-BEER": {
+    "name": "Baalath-beer",
+    "slug": "baalath-beer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "subjected pit"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALE": {
+    "name": "Baale",
+    "slug": "baale",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Baalath"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALI": {
+    "name": "Baali",
+    "slug": "baali",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my idol; lord over me"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALIM": {
+    "name": "Baalim",
+    "slug": "baalim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "idols; masters; false gods"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAALIS": {
+    "name": "Baalis",
+    "slug": "baalis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a rejoicing; a proud lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAANAH": {
+    "name": "Baanah",
+    "slug": "baanah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in the answer; in affliction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAARA": {
+    "name": "Baara",
+    "slug": "baara",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a flame; purging"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAASEIAH": {
+    "name": "Baaseiah",
+    "slug": "baaseiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in making; in pressing together"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAASHA": {
+    "name": "Baasha",
+    "slug": "baasha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "he that seeks, or lays waste"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BABEL": {
+    "name": "Babel",
+    "slug": "babel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "confusion; mixture"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BABYLON": {
+    "name": "Babylon",
+    "slug": "babylon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Babel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BACA": {
+    "name": "Baca",
+    "slug": "baca",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a mulberry-tree"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAHURIM": {
+    "name": "Bahurim",
+    "slug": "bahurim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "choice; warlike; valiant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAJITH": {
+    "name": "Bajith",
+    "slug": "bajith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a house"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BALAAM": {
+    "name": "Balaam",
+    "slug": "balaam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the ancient of the people; the destruction of the people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BALADAN": {
+    "name": "Baladan",
+    "slug": "baladan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "one without judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BALAK": {
+    "name": "Balak",
+    "slug": "balak",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who lays waste or destroys"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BAMAH": {
+    "name": "Bamah",
+    "slug": "bamah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an eminence or high place"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARABBAS": {
+    "name": "Barabbas",
+    "slug": "barabbas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of shame, confusion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARACHEL": {
+    "name": "Barachel",
+    "slug": "barachel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that bows before God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARACHIAS": {
+    "name": "Barachias",
+    "slug": "barachias",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Barachel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARAK": {
+    "name": "Barak",
+    "slug": "barak",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "thunder, or in vain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARJESUS": {
+    "name": "Barjesus",
+    "slug": "barjesus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of Jesus or Joshua"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARJONA": {
+    "name": "Barjona",
+    "slug": "barjona",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of a Jona; of a dove"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARNABAS": {
+    "name": "Barnabas",
+    "slug": "barnabas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of the prophet, or of consolation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARSABAS": {
+    "name": "Barsabas",
+    "slug": "barsabas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of return; son of rest"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARTHOLOMEW": {
+    "name": "Bartholomew",
+    "slug": "bartholomew",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a son that suspends the waters"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARTIMEUS": {
+    "name": "Bartimeus",
+    "slug": "bartimeus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of the honorable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARUCH": {
+    "name": "Baruch",
+    "slug": "baruch",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who is blessed"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BARZILLAI": {
+    "name": "Barzillai",
+    "slug": "barzillai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of contempt; made of iron"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BASHAN": {
+    "name": "Bashan",
+    "slug": "bashan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in the tooth, in ivory"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BASHEMATH": {
+    "name": "Bashemath",
+    "slug": "bashemath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "perfumed; confusion of death; in desolation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BATHSHEBA": {
+    "name": "Bathsheba",
+    "slug": "bathsheba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the seventh daughter; the daughter of satiety"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BATHSUHA": {
+    "name": "Bathsuha",
+    "slug": "bathsuha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Bathsheba"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEALIAH": {
+    "name": "Bealiah",
+    "slug": "bealiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the god of an idol; in an assembly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEALOTH": {
+    "name": "Bealoth",
+    "slug": "bealoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "cast under"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEBAI": {
+    "name": "Bebai",
+    "slug": "bebai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "void, empty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BECHER": {
+    "name": "Becher",
+    "slug": "becher",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "first begotten; first fruits"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BECHORATH": {
+    "name": "Bechorath",
+    "slug": "bechorath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "first fruits"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEDAD": {
+    "name": "Bedad",
+    "slug": "bedad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "alone; solitary"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEDAIAH": {
+    "name": "Bedaiah",
+    "slug": "bedaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Bedeiah, the only Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEDAN": {
+    "name": "Bedan",
+    "slug": "bedan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "according to judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEELIADA": {
+    "name": "Beeliada",
+    "slug": "beeliada",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an open idol"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEELZEBUB": {
+    "name": "Beelzebub",
+    "slug": "beelzebub",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Baalzebub"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEER": {
+    "name": "Beer",
+    "slug": "beer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a well"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEER-LAHAI-ROI": {
+    "name": "Beer-lahai-roi",
+    "slug": "beer-lahai-roi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the well of him that liveth and seeth me"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEERA": {
+    "name": "Beera",
+    "slug": "beera",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a well; declaring"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEERELIM": {
+    "name": "Beerelim",
+    "slug": "beerelim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the well of Elim, or of rains"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEERI": {
+    "name": "Beeri",
+    "slug": "beeri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my well"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEEROTH": {
+    "name": "Beeroth",
+    "slug": "beeroth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wells; explaining"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEERSHEBA": {
+    "name": "Beersheba",
+    "slug": "beersheba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the well of an oath; the seventh well"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEHEMOTH": {
+    "name": "Behemoth",
+    "slug": "behemoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beasts"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEKAH": {
+    "name": "Bekah",
+    "slug": "bekah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "half a shekel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BELAH": {
+    "name": "Belah",
+    "slug": "belah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "destroying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BELIAL": {
+    "name": "Belial",
+    "slug": "belial",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wicked, worthless"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BELSHAZZAR": {
+    "name": "Belshazzar",
+    "slug": "belshazzar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "master of the treasure"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BELTESHAZZAR": {
+    "name": "Belteshazzar",
+    "slug": "belteshazzar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "who lays up treasures in secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEN": {
+    "name": "Ben",
+    "slug": "ben",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a son"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEN-AMMI": {
+    "name": "Ben-ammi",
+    "slug": "ben-ammi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of my people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENAIAH": {
+    "name": "Benaiah",
+    "slug": "benaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENE-JAAKAN": {
+    "name": "Bene-jaakan",
+    "slug": "bene-jaakan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sons of sorrow"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENEBERAK": {
+    "name": "Beneberak",
+    "slug": "beneberak",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sons of lightning"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENHADAD": {
+    "name": "Benhadad",
+    "slug": "benhadad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of Hadad, or noise"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENHAIL": {
+    "name": "Benhail",
+    "slug": "benhail",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENHANAN": {
+    "name": "Benhanan",
+    "slug": "benhanan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of grace"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENIMI": {
+    "name": "Benimi",
+    "slug": "benimi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "our sons"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENJAMIN": {
+    "name": "Benjamin",
+    "slug": "benjamin",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of the right hand"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENO": {
+    "name": "Beno",
+    "slug": "beno",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "his son"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENONI": {
+    "name": "Benoni",
+    "slug": "benoni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of my sorrow, or pain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BENZOHETH": {
+    "name": "Benzoheth",
+    "slug": "benzoheth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of separation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEON": {
+    "name": "Beon",
+    "slug": "beon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in affliction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEOR": {
+    "name": "Beor",
+    "slug": "beor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "burning; foolish; mad"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERA": {
+    "name": "Bera",
+    "slug": "bera",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a well; declaring"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERACHAH": {
+    "name": "Berachah",
+    "slug": "berachah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "blessing; bending the knee"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERACHIAH": {
+    "name": "Berachiah",
+    "slug": "berachiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "speaking well of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERAIAH": {
+    "name": "Beraiah",
+    "slug": "beraiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the choosing of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEREA": {
+    "name": "Berea",
+    "slug": "berea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "heavy; weighty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERED": {
+    "name": "Bered",
+    "slug": "bered",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hail"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERI": {
+    "name": "Beri",
+    "slug": "beri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my son; my corn"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERIAH": {
+    "name": "Beriah",
+    "slug": "beriah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in fellowship; in envy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERITH": {
+    "name": "Berith",
+    "slug": "berith",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "covenant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERNICE": {
+    "name": "Bernice",
+    "slug": "bernice",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "one that brings victory"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BERODACH-BALADAN": {
+    "name": "Berodach-baladan",
+    "slug": "berodach-baladan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the son of death"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEROTHAI": {
+    "name": "Berothai",
+    "slug": "berothai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "wells; a cypress"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEROTHATH": {
+    "name": "Berothath",
+    "slug": "berothath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "of a well"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BESAI": {
+    "name": "Besai",
+    "slug": "besai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a despising; dirty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BESODEIAH": {
+    "name": "Besodeiah",
+    "slug": "besodeiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "counsel of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BESOR": {
+    "name": "Besor",
+    "slug": "besor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "glad news; incarnation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETAH": {
+    "name": "Betah",
+    "slug": "betah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "confidence"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETEN": {
+    "name": "Beten",
+    "slug": "beten",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "belly"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-ARAM": {
+    "name": "Beth-aram",
+    "slug": "beth-aram",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of height"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-AVEN": {
+    "name": "Beth-aven",
+    "slug": "beth-aven",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of vanity; of iniquity of trouble"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-AZMAVETH": {
+    "name": "Beth-azmaveth",
+    "slug": "beth-azmaveth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of death's strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-BAALMEON": {
+    "name": "Beth-baalmeon",
+    "slug": "beth-baalmeon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an idol of the dwelling-place"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-BARAH": {
+    "name": "Beth-barah",
+    "slug": "beth-barah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the chosen house"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-BIREI": {
+    "name": "Beth-birei",
+    "slug": "beth-birei",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of my Creator, the house of my health"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-CAR": {
+    "name": "Beth-car",
+    "slug": "beth-car",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of the lamb"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-DAGON": {
+    "name": "Beth-dagon",
+    "slug": "beth-dagon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of corn, or of fish"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-DIBLATHAIM": {
+    "name": "Beth-diblathaim",
+    "slug": "beth-diblathaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of dry figs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-EL": {
+    "name": "Beth-el",
+    "slug": "beth-el",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-EZAL": {
+    "name": "Beth-ezal",
+    "slug": "beth-ezal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a neighbor's house"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-GADER": {
+    "name": "Beth-gader",
+    "slug": "beth-gader",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a house for a mouse"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-GAMUL": {
+    "name": "Beth-gamul",
+    "slug": "beth-gamul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of recompense, or of the camel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-HACCEREM": {
+    "name": "Beth-haccerem",
+    "slug": "beth-haccerem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of the vineyard"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-HARAN": {
+    "name": "Beth-haran",
+    "slug": "beth-haran",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of grace"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-HORON": {
+    "name": "Beth-horon",
+    "slug": "beth-horon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of wrath"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-LEBAOTH": {
+    "name": "Beth-lebaoth",
+    "slug": "beth-lebaoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of lionesses"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-LEHEM": {
+    "name": "Beth-lehem",
+    "slug": "beth-lehem",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of bread"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-MARCABOTH": {
+    "name": "Beth-marcaboth",
+    "slug": "beth-marcaboth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of bitterness wiped out"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-MEON": {
+    "name": "Beth-meon",
+    "slug": "beth-meon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of the dwelling-place"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-NIMRAH": {
+    "name": "Beth-nimrah",
+    "slug": "beth-nimrah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of rebellion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-PALET": {
+    "name": "Beth-palet",
+    "slug": "beth-palet",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of expulsion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-PAZZEZ": {
+    "name": "Beth-pazzez",
+    "slug": "beth-pazzez",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of dividing asunder"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-PEOR": {
+    "name": "Beth-peor",
+    "slug": "beth-peor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of gaping, or opening"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-PHELET": {
+    "name": "Beth-phelet",
+    "slug": "beth-phelet",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Beth-palet"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-RAPHA": {
+    "name": "Beth-rapha",
+    "slug": "beth-rapha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of health"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-SHEMESH": {
+    "name": "Beth-shemesh",
+    "slug": "beth-shemesh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of the sun"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETH-ZUR": {
+    "name": "Beth-zur",
+    "slug": "beth-zur",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of a rock"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHABARA": {
+    "name": "Bethabara",
+    "slug": "bethabara",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of confidence"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHANATH": {
+    "name": "Bethanath",
+    "slug": "bethanath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of affliction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHANY": {
+    "name": "Bethany",
+    "slug": "bethany",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the house of song; the house of affliction"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHARABAH": {
+    "name": "Betharabah",
+    "slug": "betharabah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of sweet smell"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHEMEK": {
+    "name": "Bethemek",
+    "slug": "bethemek",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of deepness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHER": {
+    "name": "Bether",
+    "slug": "bether",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "division, or in the trial"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHESDA": {
+    "name": "Bethesda",
+    "slug": "bethesda",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of pity or mercy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHPHAGE": {
+    "name": "Bethphage",
+    "slug": "bethphage",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of my month, or of early figs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHSAIDA": {
+    "name": "Bethsaida",
+    "slug": "bethsaida",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "house of fruits, or of food, or of snares"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHSHAN": {
+    "name": "Bethshan",
+    "slug": "bethshan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Beth-shean, house of the tooth, or of ivory, or of sleep"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETHUEL": {
+    "name": "Bethuel",
+    "slug": "bethuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "filiation of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BETONIM": {
+    "name": "Betonim",
+    "slug": "betonim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bellies"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEULAH": {
+    "name": "Beulah",
+    "slug": "beulah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "married"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEZAI": {
+    "name": "Bezai",
+    "slug": "bezai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "eggs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEZALEEL": {
+    "name": "Bezaleel",
+    "slug": "bezaleel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in the shadow of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEZEK": {
+    "name": "Bezek",
+    "slug": "bezek",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lightning; in the chains"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BEZER": {
+    "name": "Bezer",
+    "slug": "bezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "vine branches"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BICHRI": {
+    "name": "Bichri",
+    "slug": "bichri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "first-born; first fruits"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BIDKAR": {
+    "name": "Bidkar",
+    "slug": "bidkar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in compunction, or sharp pain"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BIGTHAN": {
+    "name": "Bigthan",
+    "slug": "bigthan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in the press; giving meat"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BIGVAI": {
+    "name": "Bigvai",
+    "slug": "bigvai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in my body"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BILDAD": {
+    "name": "Bildad",
+    "slug": "bildad",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "old friendship"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BILEAM": {
+    "name": "Bileam",
+    "slug": "bileam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the ancient of the people; the devourer"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BILGAH": {
+    "name": "Bilgah",
+    "slug": "bilgah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ancient countenance"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BILHAH": {
+    "name": "Bilhah",
+    "slug": "bilhah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Bilhan, who is old or confused"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BILSHAN": {
+    "name": "Bilshan",
+    "slug": "bilshan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in the tongue"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BINEA": {
+    "name": "Binea",
+    "slug": "binea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BINNUI": {
+    "name": "Binnui",
+    "slug": "binnui",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "building"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BIRSHA": {
+    "name": "Birsha",
+    "slug": "birsha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "an evil; a son who beholds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BISHLAM": {
+    "name": "Bishlam",
+    "slug": "bishlam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in peace"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BITHIAH": {
+    "name": "Bithiah",
+    "slug": "bithiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "daughter of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BITHRON": {
+    "name": "Bithron",
+    "slug": "bithron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "divisions"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BITHYNIA": {
+    "name": "Bithynia",
+    "slug": "bithynia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "violent precipitation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BIZJOTHJAH": {
+    "name": "Bizjothjah",
+    "slug": "bizjothjah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "despite"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BLASTUS": {
+    "name": "Blastus",
+    "slug": "blastus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that buds or brings forth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOANERGES": {
+    "name": "Boanerges",
+    "slug": "boanerges",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "son of thunder"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOAZ": {
+    "name": "Boaz",
+    "slug": "boaz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "or Booz, in strength"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOCHERU": {
+    "name": "Bocheru",
+    "slug": "bocheru",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the first born"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOCHIM": {
+    "name": "Bochim",
+    "slug": "bochim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the place of weeping; or of mulberry-trees"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOHAN": {
+    "name": "Bohan",
+    "slug": "bohan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in them"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOSKATH": {
+    "name": "Boskath",
+    "slug": "boskath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in poverty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOSON": {
+    "name": "Boson",
+    "slug": "boson",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "taking away"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOZEZ": {
+    "name": "Bozez",
+    "slug": "bozez",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "mud; bog"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BOZRAH": {
+    "name": "Bozrah",
+    "slug": "bozrah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "in tribulation or distress"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUKKI": {
+    "name": "Bukki",
+    "slug": "bukki",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "void"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUKKIAH": {
+    "name": "Bukkiah",
+    "slug": "bukkiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the dissipation of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUL": {
+    "name": "Bul",
+    "slug": "bul",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "old age; perishing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUNAH": {
+    "name": "Bunah",
+    "slug": "bunah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "building; understanding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUNNI": {
+    "name": "Bunni",
+    "slug": "bunni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "building me"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUZ": {
+    "name": "Buz",
+    "slug": "buz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "despised; plundered"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "BUZI": {
+    "name": "Buzi",
+    "slug": "buzi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my contempt"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

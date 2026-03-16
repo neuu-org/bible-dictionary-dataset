@@ -1,0 +1,828 @@
+{
+  "KABZEEL": {
+    "name": "Kabzeel",
+    "slug": "kabzeel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the congregation of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KADESH": {
+    "name": "Kadesh",
+    "slug": "kadesh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "holiness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KADESH-BARNEA": {
+    "name": "Kadesh-barnea",
+    "slug": "kadesh-barnea",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "holiness of an inconstant son"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KADMIEL": {
+    "name": "Kadmiel",
+    "slug": "kadmiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God of antiquity; God of rising"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KADMONITES": {
+    "name": "Kadmonites",
+    "slug": "kadmonites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ancients; chiefs"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KALLAI": {
+    "name": "Kallai",
+    "slug": "kallai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "light; resting by fire; my voice"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KANAH": {
+    "name": "Kanah",
+    "slug": "kanah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "of reeds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KAREAH": {
+    "name": "Kareah",
+    "slug": "kareah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "bald; ice"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KARKAA": {
+    "name": "Karkaa",
+    "slug": "karkaa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "floor; dissolving coldness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KARKOR": {
+    "name": "Karkor",
+    "slug": "karkor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "they rested"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KARNAIM": {
+    "name": "Karnaim",
+    "slug": "karnaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "horns"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KARTAH": {
+    "name": "Kartah",
+    "slug": "kartah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "calling; meeting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEDAR": {
+    "name": "Kedar",
+    "slug": "kedar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "blackness; sorrow"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEDEMAH": {
+    "name": "Kedemah",
+    "slug": "kedemah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "oriental; ancient; first"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEDEMOTH": {
+    "name": "Kedemoth",
+    "slug": "kedemoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "antiquity; old age"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEHELAHATH": {
+    "name": "Kehelahath",
+    "slug": "kehelahath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a whole; a congregation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEIIAH": {
+    "name": "Keiiah",
+    "slug": "keiiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "she that divides or cuts"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KELAIAH": {
+    "name": "Kelaiah",
+    "slug": "kelaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "voice of the Lord; gathering together"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KELITAH": {
+    "name": "Kelitah",
+    "slug": "kelitah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Kelaiah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEMUEL": {
+    "name": "Kemuel",
+    "slug": "kemuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "God hath raised up, or established him"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KENAH": {
+    "name": "Kenah",
+    "slug": "kenah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "buying; possession"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KENAN": {
+    "name": "Kenan",
+    "slug": "kenan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "buyer; owner"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KENAZ": {
+    "name": "Kenaz",
+    "slug": "kenaz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "this purchase; this lamentation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KENITES": {
+    "name": "Kenites",
+    "slug": "kenites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "possession; purchase; lamentation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KENIZZITES": {
+    "name": "Kenizzites",
+    "slug": "kenizzites",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "possession; purchase"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEREN-HAPPUCH": {
+    "name": "Keren-happuch",
+    "slug": "keren-happuch",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the horn or child of beauty"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KERIOTH": {
+    "name": "Kerioth",
+    "slug": "kerioth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the cities; the callings"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEROS": {
+    "name": "Keros",
+    "slug": "keros",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "crooked; crookedness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KETURAH": {
+    "name": "Keturah",
+    "slug": "keturah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that makes the incense to fume"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEZIA": {
+    "name": "Kezia",
+    "slug": "kezia",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "superficies; the angle; cassia"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KEZIZ": {
+    "name": "Keziz",
+    "slug": "keziz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "end; extremity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIBROTH-HATTAAVAH": {
+    "name": "Kibroth-hattaavah",
+    "slug": "kibroth-hattaavah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the graves of lust"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIBZAIM": {
+    "name": "Kibzaim",
+    "slug": "kibzaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "congregation"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIDRON": {
+    "name": "Kidron",
+    "slug": "kidron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "obscure; making black or sad"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KINAH": {
+    "name": "Kinah",
+    "slug": "kinah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Kenah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIR": {
+    "name": "Kir",
+    "slug": "kir",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a city; wall; meeting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRHARASETH": {
+    "name": "Kirharaseth",
+    "slug": "kirharaseth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Kirharesh, city of the sun; wall of burnt brick"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRIOTH": {
+    "name": "Kirioth",
+    "slug": "kirioth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Kerioth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH": {
+    "name": "Kirjath",
+    "slug": "kirjath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city; vocation; meeting"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-ARBA": {
+    "name": "Kirjath-arba",
+    "slug": "kirjath-arba",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of four; fourth city"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-ARIM": {
+    "name": "Kirjath-arim",
+    "slug": "kirjath-arim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of those who watch"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-BAAL": {
+    "name": "Kirjath-baal",
+    "slug": "kirjath-baal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of Baal, or of a ruler"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-HUZOTH": {
+    "name": "Kirjath-huzoth",
+    "slug": "kirjath-huzoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of streets; populous city"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-JEARIM": {
+    "name": "Kirjath-jearim",
+    "slug": "kirjath-jearim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of woods"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-SANNAH": {
+    "name": "Kirjath-sannah",
+    "slug": "kirjath-sannah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of enmity, or of a blackberry bush"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATH-SEPHER": {
+    "name": "Kirjath-sepher",
+    "slug": "kirjath-sepher",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "city of letters, or of the book"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KIRJATHAIM": {
+    "name": "Kirjathaim",
+    "slug": "kirjathaim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the two cities; callings; or meetings"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KISH": {
+    "name": "Kish",
+    "slug": "kish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hard; difficult; straw; for age"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KISHI": {
+    "name": "Kishi",
+    "slug": "kishi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hardness; his gravity; his offense"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KISHION": {
+    "name": "Kishion",
+    "slug": "kishion",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hardness; soreness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KISHON": {
+    "name": "Kishon",
+    "slug": "kishon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hard; sore"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KITHLISH": {
+    "name": "Kithlish",
+    "slug": "kithlish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "it is a wall; the company of a lioness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KITRON": {
+    "name": "Kitron",
+    "slug": "kitron",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "making sweet; binding together"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KITTIM": {
+    "name": "Kittim",
+    "slug": "kittim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "breaking; bruising small; gold; coloring"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KOA": {
+    "name": "Koa",
+    "slug": "koa",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hope; a congregation; a line; a rule"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KOHATH": {
+    "name": "Kohath",
+    "slug": "kohath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "congregation; wrinkle; bluntness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KOLARIAH": {
+    "name": "Kolariah",
+    "slug": "kolariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "voice of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KORAH": {
+    "name": "Korah",
+    "slug": "korah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "baldness; ice; frost"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "KUSHAIAH": {
+    "name": "Kushaiah",
+    "slug": "kushaiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Kishi"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

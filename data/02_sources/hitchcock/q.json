@@ -1,0 +1,16 @@
+{
+  "QUARTUS": {
+    "name": "Quartus",
+    "slug": "quartus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fourth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

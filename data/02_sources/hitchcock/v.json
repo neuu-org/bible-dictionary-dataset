@@ -1,0 +1,72 @@
+{
+  "VAJEZATHA": {
+    "name": "Vajezatha",
+    "slug": "vajezatha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "sprinkling the chamber"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "VANIAH": {
+    "name": "Vaniah",
+    "slug": "vaniah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "nourishment, or weapons, of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "VASHNI": {
+    "name": "Vashni",
+    "slug": "vashni",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the second; changed; a tooth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "VASHTI": {
+    "name": "Vashti",
+    "slug": "vashti",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that drinks; thread"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "VOPHSI": {
+    "name": "Vophsi",
+    "slug": "vophsi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fragrant; diminution"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}

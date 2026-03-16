@@ -1,0 +1,1416 @@
+{
+  "NAAM": {
+    "name": "Naam",
+    "slug": "naam",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fair; pleasant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAAMAH": {
+    "name": "Naamah",
+    "slug": "naamah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Naaman, beautiful; agreeable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAARAH": {
+    "name": "Naarah",
+    "slug": "naarah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Naarai, young person"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAASHON": {
+    "name": "Naashon",
+    "slug": "naashon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that foretells; that conjectures"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NABAL": {
+    "name": "Nabal",
+    "slug": "nabal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fool; senseless"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NABOTH": {
+    "name": "Naboth",
+    "slug": "naboth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "words; prophecies"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NACHON": {
+    "name": "Nachon",
+    "slug": "nachon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "ready; sure"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NACHOR": {
+    "name": "Nachor",
+    "slug": "nachor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Nahor"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NADAB": {
+    "name": "Nadab",
+    "slug": "nadab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "free and voluntary gift; prince"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAGGE": {
+    "name": "Nagge",
+    "slug": "nagge",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "clearness; brightness; light"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHALIEL": {
+    "name": "Nahaliel",
+    "slug": "nahaliel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "inheritance; valley of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHALLAL": {
+    "name": "Nahallal",
+    "slug": "nahallal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "praised; bright"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHAM": {
+    "name": "Naham",
+    "slug": "naham",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Nahamani, comforter; leader"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHARAI": {
+    "name": "Naharai",
+    "slug": "naharai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my nostrils; hot; anger"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHASH": {
+    "name": "Nahash",
+    "slug": "nahash",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "snake; serpent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHATH": {
+    "name": "Nahath",
+    "slug": "nahath",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rest; a leader"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHBI": {
+    "name": "Nahbi",
+    "slug": "nahbi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "very secret"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHOR": {
+    "name": "Nahor",
+    "slug": "nahor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "hoarse; dry; hot"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHSHON": {
+    "name": "Nahshon",
+    "slug": "nahshon",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Naashon"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAHUM": {
+    "name": "Nahum",
+    "slug": "nahum",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "comforter; penitent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAIN": {
+    "name": "Nain",
+    "slug": "nain",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beauty; pleasantness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAIOTH": {
+    "name": "Naioth",
+    "slug": "naioth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beauties; habitations"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAOMI": {
+    "name": "Naomi",
+    "slug": "naomi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "beautiful; agreeable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAPHISH": {
+    "name": "Naphish",
+    "slug": "naphish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the soul; he that rests, refreshes himself, or respires"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAPHTALI": {
+    "name": "Naphtali",
+    "slug": "naphtali",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that struggles or fights"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NARCISSUS": {
+    "name": "Narcissus",
+    "slug": "narcissus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "astonishment; stupidity"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NASON": {
+    "name": "Nason",
+    "slug": "nason",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "helper; entry-way"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NATHAN": {
+    "name": "Nathan",
+    "slug": "nathan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "given; giving; rewarded"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NATHAN-MELECH": {
+    "name": "Nathan-melech",
+    "slug": "nathan-melech",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the gift of the king, or of counsel"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NATHANAEL": {
+    "name": "Nathanael",
+    "slug": "nathanael",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the gift of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAUM": {
+    "name": "Naum",
+    "slug": "naum",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Nahum"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAZARETH": {
+    "name": "Nazareth",
+    "slug": "nazareth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "separated; crowned; sanctified"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NAZARITE": {
+    "name": "Nazarite",
+    "slug": "nazarite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "one chosen or set apart"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEAH": {
+    "name": "Neah",
+    "slug": "neah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "moved; moving"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEAPOLIS": {
+    "name": "Neapolis",
+    "slug": "neapolis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the new city"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEARIAH": {
+    "name": "Neariah",
+    "slug": "neariah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "child of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBAI": {
+    "name": "Nebai",
+    "slug": "nebai",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "budding; speaking; prophesying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBAIOTH": {
+    "name": "Nebaioth",
+    "slug": "nebaioth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "words; prophecies; buds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBALLAT": {
+    "name": "Neballat",
+    "slug": "neballat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prophecy; budding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBAT": {
+    "name": "Nebat",
+    "slug": "nebat",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that beholds"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBO": {
+    "name": "Nebo",
+    "slug": "nebo",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that speaks or prophesies"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBUCHADNEZZAR": {
+    "name": "Nebuchadnezzar",
+    "slug": "nebuchadnezzar",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Nebuchadrezzar, tears and groans of judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBUSHASI_HAHBAN": {
+    "name": "Nebushasi_hahban",
+    "slug": "nebushasi-hahban",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "speech; prophecy; springing; flowing"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEBUZAR-ADAN": {
+    "name": "Nebuzar-adan",
+    "slug": "nebuzar-adan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fruits or prophecies of judgment"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NECHO": {
+    "name": "Necho",
+    "slug": "necho",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "lame; beaten"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEDABIAH": {
+    "name": "Nedabiah",
+    "slug": "nedabiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prince or vow of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEGINOTH": {
+    "name": "Neginoth",
+    "slug": "neginoth",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "stringed instruments"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEHELAMITE": {
+    "name": "Nehelamite",
+    "slug": "nehelamite",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "dreamer; vale; brook"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEHEMIAH": {
+    "name": "Nehemiah",
+    "slug": "nehemiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "consolation; repentance of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEHUM": {
+    "name": "Nehum",
+    "slug": "nehum",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "comforter; penitent"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEHUSHTA": {
+    "name": "Nehushta",
+    "slug": "nehushta",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "made of brass"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEHUSHTAN": {
+    "name": "Nehushtan",
+    "slug": "nehushtan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a trifling thing of brass"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEIEL": {
+    "name": "Neiel",
+    "slug": "neiel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "commotion, or moving, of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEKODA": {
+    "name": "Nekoda",
+    "slug": "nekoda",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "painted; inconstant"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEMUEL": {
+    "name": "Nemuel",
+    "slug": "nemuel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the sleeping of God"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEPHEG": {
+    "name": "Nepheg",
+    "slug": "nepheg",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "weak; slacked"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEPHISH": {
+    "name": "Nephish",
+    "slug": "nephish",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Naphish"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEPHISHESIM": {
+    "name": "Nephishesim",
+    "slug": "nephishesim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "diminished; torn in pieces"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEPHTHALIM": {
+    "name": "Nephthalim",
+    "slug": "nephthalim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Naphtali"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEPHTHOAH": {
+    "name": "Nephthoah",
+    "slug": "nephthoah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "opening; open"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEPHUSIM": {
+    "name": "Nephusim",
+    "slug": "nephusim",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Nephishesim"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NER": {
+    "name": "Ner",
+    "slug": "ner",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a lamp; new-tilled land"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEREUS": {
+    "name": "Nereus",
+    "slug": "nereus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Ner"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NERGAL": {
+    "name": "Nergal",
+    "slug": "nergal",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the great man; the hero"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NERGAL-SHAREZER": {
+    "name": "Nergal-sharezer",
+    "slug": "nergal-sharezer",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "treasurer of Nergal"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NERI": {
+    "name": "Neri",
+    "slug": "neri",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "my light"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NERIAH": {
+    "name": "Neriah",
+    "slug": "neriah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "light; lamp of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NETHANEEL": {
+    "name": "Nethaneel",
+    "slug": "nethaneel",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Nathanael"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NETHANIAH": {
+    "name": "Nethaniah",
+    "slug": "nethaniah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the gift of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NETHINIMS": {
+    "name": "Nethinims",
+    "slug": "nethinims",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "given or offered"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEZIAH": {
+    "name": "Neziah",
+    "slug": "neziah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "conqueror; strong"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NEZIB": {
+    "name": "Nezib",
+    "slug": "nezib",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "standing-place"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NIBHAZ": {
+    "name": "Nibhaz",
+    "slug": "nibhaz",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "budding; prophesying"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NIBSHAN": {
+    "name": "Nibshan",
+    "slug": "nibshan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "prophecy; growing of a tooth"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NICANOR": {
+    "name": "Nicanor",
+    "slug": "nicanor",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "a conqueror; victorious"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NICODEMUS": {
+    "name": "Nicodemus",
+    "slug": "nicodemus",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "victory of the people"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NICOLAITANES": {
+    "name": "Nicolaitanes",
+    "slug": "nicolaitanes",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "followers of Nicolas"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NICOLAS": {
+    "name": "Nicolas",
+    "slug": "nicolas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Nicodemus"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NICOPOLIS": {
+    "name": "Nicopolis",
+    "slug": "nicopolis",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "the city of victory"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NIGER": {
+    "name": "Niger",
+    "slug": "niger",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "black"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NIMRAH": {
+    "name": "Nimrah",
+    "slug": "nimrah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "Nimrim, leopard; bitterness; rebellion"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NIMROD": {
+    "name": "Nimrod",
+    "slug": "nimrod",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rebellion (but probably an unknown Assyrian word)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NIMSHI": {
+    "name": "Nimshi",
+    "slug": "nimshi",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rescued from danger"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NINEVEH": {
+    "name": "Nineveh",
+    "slug": "nineveh",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "handsome; agreeable"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NISAN": {
+    "name": "Nisan",
+    "slug": "nisan",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "standard; miracle"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NISROCH": {
+    "name": "Nisroch",
+    "slug": "nisroch",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "flight; proof; temptation; delicate"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NO": {
+    "name": "No",
+    "slug": "no",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "stirring up; forbidding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOADIAH": {
+    "name": "Noadiah",
+    "slug": "noadiah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "witness, or ornament, of the Lord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOAH": {
+    "name": "Noah",
+    "slug": "noah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that quavers or totters (Zelophehad's daughter)"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOB": {
+    "name": "Nob",
+    "slug": "nob",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "discourse; prophecy"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOBAH": {
+    "name": "Nobah",
+    "slug": "nobah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "that barks or yelps"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOD": {
+    "name": "Nod",
+    "slug": "nod",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "vagabond; fugitive"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NODAB": {
+    "name": "Nodab",
+    "slug": "nodab",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "vowing of his own accord"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOE": {
+    "name": "Noe",
+    "slug": "noe",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Noah"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOGAH": {
+    "name": "Nogah",
+    "slug": "nogah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "brightness; clearness"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOHA": {
+    "name": "Noha",
+    "slug": "noha",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "rest; a guide"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NON": {
+    "name": "Non",
+    "slug": "non",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "posterity; a fish; eternal"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOPH": {
+    "name": "Noph",
+    "slug": "noph",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "honeycomb; anything that distills or drops"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NOPHAH": {
+    "name": "Nophah",
+    "slug": "nophah",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "fearful; binding"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NUN": {
+    "name": "Nun",
+    "slug": "nun",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "same as Non"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  },
+  "NYMPHAS": {
+    "name": "Nymphas",
+    "slug": "nymphas",
+    "definitions": [
+      {
+        "source": "HIT",
+        "text": "spouse; bridegroom"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "HIT"
+    ]
+  }
+}
