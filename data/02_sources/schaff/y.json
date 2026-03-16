@@ -1,0 +1,110 @@
+{
+  "YARN": {
+    "name": "Yarn",
+    "slug": "yarn",
+    "definitions": [
+      {
+        "source": "SCH",
+        "text": "YARN, LINEN. 1 Kgs 10:28. There is a diversity of opinion as to the meaning of this term. There is very strong reason to doubt the correctness of the rendering in our translation, and to substitute for it \"the drove\" - i.e., of horses. See Eze 27:7."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:28",
+        "original": "1 Kings 10:28"
+      },
+      {
+        "reference": "Ezekiel 27:7",
+        "original": "Ezekiel 27:7"
+      }
+    ],
+    "sources": [
+      "SCH"
+    ]
+  },
+  "YEAR": {
+    "name": "Year",
+    "slug": "year",
+    "definitions": [
+      {
+        "source": "SCH",
+        "text": "YEAR, SABBAT'ICAL. In the seventh year all agricultural labor was suspended, and spontaneous productions were left to the poor, the traveller, and the wild beasts. Lev 25:1-7. This was (1) For the sake of the ground; (2) For the preservation of wild beasts; and (3) To make the people provident and sensible of dependence. The people could fish, hunt, take care of bees and flocks, repair buildings, manufacture clothes, and carry on commerce. This year was religiously observed, Deut 31:10-13. There was, moreover, a general release-, no debt to a Jew was allowed to stand, but must be forgiven. Deut 15:1-11. It has been inferred from 2 Chr 26:21 that this sabbatical year was neglected during seventy Sabbatical cycles - i.e., four hundred and ninety years. Whether it was ever observed is not a matter of certain record, but there is an allusion to it in 1 Mace. 6:49, and Luke  6:1 has been interpreted to refer to the \"first Sabbath of the second year in the cycle.\""
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:1-Lev",
+        "original": "Leviticus 25:1-Lev"
+      },
+      {
+        "reference": "Deuteronomy 31:10-Deut",
+        "original": "Deuteronomy 31:10-Deut"
+      },
+      {
+        "reference": "Deuteronomy 15:1-Deut",
+        "original": "Deuteronomy 15:1-Deut"
+      },
+      {
+        "reference": "2 Chronicles 26:21",
+        "original": "2 Chronicles 26:21"
+      },
+      {
+        "reference": "Luke 6:1",
+        "original": "Luke 6:1"
+      }
+    ],
+    "sources": [
+      "SCH"
+    ]
+  },
+  "YEAR OF JUBILEE": {
+    "name": "Year Of Jubilee",
+    "slug": "year-of-jubilee",
+    "definitions": [
+      {
+        "source": "SCH",
+        "text": "YEAR OF JUBILEE. Lev 25:8-10. See Jubilee, Year of."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:8-Lev",
+        "original": "Leviticus 25:8-Lev"
+      }
+    ],
+    "sources": [
+      "SCH"
+    ]
+  },
+  "YOKE": {
+    "name": "Yoke",
+    "slug": "yoke",
+    "definitions": [
+      {
+        "source": "SCH",
+        "text": "YOKE. This was much lighter than ours, and probably much larger, so that the cattle stood farther apart and the plough could more easily be made to avoid obstructions. It was simply a stick Yoke in Use in Palestine. a, b, timber of the yoke; c, d, the bows; e, f, pegs between which, at g, the end of the shaft comes, the shaft itself having been run through the rope between f and the cross-piece of wood h, i. laid upon the necks of the cattle, to which it was held by thongs instead of wooden bows, and in a similar manner it was attached to the plough-beam. In modern Syria wooden pins are sometimes used instead of thongs, the lower ends of which are held by a parallel stick under the necks of the oxen. The yoke was an appropriate emblem of subjection and of slavery, imprisonment, and severe rule, while the removal of it indicated the corresponding deliverance. Gen 27:40; Jer 2:20; Matt 11:29-30. Breaking the yoke also represents the rejection of authority. Nah 1:13."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 27:40",
+        "original": "Genesis 27:40"
+      },
+      {
+        "reference": "Jeremiah 2:20",
+        "original": "Jeremiah 2:20"
+      },
+      {
+        "reference": "Matthew 11:29-Matt",
+        "original": "Matthew 11:29-Matt"
+      },
+      {
+        "reference": "Nahum 1:13",
+        "original": "Nahum 1:13"
+      }
+    ],
+    "sources": [
+      "SCH"
+    ]
+  }
+}
