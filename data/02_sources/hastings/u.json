@@ -1,0 +1,1244 @@
+{
+  "UCAL": {
+    "name": "UCAL",
+    "slug": "ucal",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'CAL (I am strong) occurs only once, Prov 30:1, as the name of one of the persons to whom Agur's words are spoken."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 30:1",
+        "original": "Prov 30:1"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UEL": {
+    "name": "UEL",
+    "slug": "uel",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'EL (will of God) had, during the Captivity, married a foreign wife, Ezr 10:34; called Juel in 1 Esdr. 9:34."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 10:34",
+        "original": "Ezr 10:34"
+      },
+      {
+        "reference": "1Esd 9:34",
+        "original": "1 Esdr. 9:34"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UKNAZ,": {
+    "name": "UKNAZ,",
+    "slug": "uknaz",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UK'NAZ, in the margin to 1 Chr 4:15, is the proper name \"Kenaz\" with the copulative conjunction prefixed, but the preceding proper name has been omitted."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:15",
+        "original": "1 Chr 4:15"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "ULAI": {
+    "name": "ULAI",
+    "slug": "ulai",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'LAI (strong water?), a river of Susians, on whose banks Daniel saw his vision of the ram and he-goat. Dan 8:2-16. It is doubtless the Eulaeus of the Greeks and Romans, a large stream in the vicinity of Susa (Shushan). Recent explorations have shown that the river Choaspes (Kerkhan) divides about 20 miles above Susa. The eastern branch, which received the Shapur and fell into the Karan, was probably the Ulai. This bifurcation of the stream explains the otherwise difficult passage, \"I heard a man's voice between the banks of Ulai,\" Dan 8:16 - that is, between the banks of the two streams of that divided river."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 8:2-16",
+        "original": "Dan 8:2-16"
+      },
+      {
+        "reference": "Daniel 8:16",
+        "original": "Dan 8:16"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "ULAM": {
+    "name": "ULAM",
+    "slug": "ulam",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'LAM (porch, vestibule). A descendant of Manasseh. 1 Chr 7:17. A descendant of the house of Saul. 1 Chr 8:39-40."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:17",
+        "original": "1 Chr 7:17"
+      },
+      {
+        "reference": "1 Chronicles 8:39-40",
+        "original": "1 Chr 8:39-40"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "ULLA": {
+    "name": "ULLA",
+    "slug": "ulla",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UL'LA (yoke), an Asherite chieftain. 1 Chr 7:39."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:39",
+        "original": "1 Chr 7:39"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UMMAH": {
+    "name": "UMMAH",
+    "slug": "ummah",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UM'MAH (community), a city of Asher. Josh 19:30. Dr. Thomson associates it with the modern Alma, north of Achzib, some 5 miles from the seashore; Conder with Ummieh."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:30",
+        "original": "Josh 19:30"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNCIRCUMCISION.": {
+    "name": "UNCIRCUMCISION.",
+    "slug": "uncircumcision",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNCIRCUMCIS'ION. Rom 2:25. See Circumcised."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 2:25",
+        "original": "Rom 2:25"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNCLEAN MEATS.": {
+    "name": "UNCLEAN MEATS.",
+    "slug": "unclean-meats",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNCLEAN' MEATS. Hos 9:3. See Clean and Unclean."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 9:3",
+        "original": "Hos 9:3"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNCLEAN.": {
+    "name": "UNCLEAN.",
+    "slug": "unclean",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNCLEAN'. Lev 5:2. See Clean and Unclean."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 5:2",
+        "original": "Lev 5:2"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNCOVERING": {
+    "name": "UNCOVERING",
+    "slug": "uncovering",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNCOVERING the head was a token of mourning and captivity. Lev 10:6; Isa 47:2."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 10:6",
+        "original": "Lev 10:6"
+      },
+      {
+        "reference": "Isaiah 47:2",
+        "original": "Isa 47:2"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNCTION": {
+    "name": "UNCTION",
+    "slug": "unction",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNCTION is used figuratively with reference to the ceremony of anointing, and signifying the communication of a divine grace. 1 John 2:20, 1 John 2:27."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 John 2:20",
+        "original": "1 John 2:20"
+      },
+      {
+        "reference": "1 John 2:27",
+        "original": "1 John 2:27"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNDERGIRDING": {
+    "name": "UNDERGIRDING",
+    "slug": "undergirding",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNDERGIRD'ING a vessel means to pass a strong cable around the hull to prevent it from opening. The ship which carried St. Paul to Italy was undergirded. Acts 27:17. Lord Anson mentions a Spanish man-of-war that was saved by throwing overboard one tier of guns and taking six turns of a cable around the ship."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:17",
+        "original": "Acts 27:17"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNDERSETTERS,": {
+    "name": "UNDERSETTERS,",
+    "slug": "undersetters",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNDERSET'TERS, projections by which the brazen laver was ornamented and supported. 1 Kgs 7:30."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 7:30",
+        "original": "1 Kgs 7:30"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNICORN": {
+    "name": "UNICORN",
+    "slug": "unicorn",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'NICORN (reem, or high), a very unfortunate translation of a word which occurs seven times in the O.T. That fabulous creature the unicorn certainly is not meant by the reem. Critics are agreed that the passages mentioning it, correctly understood, require an animal with two horns. This animal was distinguished for his ferocity, Isa 34:7, strength, Num 23:22; Num 24:8, agility, Ps 29:6, wildness. Job 39:9, as well as for being horned and destroying with his horns. Deut 33:17; Ps 22:21. For various reasons, this animal could not have been the rhinoceros. Probably it was the now extinct aurochs (Bos primigenins), a long-horned and powerful ox, which existed in the forests of Europe nearly, or quite, until the Middle Ages. Caesar found it in the Hercynian forest, and gives this description: \"These uri are scarcely less than elephants in size, but in their nature, color, and form are bulls. Great is their strength, and great their speed; they spare neither man nor beast when once they have caught sight of them.\" An allied species of bovine animals of great size and strength is known to have existed in Palestine, as the bison (Bison bonasus), and some of these, now called aurochs, are still found in the forests of Lithuania. The Scripture references will be found peculiarly appropriate to an animal of the ox kind. Assyrian monuments represent the king and his warriors hunting a wild bison, which \"appears to have been considered scarcely less formidable Bison. (Bison bonofius. After Tristram.) and noble game than the lion.\" In a bone-cave in Lebanon the teeth of the aurochs or a similar ox have been discovered. Altogether, the above interpretation may be regarded as quite established."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 34:7",
+        "original": "Isa 34:7"
+      },
+      {
+        "reference": "Numbers 23:22",
+        "original": "Num 23:22"
+      },
+      {
+        "reference": "Numbers 24:8",
+        "original": "Num 24:8"
+      },
+      {
+        "reference": "Psalms 29:6",
+        "original": "Ps 29:6"
+      },
+      {
+        "reference": "Job 39:9",
+        "original": "Job 39:9"
+      },
+      {
+        "reference": "Deuteronomy 33:17",
+        "original": "Deut 33:17"
+      },
+      {
+        "reference": "Psalms 22:21",
+        "original": "Ps 22:21"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNITY OF THE SPIRIT": {
+    "name": "UNITY OF THE SPIRIT",
+    "slug": "unity-of-the-spirit",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNITY OF THE SPIRIT is unity of judgment, affection, and feeling among those who constitute the one body of Christ, Eph 4:3, and it is the gift of God. Jer 32:39. It was remarkably enjoyed in the early ages of the Church, John 17:21; Acts 4:32. and is to be sought after as among the chief of Christian graces. 2 Cor 13:11."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 4:3",
+        "original": "Eph 4:3"
+      },
+      {
+        "reference": "Jeremiah 32:39",
+        "original": "Jer 32:39"
+      },
+      {
+        "reference": "John 17:21",
+        "original": "John 17:21"
+      },
+      {
+        "reference": "Acts 4:32",
+        "original": "Acts 4:32"
+      },
+      {
+        "reference": "2 Corinthians 13:11",
+        "original": "2 Cor 13:11"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNNI": {
+    "name": "UNNI",
+    "slug": "unni",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UN'NI (depressed). A Levite appointed to play the psaltery. 1 Chr 15:18, 1 Chr 15:20. Another Levite, living after the return from Babylon. Neh 12:9."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 15:18",
+        "original": "1 Chr 15:18"
+      },
+      {
+        "reference": "1 Chronicles 15:20",
+        "original": "1 Chr 15:20"
+      },
+      {
+        "reference": "Nehemiah 12:9",
+        "original": "Neh 12:9"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UNRIGHTEOUS MAMMON.": {
+    "name": "UNRIGHTEOUS MAMMON.",
+    "slug": "unrighteous-mammon",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UNRIGHTEOUS MAMMON. Luke 16:11. See Mammon."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 16:11",
+        "original": "Luke 16:11"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UPHARSIN.": {
+    "name": "UPHARSIN.",
+    "slug": "upharsin",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UPHAR'SIN. Dan 5:25. See Mene."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 5:25",
+        "original": "Dan 5:25"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UPHAZ,": {
+    "name": "UPHAZ,",
+    "slug": "uphaz",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'PHAZ, probably the same as Ophir, which see. Jer 10:9; Dan 10:5."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 10:9",
+        "original": "Jer 10:9"
+      },
+      {
+        "reference": "Daniel 10:5",
+        "original": "Dan 10:5"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UPPER COASTS": {
+    "name": "UPPER COASTS",
+    "slug": "upper-coasts",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UP'PER COASTS are the countries of Galatia and Phrygia through which Paul passed at the beginning of his third missionary-tour. Acts 19:1."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 19:1",
+        "original": "Acts 19:1"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UPPER ROOM.": {
+    "name": "UPPER ROOM.",
+    "slug": "upper-room",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UPPER ROOM. Mark 14:15. See Dwellings."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 14:15",
+        "original": "Mark 14:15"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UPPERMOST ROOMS.": {
+    "name": "UPPERMOST ROOMS.",
+    "slug": "uppermost-rooms",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UPPERMOST ROOMS. Luke 12:39. See Synagogues."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 12:39",
+        "original": "Luke 12:39"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UR": {
+    "name": "UR",
+    "slug": "ur",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UR (light), the father of one of David's men, 1 Chr 11:35; called Ahasbai in 2 Sam 23:34."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:35",
+        "original": "1 Chr 11:35"
+      },
+      {
+        "reference": "2 Samuel 23:34",
+        "original": "2 Sam 23:34"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UR OF THE CHALDEES": {
+    "name": "UR OF THE CHALDEES",
+    "slug": "ur-of-the-chaldees",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UR OF THE CHAL'DEES (light?, or, from the rendering in the Septuagint, region), the place at which Abraham resided with Terah, his father, before he was called to go into the land of Canaan. Gen 11:28, 1 Chr 24:31; Luke 15:7. It is mentioned in the O.T. as \"of the Chaldees,\" and Josephus calls it \"a city of the Chaldaeans.\" Stephen speaks of it as in Mesopotamia. Acts 7:2. These are the only biblical clews to its site, and hence the identification has been a disputed question. Among the places Ur are - The modern Orfah, or Urfa, in Mesopotamia, some 20 miles north of Haran and a short distance east of the Upper Euphrates, It is about 450 miles north-north-east of Jerusalem in a straight line. This is the classic Edessa. It is now a city of about 50,000 to 60,000 inhabitants, nearly equally divided into Muslims and Christians (Jacobites and Armenians). Among the arguments for making this Ur are:(1) The resemblance in name. (2) The long-standing tradition among both Jews and Mohammedans that Abraham dwelt there. At the base of the mountain, to the south-east of the town, is the cave which tradition says was his birthplace, and over it is a mosque so holy that only Muslims are allowed to enter it. There is a pool called Bicket el- Ibrahim, el Khaleel, the \"pool of Abraham the beloved.\" (3) The saying of Josh 24:2 that it was \"on the other side of the flood \" - i. e., east of the Euphrates. But in opposition to this identification it is urged, among other things, that Chaldaea did not extend into Upper Mesopotamia, that the history points to a longer migration between Ur and Haran than the 20 miles between Orfah and Haran. Uz is also connected with Orfah by tradition. See Uz. Warka, in south-eastern Mesopotamia, 120 miles south-east of Babylon, 4 miles east of the Euphrates. The tract of land is slightly raised above the ordinary water-level. Upon a sandy platform are situated the remains of numerous ancient buildings, A rampart of earth, nearly 6 miles in circumference and 40 feet high, surrounds the area. This is now commonly supposed to represent the city of Erech of Scripture and the Orchoe of the Greeks. A tradition of the Talmud and in early Arabic works makes this Ur. Wacka is a city of tombs, and is now utterly desolate. Mugheir, \"mother of bitumen,\" a ruined site about 6 miles west of the confluence of the Euphrates and Tigris, and about 125 miles north-west of the Persian Gulf. The ruins now cover an oval space 1000 yards long and 800 broad. The Koran and the Talmud contain legendary accounts of the escape of Abraham from the fire into which idolaters threw him at Ur. The most remarkable ruin at Mugheir is a temple built of bricks laid in bitumen, and many of them inscribed with the name of Urukh, a Chaldaean monarch whose date is supposed to have been b.c. 2230. This is perhaps the most ancient Chaldaean site discovered. Rawlinson, Porter, Eadie, and others accept this as the most probable site of Ur of the Chaldees."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:28",
+        "original": "Gen 11:28"
+      },
+      {
+        "reference": "1 Chronicles 24:31",
+        "original": "1 Chr 24:31"
+      },
+      {
+        "reference": "Luke 15:7",
+        "original": "Luke 15:7"
+      },
+      {
+        "reference": "Acts 7:2",
+        "original": "Acts 7:2"
+      },
+      {
+        "reference": "Joshua 24:2",
+        "original": "Josh 24:2"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "URBANE": {
+    "name": "URBANE",
+    "slug": "urbane",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UR'BANE (from the Latin urbanna, \"refined,\" \"polite\"), one of the Christians in Rome to whom St. Paul sent a salutation. Rom 16:9."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:9",
+        "original": "Rom 16:9"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "URI": {
+    "name": "URI",
+    "slug": "uri",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'RI (fiery). Of the tribe of Judah, the father of Bezaleel, one of the architects of the tabernacle. Ex 31:2; Ex 35:30; Ex 38:22; 1 Chr 2:20; 2 Chr 1:5. The father of Geber, the commissariat-officer of Solomon in Gilead. 1 Kgs 4:19. A gatekeeper of the temple who in the time of Ezra had married a foreign wife. Ezr 10:24."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 31:2",
+        "original": "Ex 31:2"
+      },
+      {
+        "reference": "Exodus 35:30",
+        "original": "Ex 35:30"
+      },
+      {
+        "reference": "Exodus 38:22",
+        "original": "Ex 38:22"
+      },
+      {
+        "reference": "1 Chronicles 2:20",
+        "original": "1 Chr 2:20"
+      },
+      {
+        "reference": "2 Chronicles 1:5",
+        "original": "2 Chr 1:5"
+      },
+      {
+        "reference": "1 Kings 4:19",
+        "original": "1 Kgs 4:19"
+      },
+      {
+        "reference": "Ezra 10:24",
+        "original": "Ezr 10:24"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "URIAH,": {
+    "name": "URIAH,",
+    "slug": "uriah",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "URI'AH, 2 Sam 11:3, or URI'AS, Matt 1:6, a Hittite by descent, but probably converted to Judaism, commander of one of the bands of David's army, and the husband of Bathsheba. His death was purposely brought about by an understanding between Joab and David, in order that David's guilt in the case of Bathsheba might be concealed, and that he might obtain her for his wife."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 11:3",
+        "original": "2 Sam 11:3"
+      },
+      {
+        "reference": "Matthew 1:6",
+        "original": "Matt 1:6"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "URIEL": {
+    "name": "URIEL",
+    "slug": "uriel",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'RIEL (fire of God). A Levite of the family of Kohath. 1 Chr 6:24. The chief of the Kohathites in the time of David. 1 Chr 15:5, 1 Chr 15:11. The father of Maachah or Michaiah, Rehoboam's wife and mother of Abijah. 2 Chr 13:2. In 2 Chr 11:20 Maachah is called \"the daughter of Absalom,\" which may be explained by her mother, Tamar, being a daughter of Absalom."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:24",
+        "original": "1 Chr 6:24"
+      },
+      {
+        "reference": "1 Chronicles 15:5",
+        "original": "1 Chr 15:5"
+      },
+      {
+        "reference": "1 Chronicles 15:11",
+        "original": "1 Chr 15:11"
+      },
+      {
+        "reference": "2 Chronicles 13:2",
+        "original": "2 Chr 13:2"
+      },
+      {
+        "reference": "2 Chronicles 11:20",
+        "original": "2 Chr 11:20"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "URIJAH": {
+    "name": "URIJAH",
+    "slug": "urijah",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "URI'JAH (flame of Jehovah). High priest in the reign of Ahaz, 2 Kgs 16:10-16; called Uriah in Isa 8:2; complied subserviently with the demand of the king to make an altar after the idolatrous pattern of that of Damascus, and to offer sacrifices on it. The son of Shemaiah of Kirjathjearim; prophesied in the days of Jehoiakim, and fled from the king's wrath to Egypt, but was seized there, brought back, and slain. Jer 26:20-23, A priest of the family of Koz, the ancestor of Meremoth, Neh 3:4, 2 Chr 11:21; perhaps the same as mentioned in Neh 8:4."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 16:10-16",
+        "original": "2 Kgs 16:10-16"
+      },
+      {
+        "reference": "Isaiah 8:2",
+        "original": "Isa 8:2"
+      },
+      {
+        "reference": "Jeremiah 26:20-23",
+        "original": "Jer 26:20-23"
+      },
+      {
+        "reference": "Nehemiah 3:4",
+        "original": "Neh 3:4"
+      },
+      {
+        "reference": "2 Chronicles 11:21",
+        "original": "2 Chr 11:21"
+      },
+      {
+        "reference": "Nehemiah 8:4",
+        "original": "Neh 8:4"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "URIM": {
+    "name": "URIM",
+    "slug": "urim",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'RIM and THUM'MIM (light and perfection) denote some part of the high priest's apparel. In Ex 28:15-30 it is prescribed that the Urim and Thummim shall be placed beneath the breastplate, in order to be on the high priest's heart when he goes in before the Lord; and when Aaron was arrayed, Moses himself put the Urim and Thummim into the breastplate. Lev 8:8. In the blessings of Moses he speaks of the Urim and Thummim as the crowning glory of the Levite tribe; and when Joshua is solemnly appointed to succeed him. Num 27:21, the high priest, Eleazar, is said to ask counsel for him after the judgment of Urim. But nowhere in Scripture are the Urim and Thummim described, and, as Jewish tradition can give no information, we do not know what they really were."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:15-30",
+        "original": "Ex 28:15-30"
+      },
+      {
+        "reference": "Leviticus 8:8",
+        "original": "Lev 8:8"
+      },
+      {
+        "reference": "Numbers 27:21",
+        "original": "Num 27:21"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "USURY,": {
+    "name": "USURY,",
+    "slug": "usury",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'SURY, by modern usage, means exorbitant or unlawful interest, but in the Scriptures it means simply interest. The Law of Moses prohibited the Jews from taking any interest of each other for the loan of money or of anything else, though they were allowed to take it of foreigners. The exchangers of money were in the habit of receiving it at low interest and loaning it at high interest, taking the difference for their gain. Eze 22:12. The practice of usury is severely denounced in the Scriptures. Neh 5:7, 1 Kgs 16:10; Ps 15:5; Prov 28:8. It has sometimes been asked why the Jews were permitted to take usury of strangers, while they were forbidden to take it of each other. It is quite clear that the civil economy of the Jewish state excluded the general use of usury as a means of gain in a medium of exchange. They had no commerce with foreign nations, as we have in modern times, or as the Gentile nations had in that age. They had their inheritance apportioned to them in the division of the land, and were rather branches of the same family settled together than independent communities, and their united business transactions were to be of the most friendly nature. In dealing with foreigners whose object was gain, they were allowed to avail themselves of the ordinary principles of trade."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 22:12",
+        "original": "Eze 22:12"
+      },
+      {
+        "reference": "Nehemiah 5:7",
+        "original": "Neh 5:7"
+      },
+      {
+        "reference": "1 Kings 16:10",
+        "original": "1 Kgs 16:10"
+      },
+      {
+        "reference": "Psalms 15:5",
+        "original": "Ps 15:5"
+      },
+      {
+        "reference": "Proverbs 28:8",
+        "original": "Prov 28:8"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UTHAI": {
+    "name": "UTHAI",
+    "slug": "uthai",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'THAI (Jehovah succors). A descendant of Judah, 1 Chr 9:4; called Athaiah in Neh 11:4; was one of those dwelling in Jerusalem after the Captivity. A son of Bigvai; returned home in the second caravan with Ezra, Ezr 8:14: called Uthi in 1 Esd. 8:40."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 9:4",
+        "original": "1 Chr 9:4"
+      },
+      {
+        "reference": "Nehemiah 11:4",
+        "original": "Neh 11:4"
+      },
+      {
+        "reference": "Ezra 8:14",
+        "original": "Ezr 8:14"
+      },
+      {
+        "reference": "1Esd 8:40",
+        "original": "1 Esd. 8:40"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZ": {
+    "name": "UZ",
+    "slug": "uz",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ (fruitful in trees). A son of Aram, and grandson of Shem. Gen 10:23; 1 Chr 1:17. A son of Dishan, and grandson of Seir. Gen 36:28."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:23",
+        "original": "Gen 10:23"
+      },
+      {
+        "reference": "1 Chronicles 1:17",
+        "original": "1 Chr 1:17"
+      },
+      {
+        "reference": "Genesis 36:28",
+        "original": "Gen 36:28"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZ, THE LAND OF": {
+    "name": "UZ, THE LAND OF",
+    "slug": "uz-the-land-of",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ, THE LAND OF (fertile land). Uz, or, more correctly, \"Huz,\" was the country of Job. Job 1:1. It is mentioned in the ethnographical tables. Gen 10:23, and it was settled by a son of Aram. Comp. 1 Chr 1:17. Job was \"the greatest of all the men of the East\" - in Hebrew, Bene-Kedem, the people who dwelt in Arabia. Job 1:3, Job 1:15-17. Uz is grouped with Egypt, Philistia, and Moab, Jer 25:20, and with Edom. Jer Lam, 4:21. Situation. - The position of the land of Uz has been a subject of much dispute. According to Josephus, Uz was the father of the inhabitants of Damascus and Trachonitis. Many traditions put it at Orfah, on the Euphrates. See Ur. Near the Haran-gate in that city is \"Job's well,\" which is a sacred shrine to the people because the patriarch drank of its waters. Porter found many traditions of Job in the Hauran, and numerous places named after the patriarch. The land of Uz seems most likely to have been in general that portion of Arabia Deserta east of Edom and south of Trachonitis, extending indefinitely toward the Euphrates."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 1:1",
+        "original": "Job 1:1"
+      },
+      {
+        "reference": "Genesis 10:23",
+        "original": "Gen 10:23"
+      },
+      {
+        "reference": "1 Chronicles 1:17",
+        "original": "1 Chr 1:17"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "Job 1:15-17",
+        "original": "Job 1:15-17"
+      },
+      {
+        "reference": "Jeremiah 25:20",
+        "original": "Jer 25:20"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZAI": {
+    "name": "UZAI",
+    "slug": "uzai",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'ZAI (strong), the father of Palal, who assisted Nehemiah in repairing the walls of Jerusalem. Neh 3:25."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:25",
+        "original": "Neh 3:25"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZAL": {
+    "name": "UZAL",
+    "slug": "uzal",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "U'ZAL, the sixth son of Joktan. Gen 10:27; 1 Chr 1:21. His descendants settled in Yemen and built the city of Uzal, which from the earliest times was one of the principal towns of the country. Its name was afterward changed to \"Sana,\" and it is now the capital of Yemen. Niebuhr describes it as a beautiful town, situated on a plateau, and resembling Damascus on account of its rippling waters and fine trees."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:27",
+        "original": "Gen 10:27"
+      },
+      {
+        "reference": "1 Chronicles 1:21",
+        "original": "1 Chr 1:21"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZA": {
+    "name": "UZZA",
+    "slug": "uzza",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ'ZA (strength). An inhabitant of Jerusalem in whose garden Manasseh, king of Judah, and his son Amon were buried. 2 Kgs 21:18, 2 Kgs 21:26. The location of the garden is not known. A Benjamite descending from Ehud, 1 Chr 8:7, and, according to the Targum on Esther, the ancestor of Mordecai. The ancestor of the family of Nethinim which returned from Babylon with Zerubbabel. Ezr 2:49; Neh 7:51. A Levite of the family of Merari. 1 Chr 6:29."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 21:18",
+        "original": "2 Kgs 21:18"
+      },
+      {
+        "reference": "2 Kings 21:26",
+        "original": "2 Kgs 21:26"
+      },
+      {
+        "reference": "1 Chronicles 8:7",
+        "original": "1 Chr 8:7"
+      },
+      {
+        "reference": "Ezra 2:49",
+        "original": "Ezr 2:49"
+      },
+      {
+        "reference": "Nehemiah 7:51",
+        "original": "Neh 7:51"
+      },
+      {
+        "reference": "1 Chronicles 6:29",
+        "original": "1 Chr 6:29"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZA, GARDEN OF.": {
+    "name": "UZZA, GARDEN OF.",
+    "slug": "uzza-garden-of",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ'ZA, GARDEN OF. 2 Kgs 21:26. See Uzza, 1."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 21:26",
+        "original": "2 Kgs 21:26"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZAH": {
+    "name": "UZZAH",
+    "slug": "uzzah",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ'ZAH (strength), a son of Abinadab, in whose house at Kirjath-jearim the ark had rested, was instantly killed by the immediate action of God for laying his hands upon the ark, while guiding the carriage on which it was brought to Jerusalem, in violation of the express provisions of the divine law. Num 4:15; 2 Sam 6:3-8. In 1 Chr 13:7-11 he is called Uzza."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 4:15",
+        "original": "Num 4:15"
+      },
+      {
+        "reference": "2 Samuel 6:3-8",
+        "original": "2 Sam 6:3-8"
+      },
+      {
+        "reference": "1 Chronicles 13:7-11",
+        "original": "1 Chr 13:7-11"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZEN-SHERAH": {
+    "name": "UZZEN-SHERAH",
+    "slug": "uzzen-sherah",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ'ZEN-SHE'RAH (ear of Sherah), a city of Sherah, the daughter or descendant of Ephraim. 1 Chr 7:24. Probably it was near Beth-boron, and its site may be marked by Beit Sira, 3 miles south-west of the lower Bethhoron."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:24",
+        "original": "1 Chr 7:24"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZI": {
+    "name": "UZZI",
+    "slug": "uzzi",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZ'ZI (might of Jehovah). A son of Bukki, and the father of Zerahiah, in the line of the high priests, 1 Chr 6:5-6, 1 Chr 6:51; Ezr 7:4, but not a high priest himself. The grandson of Issachar. 1 Chr 7:2-3. A Benjamite, son of Bela. 1 Chr 7:7. Another Benjamite, ancestor of several families settled in Jerusalem after the Captivity. 1 Chr 9:8. A son of Bani, a Levite, and overseer of the Levites in Jerusalem in the time of Nehemiah. Neh 11:22. A priest in the time of Jozakim, the high priest. Neh 12:19. A priest assisting Ezra in dedicating the walls of Jerusalem; perhaps the same as the preceding. Neh 12:42."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:5-6",
+        "original": "1 Chr 6:5-6"
+      },
+      {
+        "reference": "1 Chronicles 6:51",
+        "original": "1 Chr 6:51"
+      },
+      {
+        "reference": "Ezra 7:4",
+        "original": "Ezr 7:4"
+      },
+      {
+        "reference": "1 Chronicles 7:2-3",
+        "original": "1 Chr 7:2-3"
+      },
+      {
+        "reference": "1 Chronicles 7:7",
+        "original": "1 Chr 7:7"
+      },
+      {
+        "reference": "1 Chronicles 9:8",
+        "original": "1 Chr 9:8"
+      },
+      {
+        "reference": "Nehemiah 11:22",
+        "original": "Neh 11:22"
+      },
+      {
+        "reference": "Nehemiah 12:19",
+        "original": "Neh 12:19"
+      },
+      {
+        "reference": "Nehemiah 12:42",
+        "original": "Neh 12:42"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZIA": {
+    "name": "UZZIA",
+    "slug": "uzzia",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZZI'A (strength of Jehovah), one of David's guard; surnamed the \"Ashterathite.\" 1 Chr 11:44."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:44",
+        "original": "1 Chr 11:44"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZIAH": {
+    "name": "UZZIAH",
+    "slug": "uzziah",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZZI'AH (might of Jehovah). The son and successor of Amaziah, king of Judah; called Azariah in 2 Kgs 14:21 and elsewhere; began to reign at sixteen, and reigned fifty-two years, b.c. 808-756. His career was most prosperous. He walked in the ways of his father David, and as a consequence was blessed with victory over his enemies and great fame and love. But he was puffed up by success so long continued, and presumed to burn incense on the altar like the priests. Azariah, the high priest, and eighty others opposed him; but God most effectually checked him by making him a leper, dwelling in a separate house until death. 2 Kgs 15:1-7; 2 Chr 26. A great earthquake occurred in his reign. Am 1:1; Zech 14:5. A Levite. 1 Chr 6:24. The father of one of David's officers. 1 Chr 27:25. A priest. Ezr 10:21. A Judite. Neh 11:4."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 14:21",
+        "original": "2 Kgs 14:21"
+      },
+      {
+        "reference": "2 Kings 15:1-7",
+        "original": "2 Kgs 15:1-7"
+      },
+      {
+        "reference": "2 Chronicles 26",
+        "original": "2 Chr 26"
+      },
+      {
+        "reference": "Amos 1:1",
+        "original": "Am 1:1"
+      },
+      {
+        "reference": "Zechariah 14:5",
+        "original": "Zech 14:5"
+      },
+      {
+        "reference": "1 Chronicles 6:24",
+        "original": "1 Chr 6:24"
+      },
+      {
+        "reference": "1 Chronicles 27:25",
+        "original": "1 Chr 27:25"
+      },
+      {
+        "reference": "Ezra 10:21",
+        "original": "Ezr 10:21"
+      },
+      {
+        "reference": "Nehemiah 11:4",
+        "original": "Neh 11:4"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZIEL": {
+    "name": "UZZIEL",
+    "slug": "uzziel",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZZI'EL (might of Jehovah). The fourth son of Kohath, Ex 6:18, Josh 11:22; Lev 10:4; the ancestor of the Uzzielites, and, through Elizaphan, also of the Kohathites, Num 3:19, Gen 1:27, 1 Kgs 20:30, his house numbering one hundred and twelve adults in the time of David. 1 Chr 15:10. A Simeonite captain who in the time of Hezekiah destroyed the remnants of the Amalekites in the valley of Gedor. 1 Chr 4:42. A son of Bela the Benjamite. 1 Chr 7:7. A Levite musician in the time of David, the son of Heman. 1 Chr 25:4; called Azareel in 1 Chr 25:18. A Levite of the family of Jeduthun who was very active in cleansing and sanctifying the temple after the pollutions of Ahaz. 2 Chr 29:14-19. The son of Harhaiah, active in repairing the walls of Jerusalem in the days of Nehemiah. Neh 3:8."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 6:18",
+        "original": "Ex 6:18"
+      },
+      {
+        "reference": "Joshua 11:22",
+        "original": "Josh 11:22"
+      },
+      {
+        "reference": "Leviticus 10:4",
+        "original": "Lev 10:4"
+      },
+      {
+        "reference": "Numbers 3:19",
+        "original": "Num 3:19"
+      },
+      {
+        "reference": "Genesis 1:27",
+        "original": "Gen 1:27"
+      },
+      {
+        "reference": "1 Kings 20:30",
+        "original": "1 Kgs 20:30"
+      },
+      {
+        "reference": "1 Chronicles 15:1",
+        "original": "1 Chr 15:1"
+      },
+      {
+        "reference": "1 Chronicles 4:42",
+        "original": "1 Chr 4:42"
+      },
+      {
+        "reference": "1 Chronicles 7:7",
+        "original": "1 Chr 7:7"
+      },
+      {
+        "reference": "1 Chronicles 25:4",
+        "original": "1 Chr 25:4"
+      },
+      {
+        "reference": "1 Chronicles 25:18",
+        "original": "1 Chr 25:18"
+      },
+      {
+        "reference": "2 Chronicles 29:14-19",
+        "original": "2 Chr 29:14-19"
+      },
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Neh 3:8"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  },
+  "UZZIELITES,": {
+    "name": "UZZIELITES,",
+    "slug": "uzzielites",
+    "definitions": [
+      {
+        "source": "HAS",
+        "text": "UZZI'ELITES, descendants of Uzziel, 1. Num 3:27; 1 Chr 26:23."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 3:27",
+        "original": "Num 3:27"
+      },
+      {
+        "reference": "1 Chronicles 26:23",
+        "original": "1 Chr 26:23"
+      }
+    ],
+    "sources": [
+      "HAS"
+    ]
+  }
+}
