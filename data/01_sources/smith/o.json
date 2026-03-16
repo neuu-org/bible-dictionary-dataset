@@ -1,0 +1,2391 @@
+{
+  "OAK": {
+    "name": "Oak",
+    "slug": "oak",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Heb. strong). There is much difficulty in determining the exact meanings of the several varieties of the term mentioned above. Sometimes, evidently, the terebinth or elm is intended and at others the oak. There are a number of varieties of oak in Palestine. (Dr. Robinson contends that the oak is generally intended, and that it is a very common tree in the East. Oaks grow to a large size, reach an old age and are every way worthy the venerable associations connected with the tree.—ED.) Two oaks, Quercus pseudo-coccifera and Q. aegilops, are well worthy of the name of mighty trees; though it is equally true that over a greater part of the country the oaks of Palestine are at present merely bushes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:6",
+        "original": "Gen. 14:6"
+      },
+      {
+        "reference": "Isaiah 1:29",
+        "original": "Isa. 1:29"
+      },
+      {
+        "reference": "Isaiah 57:5",
+        "original": "Isa 57:5"
+      },
+      {
+        "reference": "Genesis 35:4",
+        "original": "Gen. 35:4"
+      },
+      {
+        "reference": "Isaiah 6:13",
+        "original": "Isa. 6:13"
+      },
+      {
+        "reference": "Isaiah 1:30",
+        "original": "Isa. 1:30"
+      },
+      {
+        "reference": "2 Samuel 18:9",
+        "original": "2 Sam. 18:9"
+      },
+      {
+        "reference": "Judges 4:11",
+        "original": "Judg. 4:11"
+      },
+      {
+        "reference": "Judges 9:6",
+        "original": "Judg 9:6"
+      },
+      {
+        "reference": "Daniel 4:11",
+        "original": "Dan. 4:11"
+      },
+      {
+        "reference": "Daniel 4:14",
+        "original": "Dan. 4:14"
+      },
+      {
+        "reference": "Daniel 4:20",
+        "original": "Dan. 4:20"
+      },
+      {
+        "reference": "Joshua 24:26",
+        "original": "Josh. 24:26"
+      },
+      {
+        "reference": "Genesis 12:6",
+        "original": "Gen. 12:6"
+      },
+      {
+        "reference": "Isaiah 2:13",
+        "original": "Isa. 2:13"
+      },
+      {
+        "reference": "Ezekiel 27:6",
+        "original": "Ezek. 27:6"
+      }
+    ]
+  },
+  "OATH": {
+    "name": "Oath",
+    "slug": "oath",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The principle on which an oath is held to be binding is incidentally laid down in (Hebrews 6:16) viz. as an ultimate appeal to divine authority to ratify an assertion. On the same principle, that oath has always been held most binding which appealed to the highest authority, as regards both individuals and communities. As a consequence of this principle, appeals to God’s name on the one hand, and to heathen deities on the other, are treated in scripture as tests of allegiance. (Exodus 23:13; 34:6; 29:12) etc. So also the sovereign’s name is sometimes used as a form of obligation. (Genesis 42:15; 2 Samuel 11:11; 14:19) Other forms of oath, serious or frivolous, are mentioned, some of which are condemned by our Lord. (Matthew 6:33; 23:16-22) and see (James 5:12) (There is, however, a world-wide difference between a solemn appeal to God and profane swearing.) The forms of adjuration mentioned in Scripture are—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 6:13",
+        "original": "Deut. 6:13"
+      },
+      {
+        "reference": "Jeremiah 4:2",
+        "original": "Jer. 4:2"
+      },
+      {
+        "reference": "Genesis 16:5",
+        "original": "Gen. 16:5"
+      },
+      {
+        "reference": "2 Samuel 12:5",
+        "original": "2 Sam. 12:5"
+      },
+      {
+        "reference": "Ruth 1:17",
+        "original": "Ruth 1:17"
+      },
+      {
+        "reference": "Hosea 4:15",
+        "original": "Hos. 4:15"
+      },
+      {
+        "reference": "Romans 1:9",
+        "original": "Rom. 1:9"
+      },
+      {
+        "reference": "Genesis 14:22",
+        "original": "Gen. 14:22"
+      },
+      {
+        "reference": "Genesis 24:2",
+        "original": "Gen 24:2"
+      },
+      {
+        "reference": "2 Chronicles 6:22",
+        "original": "2 Chr. 6:22"
+      },
+      {
+        "reference": "Hebrews 6:16-18",
+        "original": "Heb. 6:16-18"
+      },
+      {
+        "reference": "Matthew 26:64",
+        "original": "Matt. 26:64"
+      },
+      {
+        "reference": "Romans 9:1",
+        "original": "Rom. 9:1"
+      },
+      {
+        "reference": "Galatians 1:20",
+        "original": "Gal. 1:20"
+      },
+      {
+        "reference": "Philippians 1:8",
+        "original": "Phil. 1:8"
+      },
+      {
+        "reference": "Matthew 5:34",
+        "original": "Matt. 5:34"
+      },
+      {
+        "reference": "Matthew 5:37",
+        "original": "Matt. 5:37"
+      },
+      {
+        "reference": "Hebrews 6:16",
+        "original": "Hebrews 6:16"
+      },
+      {
+        "reference": "Exodus 23:13",
+        "original": "Exodus 23:13"
+      },
+      {
+        "reference": "Exodus 34:6",
+        "original": "Exodus 34:6"
+      },
+      {
+        "reference": "Exodus 29:12",
+        "original": "Exodus 29:12"
+      },
+      {
+        "reference": "Genesis 42:15",
+        "original": "Genesis 42:15"
+      },
+      {
+        "reference": "2 Samuel 11:11",
+        "original": "2 Samuel 11:11"
+      },
+      {
+        "reference": "2 Samuel 14:19",
+        "original": "2 Samuel 14:19"
+      },
+      {
+        "reference": "Matthew 6:33",
+        "original": "Matthew 6:33"
+      },
+      {
+        "reference": "Matthew 23:16-22",
+        "original": "Matthew 23:16-22"
+      },
+      {
+        "reference": "James 5:12",
+        "original": "James 5:12"
+      },
+      {
+        "reference": "Leviticus 24:14",
+        "original": "Leviticus 24:14"
+      },
+      {
+        "reference": "Leviticus 17:7",
+        "original": "Leviticus 17:7"
+      },
+      {
+        "reference": "Isaiah 3:7",
+        "original": "Isaiah 3:7"
+      },
+      {
+        "reference": "Genesis 47:29",
+        "original": "Genesis 47:29"
+      },
+      {
+        "reference": "1 Kings 8:31",
+        "original": "1 Kings 8:31"
+      },
+      {
+        "reference": "Genesis 15:10",
+        "original": "Genesis 15:10"
+      },
+      {
+        "reference": "Genesis 15:17",
+        "original": "Genesis 15:17"
+      },
+      {
+        "reference": "Jeremiah 34:18",
+        "original": "Jeremiah 34:18"
+      },
+      {
+        "reference": "Exodus 20:7",
+        "original": "Exodus 20:7"
+      },
+      {
+        "reference": "Leviticus 19:12",
+        "original": "Leviticus 19:12"
+      }
+    ]
+  },
+  "OBADIAH": {
+    "name": "Obadiah",
+    "slug": "obadiah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(servant of the Lord),"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 18:3",
+        "original": "1 Kings 18:3"
+      },
+      {
+        "reference": "1 Chronicles 7:3",
+        "original": "1 Chr. 7:3"
+      },
+      {
+        "reference": "1 Chronicles 8:38",
+        "original": "1 Chr. 8:38"
+      },
+      {
+        "reference": "1 Chronicles 9:16",
+        "original": "1 Chr. 9:16"
+      },
+      {
+        "reference": "1 Chronicles 12:9",
+        "original": "1 Chr. 12:9"
+      },
+      {
+        "reference": "1 Chronicles 27:19",
+        "original": "1 Chr. 27:19"
+      },
+      {
+        "reference": "2 Chronicles 17:7",
+        "original": "2 Chr. 17:7"
+      },
+      {
+        "reference": "2 Chronicles 34:12",
+        "original": "2 Chr. 34:12"
+      },
+      {
+        "reference": "Ezra 8:9",
+        "original": "Ezra 8:9"
+      },
+      {
+        "reference": "1 Chronicles 3:21",
+        "original": "1 Chronicles 3:21"
+      },
+      {
+        "reference": "1 Chronicles 8:33",
+        "original": "1 Chronicles 8:33"
+      },
+      {
+        "reference": "1 Chronicles 9:44",
+        "original": "1 Chronicles 9:44"
+      },
+      {
+        "reference": "Nehemiah 12:25",
+        "original": "Nehemiah 12:25"
+      },
+      {
+        "reference": "Nehemiah 10:5",
+        "original": "Nehemiah 10:5"
+      },
+      {
+        "reference": "1 Kings 18:3-16",
+        "original": "1 Kings 18:3-16"
+      }
+    ]
+  },
+  "OBAL": {
+    "name": "Obal",
+    "slug": "obal",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(stripped bare), son of Joktan, and, like the rest of family, apparently the founder of an Arab tribe. (Genesis 10:28) In (1 Chronicles 1:22) the name is written Ebal."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:28",
+        "original": "Gen. 10:28"
+      },
+      {
+        "reference": "1 Chronicles 1:22",
+        "original": "1 Chr. 1:22"
+      }
+    ]
+  },
+  "OBED": {
+    "name": "Obed",
+    "slug": "obed",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(serving)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 4:21",
+        "original": "Ruth 4:21"
+      },
+      {
+        "reference": "Ruth 4:22",
+        "original": "Ruth 4:22"
+      },
+      {
+        "reference": "Matthew 1:5",
+        "original": "Matt. 1:5"
+      },
+      {
+        "reference": "1 Chronicles 2:34-38",
+        "original": "1 Chr. 2:34-38"
+      },
+      {
+        "reference": "1 Chronicles 26:7",
+        "original": "1 Chr. 26:7"
+      },
+      {
+        "reference": "2 Chronicles 23:1",
+        "original": "2 Chr. 23:1"
+      },
+      {
+        "reference": "Ruth 4:17",
+        "original": "Ruth 4:17"
+      },
+      {
+        "reference": "1 Chronicles 2:12",
+        "original": "1 Chronicles 2:12"
+      },
+      {
+        "reference": "Luke 3:32",
+        "original": "Luke 3:32"
+      },
+      {
+        "reference": "1 Chronicles 2:37",
+        "original": "1 Chronicles 2:37"
+      },
+      {
+        "reference": "1 Chronicles 2:38",
+        "original": "1 Chronicles 2:38"
+      },
+      {
+        "reference": "1 Chronicles 11:47",
+        "original": "1 Chronicles 11:47"
+      }
+    ]
+  },
+  "OBEDEDOM": {
+    "name": "Obededom",
+    "slug": "obededom",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(servant of Edom)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 6:10",
+        "original": "2 Samuel 6:10"
+      },
+      {
+        "reference": "2 Samuel 6:11",
+        "original": "2 Samuel 6:11"
+      },
+      {
+        "reference": "Joshua 21:25",
+        "original": "Joshua 21:25"
+      },
+      {
+        "reference": "2 Samuel 6:12",
+        "original": "2 Samuel 6:12"
+      },
+      {
+        "reference": "1 Chronicles 15:25",
+        "original": "1 Chronicles 15:25"
+      },
+      {
+        "reference": "1 Chronicles 16:38",
+        "original": "1 Chronicles 16:38"
+      },
+      {
+        "reference": "1 Chronicles 15:18",
+        "original": "1 Chronicles 15:18"
+      },
+      {
+        "reference": "1 Chronicles 15:24",
+        "original": "1 Chronicles 15:24"
+      },
+      {
+        "reference": "1 Chronicles 15:21",
+        "original": "1 Chronicles 15:21"
+      },
+      {
+        "reference": "1 Chronicles 16:5",
+        "original": "1 Chronicles 16:5"
+      }
+    ]
+  },
+  "OBIL": {
+    "name": "Obil",
+    "slug": "obil",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(chief of the camels), a keeper of the herds of camels in the reign of David. (1 Chronicles 27:30) (B.C. 1050.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 27:30",
+        "original": "1 Chr. 27:30"
+      }
+    ]
+  },
+  "OBLATION": {
+    "name": "Oblation",
+    "slug": "oblation",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Sacrifice]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "OBOTH": {
+    "name": "Oboth",
+    "slug": "oboth",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(bottles), one of the encampments of the Israelites, east of Moab. (Numbers 21:10; 33:43) Its exact site is unknown but it was probably south of the Dead Sea, on the boundary between Moab and Edom.—ED)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 33:43",
+        "original": "Num. 33:43"
+      },
+      {
+        "reference": "Numbers 21:10",
+        "original": "Numbers 21:10"
+      }
+    ]
+  },
+  "OCRAN": {
+    "name": "Ocran",
+    "slug": "ocran",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(troubled), an Asherite, father of Pagiel. (Numbers 1:13; 2:27; 7:72,77; 10:26) (B.C. before 1658.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 1:13",
+        "original": "Numbers 1:13"
+      },
+      {
+        "reference": "Numbers 2:27",
+        "original": "Numbers 2:27"
+      },
+      {
+        "reference": "Numbers 7:72",
+        "original": "Numbers 7:72"
+      },
+      {
+        "reference": "Numbers 7:77",
+        "original": "Numbers 7:77"
+      },
+      {
+        "reference": "Numbers 10:26",
+        "original": "Numbers 10:26"
+      }
+    ]
+  },
+  "ODED": {
+    "name": "Oded",
+    "slug": "oded",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(restoring)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 15:1",
+        "original": "2 Chr. 15:1"
+      },
+      {
+        "reference": "2 Chronicles 15:8",
+        "original": "2 Chr. 15:8"
+      },
+      {
+        "reference": "2 Chronicles 28:9-15",
+        "original": "2 Chr. 28:9-15"
+      },
+      {
+        "reference": "2 Chronicles 28:9",
+        "original": "2 Chronicles 28:9"
+      }
+    ]
+  },
+  "ODOLLAM": {
+    "name": "Odollam",
+    "slug": "odollam",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Adullam]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "OFFERINGS": {
+    "name": "Offerings",
+    "slug": "offerings",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Sacrifice]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "OFFICER": {
+    "name": "Officer",
+    "slug": "officer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "It is obvious that most, if not all, of the Hebrew words rendered “officer” are either of an indefinite character or are synonymous terms for functionaries known under other and more specific names, as “scribe,” “eunuch” etc. The two words so rendered in the New Testament denote—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 5:25",
+        "original": "Matthew 5:25"
+      },
+      {
+        "reference": "Acts 5:22",
+        "original": "Acts 5:22"
+      },
+      {
+        "reference": "Luke 12:58",
+        "original": "Luke 12:58"
+      }
+    ]
+  },
+  "OG": {
+    "name": "Og",
+    "slug": "og",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(giant, literally long-necked), an Amoritish king of Bashan, whose rule extended over sixty cities. (Joshua 13:12) He was one of the last representatives of the giant race of Rephaim, and was, with his children and his people, defeated and exterminated by the Israelites at Edrei immediately after the conquest of Sihon. (Numbers 32:33; 3:1-13) Also (1:4; 4:47; 31:4; Joshua 2:10; 9:10; 13:12,30) The belief in Og’s enormous stature is corroborated by an allusion to his iron bedstead preserved in “Rabbath of the children of Ammon.” (3:11) (B.C. 1461.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 1:4",
+        "original": "Deut. 1:4"
+      },
+      {
+        "reference": "Numbers 21:32-35",
+        "original": "Num. 21:32-35"
+      },
+      {
+        "reference": "Deuteronomy 3:1-13",
+        "original": "Deut. 3:1-13"
+      },
+      {
+        "reference": "Psalms 135:11",
+        "original": "Ps. 135:11"
+      },
+      {
+        "reference": "Psalms 136:20",
+        "original": "Ps 136:20"
+      },
+      {
+        "reference": "Joshua 13:12",
+        "original": "Joshua 13:12"
+      },
+      {
+        "reference": "Numbers 32:33",
+        "original": "Numbers 32:33"
+      },
+      {
+        "reference": "Numbers 3:1-13",
+        "original": "Numbers 3:1-13"
+      },
+      {
+        "reference": "Joshua 2:10",
+        "original": "Joshua 2:10"
+      },
+      {
+        "reference": "Joshua 9:10",
+        "original": "Joshua 9:10"
+      },
+      {
+        "reference": "Joshua 13:30",
+        "original": "Joshua 13:30"
+      }
+    ]
+  },
+  "OIL": {
+    "name": "Oil",
+    "slug": "oil",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Of the numerous substances, animal and vegetable, which were known to the ancients as yielding oil, the olive berry is the one of which most frequent mention is made in the Scriptures."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:7",
+        "original": "Ex. 29:7"
+      },
+      {
+        "reference": "2 Samuel 14:2",
+        "original": "2 Sam. 14:2"
+      },
+      {
+        "reference": "Psalms 23:5",
+        "original": "Ps. 23:5"
+      },
+      {
+        "reference": "Psalms 92:10",
+        "original": "Ps 92:10"
+      },
+      {
+        "reference": "Psalms 104:15",
+        "original": "Ps 104:15"
+      },
+      {
+        "reference": "Luke 7:46",
+        "original": "Luke 7:46"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Ex. 29:40"
+      },
+      {
+        "reference": "Leviticus 7:12",
+        "original": "Lev. 7:12"
+      },
+      {
+        "reference": "Numbers 6:15",
+        "original": "Num. 6:15"
+      },
+      {
+        "reference": "Numbers 15:4",
+        "original": "Num 15:4"
+      },
+      {
+        "reference": "Leviticus 5:11",
+        "original": "Lev. 5:11"
+      },
+      {
+        "reference": "Numbers 5:15",
+        "original": "Num. 5:15"
+      },
+      {
+        "reference": "Exodus 25:6",
+        "original": "Ex. 25:6"
+      },
+      {
+        "reference": "Exodus 27:20",
+        "original": "Ex 27:20"
+      },
+      {
+        "reference": "Matthew 25:3",
+        "original": "Matt. 25:3"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Luke 10:34",
+        "original": "Luke 10:34"
+      },
+      {
+        "reference": "James 5:14",
+        "original": "James 5:14"
+      },
+      {
+        "reference": "Matthew 26:12",
+        "original": "Matt. 26:12"
+      },
+      {
+        "reference": "Luke 23:56",
+        "original": "Luke 23:56"
+      },
+      {
+        "reference": "Deuteronomy 32:13",
+        "original": "Deut. 32:13"
+      },
+      {
+        "reference": "Ezekiel 16:13",
+        "original": "Ezek. 16:13"
+      },
+      {
+        "reference": "Isaiah 61:3",
+        "original": "Isa. 61:3"
+      },
+      {
+        "reference": "Matthew 6:17",
+        "original": "Matt. 6:17"
+      },
+      {
+        "reference": "Leviticus 24:2",
+        "original": "Leviticus 24:2"
+      },
+      {
+        "reference": "Numbers 28:6",
+        "original": "Numbers 28:6"
+      },
+      {
+        "reference": "Exodus 29:2",
+        "original": "Exodus 29:2"
+      },
+      {
+        "reference": "Mark 6:13",
+        "original": "Mark 6:13"
+      },
+      {
+        "reference": "Leviticus 8:12",
+        "original": "Leviticus 8:12"
+      },
+      {
+        "reference": "Exodus 22:29",
+        "original": "Exodus 22:29"
+      },
+      {
+        "reference": "Exodus 23:16",
+        "original": "Exodus 23:16"
+      },
+      {
+        "reference": "Numbers 18:12",
+        "original": "Numbers 18:12"
+      }
+    ]
+  },
+  "OIL TREE": {
+    "name": "Oil Tree",
+    "slug": "oil-tree",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Heb. ets shemen). The Hebrew words occur in (Nehemiah 8:15) (Authorized Version “pine branches”), (1 Kings 6:23) (“olive tree”) and in (Isaiah 41:19) (“oil tree”). From the passage in Nehemiah, where the ets shemen is mentioned as distinct from the olive tree, if may perhaps be identified with the zackum tree of the Arabs, the Balanites aegyptiaca, a well-known and abundant shrub or small tree in the plain of Jordan. The zackum oil is held in high repute by the Arabs for its medicinal properties. [Olive]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Nehemiah 8:15"
+      },
+      {
+        "reference": "1 Kings 6:23",
+        "original": "1 Kings 6:23"
+      },
+      {
+        "reference": "Isaiah 41:19",
+        "original": "Isaiah 41:19"
+      }
+    ]
+  },
+  "OINTMENT": {
+    "name": "Ointment",
+    "slug": "ointment",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(An oily or unctuous substance, usually compounded of oil with various spices and resins and aromatics, and preserved in small alabaster boxes or cruses, in which the delicious aroma was best preserved. Some of the ointments have been known to retain their: fragrance for several hundred years. They were a much-coveted luxury, and often very expensive.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:25",
+        "original": "Ex. 30:25"
+      },
+      {
+        "reference": "Psalms 133:2",
+        "original": "Ps. 133:2"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Amos 6:6",
+        "original": "Amos 6:6"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "Revelation 18:13",
+        "original": "Rev. 18:13"
+      },
+      {
+        "reference": "Ruth 3:2",
+        "original": "Ruth 3:2"
+      },
+      {
+        "reference": "Matthew 26:12",
+        "original": "Matthew 26:12"
+      },
+      {
+        "reference": "Jeremiah 8:22",
+        "original": "Jeremiah 8:22"
+      },
+      {
+        "reference": "John 9:6",
+        "original": "John 9:6"
+      },
+      {
+        "reference": "Revelation 3:18",
+        "original": "Revelation 3:18"
+      },
+      {
+        "reference": "Exodus 30:23",
+        "original": "Exodus 30:23"
+      },
+      {
+        "reference": "Exodus 30:33",
+        "original": "Exodus 30:33"
+      },
+      {
+        "reference": "Exodus 29:7",
+        "original": "Exodus 29:7"
+      },
+      {
+        "reference": "Exodus 37:29",
+        "original": "Exodus 37:29"
+      },
+      {
+        "reference": "Exodus 40:9",
+        "original": "Exodus 40:9"
+      },
+      {
+        "reference": "Exodus 40:15",
+        "original": "Exodus 40:15"
+      },
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Nehemiah 3:8"
+      },
+      {
+        "reference": "1 Samuel 8:13",
+        "original": "1 Samuel 8:13"
+      }
+    ]
+  },
+  "OLD TESTAMENT": {
+    "name": "Old Testament",
+    "slug": "old-testament",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "I. TEXT OF THE OLD TESTAMENT.—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 40:7",
+        "original": "Psalms 40:7"
+      },
+      {
+        "reference": "Jeremiah 36:14",
+        "original": "Jeremiah 36:14"
+      },
+      {
+        "reference": "Ezekiel 2:9",
+        "original": "Ezekiel 2:9"
+      },
+      {
+        "reference": "Zechariah 5:1",
+        "original": "Zechariah 5:1"
+      },
+      {
+        "reference": "Acts 1:20",
+        "original": "Acts 1:20"
+      },
+      {
+        "reference": "1 Corinthians 1:31",
+        "original": "1 Corinthians 1:31"
+      },
+      {
+        "reference": "Luke 4:18",
+        "original": "Luke 4:18"
+      },
+      {
+        "reference": "Luke 4:19",
+        "original": "Luke 4:19"
+      },
+      {
+        "reference": "Isaiah 61:1",
+        "original": "Isaiah 61:1"
+      },
+      {
+        "reference": "Isaiah 58:6",
+        "original": "Isaiah 58:6"
+      },
+      {
+        "reference": "Romans 11:8",
+        "original": "Romans 11:8"
+      },
+      {
+        "reference": "Romans 29:4",
+        "original": "Romans 29:4"
+      },
+      {
+        "reference": "Isaiah 29:10",
+        "original": "Isaiah 29:10"
+      },
+      {
+        "reference": "Matthew 27:9",
+        "original": "Matthew 27:9"
+      },
+      {
+        "reference": "Jeremiah 18:1",
+        "original": "Jeremiah 18:1"
+      },
+      {
+        "reference": "Jeremiah 19:1",
+        "original": "Jeremiah 19:1"
+      }
+    ]
+  },
+  "OLIVE": {
+    "name": "Olive",
+    "slug": "olive",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The olive was among the most abundant and characteristic vegetation of Judea. The olive tree grows freely almost everywhere on the shores of the Mediterranean, but it was peculiarly abundant in Palestine. See (6:11; 8:8; 28:40) Oliveyards are a matter of course in descriptions of the country like vines and cornfields. (Judges 15:5; 1 Samuel 8:14) The kings had very extensive ones. (1 Chronicles 27:28) Even now the is very abundant in the country. Almost every village has its olive grove. Certain districts may be specified where at various times this tree been very luxuriant. The cultivation of the olive tree had the closest connection with the domestic life of the Israelites (2 Chronicles 2:10) their trade, (Ezekiel 27:17; Hosea 12:1) and even their Public ceremonies and religious worship. In Solomon’s temple the cherubim were “of olive tree,” (1 Kings 6:23) as also the doors, vs. (1 Kings 6:31,32) and posts. ver. (1 Kings 6:33) For the various uses of olive oil see Oil. The wind was dreaded by the cultivator of the olive for the least ruffling of a breeze is apt to cause the flowers to fall. (Job 15:33) It is needless to add that the locust was a formidable enemy of the olive. It happened not unfrequently that hopes were disappointed, and that “the labor of the olive failed.” (Habakkuk 3:17) As to the growth of the tree, it thrives best in warm and sunny situations. It is of moderate height, with knotty gnarled trunk and a smooth ash-colored bark. It grows slowly, but lives to an immense age. Its look is singularly indicative of tenacious vigor, and this is the force of what is said in Scripture of its “greenness, as emblematic of strength and prosperity. The leaves, too, are not deciduous. Those who see olives for the first time are occasionally disappointed by the dusty color of their foilage; but those who are familiar with them find an inexpressible charm in the rippling changes of their slender gray-green leaves. (See Ruskin’s “Stones of Venice,” iii. 175-177.) The olive furnishes the basis of one of Paul’s allegories. (Romans 11:16-25) The Gentiles are the “wild olive” grafted in upon the “good olive,” to which once the Jews belonged, and with which they may again be incorporated, (The olive grows from 20 to 40 feet high. In general appearance it resembles the apple tree; in leaves and sterns, the willow. The flowers are white and appear in June, The fruit is like a plum in shape and size, and at first is green, but gradually becomes purple, and even black, with a hard stony kernel, and is remarkable from the outer fleshy part being that in which much oil is lodged, and not, as is usual, in the almond of the seed. The fruit ripens from August to September. It is sometimes eaten green, but its chief value is in its oil. The wood is hard, fine beautifully veined, and is open used for cabinet work. Olive trees were so abundant in Galilee that at the siege of Jotapata by Vespasian the Roman army were driven from the ascent of the walls by hot olive oil poured upon them and scalding them underneath their armor.—Josephus, Wars, 3; 7:28.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 24:20",
+        "original": "Deut. 24:20"
+      },
+      {
+        "reference": "Isaiah 17:6",
+        "original": "Isa. 17:6"
+      },
+      {
+        "reference": "Isaiah 24:13",
+        "original": "Isa 24:13"
+      },
+      {
+        "reference": "Exodus 27:20",
+        "original": "Ex. 27:20"
+      },
+      {
+        "reference": "Micah 6:15",
+        "original": "Micah 6:15"
+      },
+      {
+        "reference": "Judges 15:5",
+        "original": "Judg. 15:5"
+      },
+      {
+        "reference": "1 Samuel 8:14",
+        "original": "1 Samuel 8:14"
+      },
+      {
+        "reference": "1 Chronicles 27:28",
+        "original": "1 Chronicles 27:28"
+      },
+      {
+        "reference": "2 Chronicles 2:10",
+        "original": "2 Chronicles 2:10"
+      },
+      {
+        "reference": "Ezekiel 27:17",
+        "original": "Ezekiel 27:17"
+      },
+      {
+        "reference": "Hosea 12:1",
+        "original": "Hosea 12:1"
+      },
+      {
+        "reference": "1 Kings 6:23",
+        "original": "1 Kings 6:23"
+      },
+      {
+        "reference": "1 Kings 6:31",
+        "original": "1 Kings 6:31"
+      },
+      {
+        "reference": "1 Kings 6:32",
+        "original": "1 Kings 6:32"
+      },
+      {
+        "reference": "1 Kings 6:33",
+        "original": "1 Kings 6:33"
+      },
+      {
+        "reference": "Job 15:33",
+        "original": "Job 15:33"
+      },
+      {
+        "reference": "Habakkuk 3:17",
+        "original": "Habakkuk 3:17"
+      },
+      {
+        "reference": "Romans 11:16-25",
+        "original": "Romans 11:16-25"
+      }
+    ]
+  },
+  "OLIVES, MOUNT OF": {
+    "name": "Olives, Mount Of",
+    "slug": "olives-mount-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "“The Mount of Olives” occurs in the Old Testament in (Zechariah 14:4) only. In (2 Samuel 15:30) it is called “Olivet;” in other places simply “the mount,” (Nehemiah 8:15) “the mount facing Jerusalem” (1 Kings 11:7) or “the mountain which is on the east aide of the city.” (Ezekiel 11:23) In the New Testament the usual form is “the Mount of Olives.” It is called also “Olivet.” (Acts 1:12) This mountain is the well-known eminence on the east of Jerusalem, intimately connected with some of the gravest events of the history of the Old Testament and the New Testament, the scene of the flight of David and the triumphal progress of the Son of David, of the idolatry-of Solomon, and the agony and betrayal of Christ. It is a ridge of rather more than a mile in length, running in general direction north and south, covering the whole eastern side of the city. At its northern end the ridge bends round to the west so as to form an enclosure to the city on that side also. On the north a space of nearly a mile of tolerably level surface intervenes between the walls of the city and the rising ground; on the east the mount is close to the walls, parted only by the narrow ravine of the Kidron. It is this portion which is the real Mount of Olives of the history. In general height it is not very much above-the city: 300 feet higher than the temple mount, hardly more than 100 above the so-called Zion. It is rounded, swelling and regular in form. Proceeding from north to south there occur four independent summits, called— 1, “Viri Galilaei:” 2, “Mount of Ascension;” 3, “Prophets”—subordinate to the last and almost a part of it; 4, “Mount of Offence.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Zechariah 14:4",
+        "original": "Zechariah 14:4"
+      },
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Samuel 15:30"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Nehemiah 8:15"
+      },
+      {
+        "reference": "1 Kings 11:7",
+        "original": "1 Kings 11:7"
+      },
+      {
+        "reference": "Ezekiel 11:23",
+        "original": "Ezekiel 11:23"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Matthew 23:29",
+        "original": "Matthew 23:29"
+      },
+      {
+        "reference": "2 Kings 23:13",
+        "original": "2 Kings 23:13"
+      }
+    ]
+  },
+  "OLIVET": {
+    "name": "Olivet",
+    "slug": "olivet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(place of olives). (2 Samuel 15:30; Acts 1:12) [Olives, Mount Of, Mount, Mount, Mountain OF]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Samuel 15:30"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      }
+    ]
+  },
+  "OLYMPAS": {
+    "name": "Olympas",
+    "slug": "olympas",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(heavenly), a Christian at Rome. (Romans 16:15) (A.D. 65.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:15",
+        "original": "Rom. 16:15"
+      }
+    ]
+  },
+  "OMAR": {
+    "name": "Omar",
+    "slug": "omar",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(eloquent, talkative), son of Eliphaz the first-born of Esau. (Genesis 36:11,15; 1 Chronicles 1:38) (B.C. 1750.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:11-15",
+        "original": "Gen. 36:11-15"
+      },
+      {
+        "reference": "Genesis 36:11",
+        "original": "Genesis 36:11"
+      },
+      {
+        "reference": "Genesis 36:15",
+        "original": "Genesis 36:15"
+      },
+      {
+        "reference": "1 Chronicles 1:38",
+        "original": "1 Chronicles 1:38"
+      }
+    ]
+  },
+  "OMEGA, OR OMEGA": {
+    "name": "Omega, Or Omega",
+    "slug": "omega-or-omega",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The last letter of the Greek alphabet. It is used metephorically to denote the end of anything (Revelation 1:8,11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 1:8",
+        "original": "Revelation 1:8"
+      },
+      {
+        "reference": "Revelation 1:11",
+        "original": "Revelation 1:11"
+      }
+    ]
+  },
+  "OMER": {
+    "name": "Omer",
+    "slug": "omer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Weights And Measures AND Measures.]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 16:22",
+        "original": "Ex. 16:22"
+      },
+      {
+        "reference": "Exodus 16:32",
+        "original": "Ex 16:32"
+      },
+      {
+        "reference": "Exodus 16:33",
+        "original": "Ex 16:33"
+      },
+      {
+        "reference": "Exodus 16:36",
+        "original": "Ex 16:36"
+      }
+    ]
+  },
+  "OMRI": {
+    "name": "Omri",
+    "slug": "omri",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(pupil of Jehovah)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 16:15-27",
+        "original": "1 Kings 16:15-27"
+      },
+      {
+        "reference": "2 Kings 1:1",
+        "original": "2 Kings 1:1"
+      },
+      {
+        "reference": "2 Kings 3:4",
+        "original": "2 Kings 3:4"
+      },
+      {
+        "reference": "2 Kings 3:5",
+        "original": "2 Kings 3:5"
+      },
+      {
+        "reference": "1 Kings 16:21",
+        "original": "1 Kings 16:21"
+      },
+      {
+        "reference": "1 Kings 16:15",
+        "original": "1 Kings 16:15"
+      },
+      {
+        "reference": "1 Kings 16:23",
+        "original": "1Kin 16:23"
+      },
+      {
+        "reference": "1 Chronicles 7:8",
+        "original": "1 Chronicles 7:8"
+      },
+      {
+        "reference": "1 Chronicles 9:4",
+        "original": "1 Chronicles 9:4"
+      },
+      {
+        "reference": "1 Chronicles 27:18",
+        "original": "1 Chronicles 27:18"
+      }
+    ]
+  },
+  "ON": {
+    "name": "On",
+    "slug": "on",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(abode or city of the sun), a town of lower Egypt, called BETH-SHEMESH in (Jeremiah 43:13) On is better known under its Greek name Heliopolis. It was situated on the east side of the Pelusiac branch of the Nile, just below the point of the Delta, and about twenty miles northeast of Memphis. The chief object of worship at Heliopolis was the sun, whose temple, described by Strabo, is now only represented by the single beautiful obelisk, of red granite so feet 2 inches high above the pedestal which has stood for more than 4000 years, having been erected by Usirtesen, the second king of the twelfth dynasty. Heliopolis was anciently famous for its learning, and Eudoxus and Plato studied under its priests. The first mention of this place in the Bible is in the history of Joseph, to whom we read Pharaoh gave “to wife Asenath the daughter of Potipherah priest of On.” (Genesis 41:45) comp. ver, Genesis41:60 and Genesis46:20 (On is to be remembered not only as the home of Joseph, but as the traditional place to which his far-off namesake took Mary and the babe Jesus in the flight to Egypt. The two famous obelisks, long called “Cleopatra’s Needles,” one of which now stands in London and the other in Central Park in New York city, once stood before this city, and were seen by the children of Israel before the exodus, having been quarried at Syene on the Nile, erected at On (Heliopolis) by Thothmes III., B.C. 1500, and inscriptions added by Rameses II. (Sesostris) two hundred years later. They were taken to Alexandria by Augustus Caesar A.D. 23, from which they were removed to their present places.—ED.) the son of Peleth and one of the chiefs of the tribe of Reuben, who took part with Korah, Dathan and Abiram in their revolt against Moses. (Numbers 16:1) (B.C. 1491.) His name does not again appear in the narrative of the conspiracy, nor is he alluded to when reference is made to the final catastrophe."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 41:45",
+        "original": "Gen. 41:45"
+      },
+      {
+        "reference": "Genesis 41:50",
+        "original": "Gen. 41:50"
+      },
+      {
+        "reference": "Jeremiah 43:13",
+        "original": "Jer. 43:13"
+      },
+      {
+        "reference": "Ezekiel 30:17",
+        "original": "Ezek. 30:17"
+      },
+      {
+        "reference": "Numbers 16:1",
+        "original": "Numbers 16:1"
+      }
+    ]
+  },
+  "ONAM": {
+    "name": "Onam",
+    "slug": "onam",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(strong)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 36:23",
+        "original": "Genesis 36:23"
+      },
+      {
+        "reference": "1 Chronicles 1:40",
+        "original": "1 Chronicles 1:40"
+      },
+      {
+        "reference": "1 Chronicles 2:26",
+        "original": "1 Chronicles 2:26"
+      },
+      {
+        "reference": "1 Chronicles 2:28",
+        "original": "1 Chronicles 2:28"
+      }
+    ]
+  },
+  "ONAN": {
+    "name": "Onan",
+    "slug": "onan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(strong), the second son of Judah by the Canaanitess, “the daughter of Shua.” (Genesis 38:4; 1 Chronicles 2:3) “What he did was evil in the eyes of Jehovah and he slew him also, as he had slain his elder brother. (Genesis 38:9) His death took place before the family of Jacob went down into Egypt. (Genesis 46:12; Numbers 26:19) (B.C. 1706.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 38:4-10",
+        "original": "Gen. 38:4-10"
+      },
+      {
+        "reference": "Deuteronomy 25:5",
+        "original": "Deut. 25:5"
+      },
+      {
+        "reference": "Matthew 22:24",
+        "original": "Matt. 22:24"
+      },
+      {
+        "reference": "Genesis 38:4",
+        "original": "Genesis 38:4"
+      },
+      {
+        "reference": "1 Chronicles 2:3",
+        "original": "1 Chronicles 2:3"
+      },
+      {
+        "reference": "Genesis 38:9",
+        "original": "Genesis 38:9"
+      },
+      {
+        "reference": "Genesis 46:12",
+        "original": "Genesis 46:12"
+      },
+      {
+        "reference": "Numbers 26:19",
+        "original": "Numbers 26:19"
+      }
+    ]
+  },
+  "ONESIMUS": {
+    "name": "Onesimus",
+    "slug": "onesimus",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(profitable, useful), the name of the servant or slave in whose behalf Paul wrote the Epistle to Philemon. He was a native, or certainly an inhabitant, of Colosse. (Colossians 4:9) (A.D. 58.) He fled from his master end escaped to Rome, where he was led to embrace the gospel through Paul’s instrumentality. After his conversion the most happy and friendly relations sprung up between the teacher and disciple. Whether Paul desired his presence as a personal attendant or as a minister of the gospel is not certain from verse 13 of the epistle."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Philemon 1:1",
+        "original": "Philemon 1"
+      },
+      {
+        "reference": "Colossians 4:9",
+        "original": "Colossians 4:9"
+      }
+    ]
+  },
+  "ONESIPHORUS": {
+    "name": "Onesiphorus",
+    "slug": "onesiphorus",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(bringing profit) is named twice only in the New Testament, viz. (2 Timothy 1:16-18) and 2Tim 4:19 Paul mentions him in terms of grateful love as having a noble courage and generosity in his behalf, amid his trials as a prisoner at Rome, when others from whom he expected better things had deserted him. (2 Timothy 4:16) Probably other members of the family were also active Christians. (2 Timothy 4:19) It is evident from (2 Timothy 1:18) that Onesiphorus had his home at Ephesus. (A.D. 64.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Timothy 1:16-18",
+        "original": "2 Tim. 1:16-18"
+      },
+      {
+        "reference": "2 Timothy 4:19",
+        "original": "2 Tim. 4:19"
+      },
+      {
+        "reference": "2 Timothy 4:16",
+        "original": "2 Timothy 4:16"
+      },
+      {
+        "reference": "2 Timothy 1:18",
+        "original": "2 Timothy 1:18"
+      }
+    ]
+  },
+  "ONIAS": {
+    "name": "Onias",
+    "slug": "onias",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "the name of five high priests in the period between the Old and the New Testament."
+      }
+    ],
+    "scripture_refs": []
+  },
+  "ONION": {
+    "name": "Onion",
+    "slug": "onion",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "This product is mentioned only in (Numbers 11:5) as one of the good things of Egypt of which the Israel regretted the loss. Onions have been from time immemorial a favorite article of food among the Egyptians, The onions of Egypt are much milder in flavor and less pungent than those of this country."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 11:5",
+        "original": "Num. 11:5"
+      }
+    ]
+  },
+  "ONO": {
+    "name": "Ono",
+    "slug": "ono",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(strong), one of the towns of Benjamin, is first found in (1 Chronicles 8:12) A plain was attached to the town called “the plain of Ono” (Nehemiah 6:2) perhaps identical with the valley of craftsmen” (Nehemiah 11:35)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 8:12",
+        "original": "1 Chr. 8:12"
+      },
+      {
+        "reference": "Ezra 2:33",
+        "original": "Ezra 2:33"
+      },
+      {
+        "reference": "Nehemiah 6:2",
+        "original": "Nehemiah 6:2"
+      },
+      {
+        "reference": "Nehemiah 11:35",
+        "original": "Nehemiah 11:35"
+      }
+    ]
+  },
+  "ONYCHA": {
+    "name": "Onycha",
+    "slug": "onycha",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "spoken of in (Exodus 30:34) was one of the ingredients of the sacred perfume. It consists of the shells of several kinds of mussels, which when burned emit a strong odor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:34",
+        "original": "Ex. 30:34"
+      }
+    ]
+  },
+  "ONYX": {
+    "name": "Onyx",
+    "slug": "onyx",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a nail) is the translation of the Hebrew shoham ; but there is some doubt as to its signification. Some writers believe that the “beryl” is intended; but the balance of authority is in favor of some variety of the onyx. (“The onyx is not a transparent stone, but as the color of the flesh appears through the nail (Greek onyx) on the human body, so the reddish mass which is below shines delicately through the whitish surface of the onyx. There are several varieties. White and reddish stripes alternating form the sardonyx; white and reddish gray, the chalcedony. When polished it has a fine lustre, and is easily wrought into a gem of great beauty.”-Rosenmiller."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:9-12",
+        "original": "Ex. 28:9-12"
+      },
+      {
+        "reference": "Exodus 28:20",
+        "original": "Ex 28:20"
+      },
+      {
+        "reference": "Exodus 35:27",
+        "original": "Ex 35:27"
+      },
+      {
+        "reference": "Job 28:16",
+        "original": "Job 28:16"
+      },
+      {
+        "reference": "Ezekiel 28:13",
+        "original": "Ezek. 28:13"
+      },
+      {
+        "reference": "Genesis 2:12",
+        "original": "Gen. 2:12"
+      }
+    ]
+  },
+  "OPHEL": {
+    "name": "Ophel",
+    "slug": "ophel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(hill), a part of ancient Jerusalem. Ophel was the swelling declivity by which the mount of the temple slopes on its southern side into the valley of Hinnom—a long, narrowish rounded spur or promontory, which intervenes between the mouth of the central valley of Jerusalem (the Tyropoeon) and the Kidron, or valley of Jehoshaphat. Halfway down it on its eastern face is the (“Fount of the Virgin,” so called; and at its foot the lower outlet of the same spring—the Pool of Siloam. In (2 Chronicles 27:3) Jotham is said to have built much “on the wall of Ophel.” Manasseh, among his other defensive works, “compassed about Ophel.” Ibid. (2 Chronicles 33:14) It appears to have been near the “water-gate,” (Nehemiah 3:26) and the “great tower that lieth out.” ver. (Nehemiah 3:27) It was evidently the residence of the Levites. (Nehemiah 11:21)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 27:3",
+        "original": "2 Chr. 27:3"
+      },
+      {
+        "reference": "2 Chronicles 33:14",
+        "original": "2 Chr. 33:14"
+      },
+      {
+        "reference": "Nehemiah 3:26",
+        "original": "Neh. 3:26"
+      },
+      {
+        "reference": "Nehemiah 3:27",
+        "original": "Neh. 3:27"
+      },
+      {
+        "reference": "2 Kings 5:24",
+        "original": "2 Kings 5:24"
+      },
+      {
+        "reference": "Nehemiah 11:21",
+        "original": "Nehemiah 11:21"
+      }
+    ]
+  },
+  "OPHIR": {
+    "name": "Ophir",
+    "slug": "ophir",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(abundane)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:29",
+        "original": "Gen. 10:29"
+      },
+      {
+        "reference": "1 Kings 9:28",
+        "original": "1 Kings 9:28"
+      },
+      {
+        "reference": "1 Kings 10:11",
+        "original": "1 Kings 10:11"
+      },
+      {
+        "reference": "1 Kings 22:48",
+        "original": "1 Kings 22:48"
+      },
+      {
+        "reference": "Job 22:24",
+        "original": "Job 22:24"
+      },
+      {
+        "reference": "Job 28:16",
+        "original": "Job 28:16"
+      },
+      {
+        "reference": "Isaiah 13:12",
+        "original": "Isa. 13:12"
+      },
+      {
+        "reference": "1 Chronicles 1:23",
+        "original": "1 Chronicles 1:23"
+      },
+      {
+        "reference": "1 Chronicles 29:4",
+        "original": "1 Chronicles 29:4"
+      },
+      {
+        "reference": "Psalms 45:9",
+        "original": "Psalms 45:9"
+      },
+      {
+        "reference": "1 Kings 22:18",
+        "original": "1 Kings 22:18"
+      },
+      {
+        "reference": "2 Chronicles 8:18",
+        "original": "2 Chronicles 8:18"
+      },
+      {
+        "reference": "2 Chronicles 9:10",
+        "original": "2 Chronicles 9:10"
+      }
+    ]
+  },
+  "OPHNI": {
+    "name": "Ophni",
+    "slug": "ophni",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(mouldy), a town of Benjamin, mentioned in (Joshua 18:24) the same as the Gophna of Josephus a place which at the time of Vespasian’s invasion was apparently so important as to be second only to Jerusalem. It still survives in the modern Jifna or Jufna, 23 miles northwest of Bethel."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 18:24",
+        "original": "Josh. 18:24"
+      }
+    ]
+  },
+  "OPHRAH": {
+    "name": "Ophrah",
+    "slug": "ophrah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fawn)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:14",
+        "original": "1 Chr. 4:14"
+      },
+      {
+        "reference": "Joshua 18:23",
+        "original": "Josh. 18:23"
+      },
+      {
+        "reference": "2 Chronicles 13:19",
+        "original": "2 Chr. 13:19"
+      },
+      {
+        "reference": "John 11:54",
+        "original": "John 11:54"
+      },
+      {
+        "reference": "Judges 6:11",
+        "original": "Judg. 6:11"
+      },
+      {
+        "reference": "Judges 8:27",
+        "original": "Judg 8:27"
+      },
+      {
+        "reference": "Judges 8:32",
+        "original": "Judg 8:32"
+      },
+      {
+        "reference": "Judges 9:5",
+        "original": "Judg. 9:5"
+      },
+      {
+        "reference": "1 Samuel 13:17",
+        "original": "1 Samuel 13:17"
+      },
+      {
+        "reference": "Judges 6:24",
+        "original": "Judges 6:24"
+      },
+      {
+        "reference": "Judges 6:15",
+        "original": "Judges 6:15"
+      },
+      {
+        "reference": "Judges 9:1",
+        "original": "Judges 9:1"
+      }
+    ]
+  },
+  "ORATOR": {
+    "name": "Orator",
+    "slug": "orator",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:3",
+        "original": "Isaiah 3:3"
+      },
+      {
+        "reference": "Acts 24:1",
+        "original": "Acts 24:1"
+      }
+    ]
+  },
+  "ORCHARD": {
+    "name": "Orchard",
+    "slug": "orchard",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Garden]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "OREB": {
+    "name": "Oreb",
+    "slug": "oreb",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(raven), one of the chieftains of the Midianite host which invaded Israel, and was defeated and driven back by Gideon. (Judges 7:25) (B.C. 1362.) Isaiah, (Isaiah 10:26) refers to the magnitude of this disaster. Comp. (Psalms 83:1) ..."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 7:20-25",
+        "original": "Judg. 7:20-25"
+      },
+      {
+        "reference": "Psalms 83:9",
+        "original": "Ps. 83:9"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isa. 10:26"
+      },
+      {
+        "reference": "Judges 7:25",
+        "original": "Judges 7:25"
+      },
+      {
+        "reference": "Psalms 83:1",
+        "original": "Psalms 83:1"
+      }
+    ]
+  },
+  "OREB, THE ROCK": {
+    "name": "Oreb, The Rock",
+    "slug": "oreb-the-rock",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "the “raven’s crag,” the spot, east of Jordan, at which the Midianite chieftain Oreb with thousands of his countrymen, fell by the hand of the Ephraimites, and which probably acquired its name therefrom. It is mentioned in (Judges 7:25; Isaiah 10:26) Perhaps the place called ’Orbo which in the Bereshith Rabba is stated to have been in the neighborhood of Bethshean, may have some connection with it."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 7:25",
+        "original": "Judges 7:25"
+      },
+      {
+        "reference": "Isaiah 10:26",
+        "original": "Isaiah 10:26"
+      }
+    ]
+  },
+  "OREN": {
+    "name": "Oren",
+    "slug": "oren",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(pine tree), one of the sons of Jerahmeel, the first-born of Hezron. (1 Chronicles 2:25)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:25",
+        "original": "1 Chr. 2:25"
+      }
+    ]
+  },
+  "ORGAN": {
+    "name": "Organ",
+    "slug": "organ",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Genesis 4:21; Job 21:12; 30:31; Psalms 150:4) The Hebrew word thus rendered probably denotes a pipe or perforated wind-instrument. In (Genesis 4:21) it appears to be a general term for all wind-instruments. In (Job 21:12) are enumerated three kinds of musical instruments which are possible under the general terms of the timbrel harp and oryan. Some identify it with the pandean pipe or syrinx an instrument of unquestionably ancient origin, and common in the East. [See Music]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:21",
+        "original": "Gen. 4:21"
+      },
+      {
+        "reference": "Job 21:12",
+        "original": "Job 21:12"
+      },
+      {
+        "reference": "Psalms 150:4",
+        "original": "Ps. 150:4"
+      },
+      {
+        "reference": "Job 30:31",
+        "original": "Job 30:31"
+      }
+    ]
+  },
+  "ORION": {
+    "name": "Orion",
+    "slug": "orion",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(the giant), a large and bright constellation of 80 stars, 17 large ones, crossed by the equinoctial line. It is named after a mythical personage of the Greeks, of gigantic stature and “the handsomest man in the world.” The Arabs called it” the giant,” referring to Nimrod, the mighty hunter who was fabled to have been bound in the sky for his impiety. (Job 9:9) Also alluded to in (Job 38:31)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 9:9",
+        "original": "Job 9:9"
+      },
+      {
+        "reference": "Job 38:31",
+        "original": "Job 38:31"
+      },
+      {
+        "reference": "Amos 5:8",
+        "original": "Amos 5:8"
+      },
+      {
+        "reference": "Isaiah 13:10",
+        "original": "Isa. 13:10"
+      }
+    ]
+  },
+  "ORNAMENTS, PERSONAL": {
+    "name": "Ornaments, Personal",
+    "slug": "ornaments-personal",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The number, variety and weight of the ornaments ordinarily worn upon the person form one of the characteristic features of Oriental costume, in both ancient and modem times. The monuments of ancient Egypt exhibit the persons of ladies load with rings, earrings Of vary great size, anklets, armlets, bracelets of the most varied forms, richly-ornamented necklaces, and chains of various kinds. There is sufficient evidence in the Bible that the inhabitants of Palestine were equally devoted to finery. In the Old Testament. Isaiah, (Isaiah 3:18-23) supplies us with a detailed description of the articles with which the luxurious women of his day were decorated. Eliezer decorated Rebekah with “a golden nose-ring of half a shekel (1/4 oz.) weight, and two bracelets for her hands of ten shekels (4 1/2 oz.) weight of gold.” (Genesis 23:22) Earrings were worn by Jacob’s wives. (Genesis 35:4) The number of personal ornaments worn by the Egyptians, particularly by the females, 19 incidentally noticed in (Exodus 3:22)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:18-23",
+        "original": "Isaiah 3:18-23"
+      },
+      {
+        "reference": "Genesis 23:22",
+        "original": "Genesis 23:22"
+      },
+      {
+        "reference": "Genesis 35:4",
+        "original": "Genesis 35:4"
+      },
+      {
+        "reference": "Exodus 3:22",
+        "original": "Exodus 3:22"
+      }
+    ]
+  },
+  "ORNAN": {
+    "name": "Ornan",
+    "slug": "ornan",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(active). (1 Chronicles 21:15; 2 Chronicles 3:1) [Araunah]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 21:15",
+        "original": "1 Chr. 21:15"
+      },
+      {
+        "reference": "2 Chronicles 3:1",
+        "original": "2 Chronicles 3:1"
+      }
+    ]
+  },
+  "ORPAH": {
+    "name": "Orpah",
+    "slug": "orpah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(a gazelle), a Moabite woman wife of Chilion son of Naomi, and thereby sister-in-law to Ruth. (Ruth 2:4,14) (B.C. 1360.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 1:4",
+        "original": "Ruth 1:4"
+      },
+      {
+        "reference": "Ruth 4:10",
+        "original": "Ruth 4:10"
+      },
+      {
+        "reference": "Ruth 2:4",
+        "original": "Ruth 2:4"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      }
+    ]
+  },
+  "OSHEA": {
+    "name": "Oshea",
+    "slug": "oshea",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(salvation). [Joshua]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "OSPREY": {
+    "name": "Osprey",
+    "slug": "osprey",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The Hebrew word occurs in (Leviticus 11:13) and Deuteronomy 14:12 So the name of some unclean bird. It’s probably either the osprey (Pandion haliaetus) or the white-tailed eagle (Haliaetus albicella)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:13",
+        "original": "Lev. 11:13"
+      },
+      {
+        "reference": "Deuteronomy 14:12",
+        "original": "Deut. 14:12"
+      }
+    ]
+  },
+  "OSSIFRAGE": {
+    "name": "Ossifrage",
+    "slug": "ossifrage",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(the bone-breaker). The Hebrew word occurs, as the name of an unclean bird, in (Leviticus 11:13) and Deuteronomy 14:12 It is probably the lammergeyer, or bearded vulture as it is sometimes called, one of the largest of the birds of prey. It well deserves its name ossifrage, bone breaker, for “not only does he push kids and lambs and even men off the rocks, but he takes the bones of animals that other birds of prey have denuded of the flesh high up into the air and lets them fall upon a stone in order to crack them and render them more digestible even for his enormous powers of deglutition. Marrow-bones are the dainties he loves. This is probably the bird that dropped a tortoise on the bald head of poor old AEschylus.”—N. H. Simpson."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:13",
+        "original": "Lev. 11:13"
+      },
+      {
+        "reference": "Deuteronomy 14:12",
+        "original": "Deut. 14:12"
+      }
+    ]
+  },
+  "OSTRICH": {
+    "name": "Ostrich",
+    "slug": "ostrich",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a large bird, native of African and Arabia, nearly ten feet high, having s long neck and short wings. It seeks retired places, (Job 30:29; Lamentations 4:13) and has a peculiar mournful cry that is sometimes mistaken by the Arabs for that of the lion. (Micah 1:8) In (Job 39:13-18) will be found a description of the bird’s habits. Ostriches are polygamous; the hens lay their eggs promiscuously in one nest, which is merely a hole scratched in the sand; the eggs are then covered over to the depth of about a foot, and are, in the case of those birds which are found within the tropics, generally left for the greater part of the day to the heat of the sun, the parent-birds taking their turns at incubation during the night. The habit of the ostrich leaving its eggs to be matured by the sun’s heat is usually appealed to in order to confirm the scriptural account, “she leaveth her eggs to the earth;” but this is probably the case only with the tropical birds. We believe that the true explanation of this passage is that some of the eggs are left exposed around the nest for the nourishment of the young birds. It is a general belief among the Arabs that the ostrich is a very stupid bird; indeed they have a proverb, “stupid as an ostrich.” As is well known, the ostrich will swallow almost any substance, iron, stones, and even has been known to swallow “several leaden bullets scorching hot from the mould.” But in many other respects the ostrich is not as stupid as this would indicate, and is very hard to capture. It is the largest of all known birds, and perhaps the swiftest of all cursorial animals. -The feathers so much prized are the long white plumes of the wings. The best are brought from Barbary and the west coast of Africa."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Lamentations 4:3",
+        "original": "Lam. 4:3"
+      },
+      {
+        "reference": "Job 39:13",
+        "original": "Job 39:13"
+      },
+      {
+        "reference": "Job 30:29",
+        "original": "Job 30:29"
+      },
+      {
+        "reference": "Lamentations 4:13",
+        "original": "Lamentations 4:13"
+      },
+      {
+        "reference": "Micah 1:8",
+        "original": "Micah 1:8"
+      },
+      {
+        "reference": "Job 39:13-18",
+        "original": "Job 39:13-18"
+      }
+    ]
+  },
+  "OTHNI": {
+    "name": "Othni",
+    "slug": "othni",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(lion of Jehovah), son of Shemaiah, the first-horn of Obed-edom. (1 Chronicles 26:7) (B.C. 1013.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 26:7",
+        "original": "1 Chr. 26:7"
+      }
+    ]
+  },
+  "OTHNIEL": {
+    "name": "Othniel",
+    "slug": "othniel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(lion of God), son of Kenaz and younger brother of Caleb. (Joshua 15:17; Judges 1:13; 3:9; 1 Chronicles 4:13) (B.C. 1460.) The first mention of Othniel is on occasion of the taking of Kirjath-sepher, or Debir as it was afterward called. Caleb promised to give his daughter Achsah to whosoever should assault and take the city. Othniel won the prize. The next mention of him is in (Judges 3:9) where he appears as the first judge of Israel after the death of Joshua, and the deliverer of his countrymen from the oppression of Chushahrishathaim (Judges 3:8-9)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 15:16",
+        "original": "Josh. 15:16"
+      },
+      {
+        "reference": "Joshua 15:17",
+        "original": "Josh. 15:17"
+      },
+      {
+        "reference": "Judges 1:13",
+        "original": "Judg. 1:13"
+      },
+      {
+        "reference": "Judges 3:8",
+        "original": "Judg. 3:8"
+      },
+      {
+        "reference": "Judges 3:9",
+        "original": "Judg. 3:9"
+      },
+      {
+        "reference": "1 Chronicles 4:13",
+        "original": "1 Chronicles 4:13"
+      },
+      {
+        "reference": "Judges 3:8-9",
+        "original": "Judges 3:8-9"
+      }
+    ]
+  },
+  "OVEN": {
+    "name": "Oven",
+    "slug": "oven",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The eastern oven is of two kinds—fixed and portable. The former is found only in towns, where regular bakers are employed. (Hosea 7:4) The latter ia adapted to the nomad state, it consists of a large jar made of clay, about three feet high and widening toward the bottom, with a hole for the extraction of the ashes. Each household possessed such an article, (Exodus 8:3) and it was only in times of extreme dearth that the same oven sufficed for several families. (Leviticus 26:26) It was heated with dry twigs and grass, (Matthew 6:30) and the loaves were placed both inside and outside of it."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 7:4",
+        "original": "Hos. 7:4"
+      },
+      {
+        "reference": "Jeremiah 37:21",
+        "original": "Jer. 37:21"
+      },
+      {
+        "reference": "Nehemiah 3:11",
+        "original": "Neh. 3:11"
+      },
+      {
+        "reference": "Nehemiah 12:38",
+        "original": "Neh 12:38"
+      },
+      {
+        "reference": "1 Kings 17:12",
+        "original": "1 Kings 17:12"
+      },
+      {
+        "reference": "Isaiah 44:15",
+        "original": "Isa. 44:15"
+      },
+      {
+        "reference": "Jeremiah 7:18",
+        "original": "Jer. 7:18"
+      },
+      {
+        "reference": "Matthew 6:30",
+        "original": "Matt. 6:30"
+      },
+      {
+        "reference": "Genesis 18:6",
+        "original": "Gen. 18:6"
+      },
+      {
+        "reference": "1 Kings 19:6",
+        "original": "1 Kings 19:6"
+      },
+      {
+        "reference": "Exodus 8:3",
+        "original": "Exodus 8:3"
+      },
+      {
+        "reference": "Leviticus 26:26",
+        "original": "Leviticus 26:26"
+      }
+    ]
+  },
+  "OWL": {
+    "name": "Owl",
+    "slug": "owl",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A number of species of the owl are mentioned in the Bible, (Leviticus 11:17; 14:16; Isaiah 14:23; 34:15; Zephaniah 2:14) and in several other places the same Hebrew word is used where it is translated ostrich. (Job 30:29; Jeremiah 50:39) Some of these species were common in Palestine, and, as is well known, were often found inhabiting ruins. (Isaiah 34:11,13-15)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:16",
+        "original": "Lev. 11:16"
+      },
+      {
+        "reference": "Deuteronomy 14:15",
+        "original": "Deut. 14:15"
+      },
+      {
+        "reference": "Job 30:29",
+        "original": "Job 30:29"
+      },
+      {
+        "reference": "Isaiah 13:21",
+        "original": "Isa. 13:21"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa 34:13"
+      },
+      {
+        "reference": "Isaiah 43:20",
+        "original": "Isa 43:20"
+      },
+      {
+        "reference": "Jeremiah 50:39",
+        "original": "Jer. 50:39"
+      },
+      {
+        "reference": "Micah 1:8",
+        "original": "Micah 1:8"
+      },
+      {
+        "reference": "Leviticus 11:17",
+        "original": "Lev. 11:17"
+      },
+      {
+        "reference": "Deuteronomy 14:16",
+        "original": "Deut. 14:16"
+      },
+      {
+        "reference": "Isaiah 34:11",
+        "original": "Isa. 34:11"
+      },
+      {
+        "reference": "Psalms 102:6",
+        "original": "Ps. 102:6"
+      },
+      {
+        "reference": "Isaiah 34:15",
+        "original": "Isa. 34:15"
+      },
+      {
+        "reference": "Isaiah 34:14",
+        "original": "Isa. 34:14"
+      },
+      {
+        "reference": "Leviticus 14:16",
+        "original": "Leviticus 14:16"
+      },
+      {
+        "reference": "Isaiah 14:23",
+        "original": "Isaiah 14:23"
+      },
+      {
+        "reference": "Zephaniah 2:14",
+        "original": "Zephaniah 2:14"
+      },
+      {
+        "reference": "Isaiah 34:13-15",
+        "original": "Isaiah 34:13-15"
+      }
+    ]
+  },
+  "OX": {
+    "name": "Ox",
+    "slug": "ox",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "There was no animal in the rural economy of the Israelites, or indeed in that of the ancient Orientals generally, that was held in higher esteem than the ox and deservedly so, for the ox was the animal upon whose patient labors depended all the ordinary operations of farming. Oxen were used for ploughing, (22:10; 1 Samuel 14:14) etc.; for treading out corn, (25:4; Hosea 10:11) etc.; for draught purposes, when they were generally yoked in pairs, (Numbers 7:3; 1 Samuel 6:7) etc.; as beasts of burden, (1 Chronicles 12:40) their flesh was eaten, (14:4; 1 Kings 1:9) etc.; they were used in the sacrifices; cows supplied milk, butter, etc. (32:14; 2 Samuel 17:29; Isaiah 7:22) Connected with the importance of oxen in the rural economy of the Jews is the strict code of laws which was mercifully enacted by God for their protection and preservation. The ox that threshed the corn was by no means to be muzzled; he was to enjoy rest on the Sabbath as well as his master. (Exodus 23:12; 5:14) The ox was seldom slaughtered. (Leviticus 17:1-6) It seems clear from (Proverbs 15:17) and 1Kin 4:23 That cattle were sometimes stall-fed though as a general rule it is probable that they fed in the plains or on the hills of Palestine. The cattle that grazed at large in the open country would no doubt often become fierce and wild, for it is to be remembered that in primitive times the lion and other wild beasts of prey roamed about Palestine. Hence the force of the Psalmist’s complaint of his enemies. (Psalms 22:13)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 12:16",
+        "original": "Gen. 12:16"
+      },
+      {
+        "reference": "Genesis 34:28",
+        "original": "Gen 34:28"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "Job 1:14",
+        "original": "Job 1:14"
+      },
+      {
+        "reference": "Job 42:12",
+        "original": "Job 42:12"
+      },
+      {
+        "reference": "Deuteronomy 25:4",
+        "original": "Deut. 25:4"
+      },
+      {
+        "reference": "Luke 13:15",
+        "original": "Luke 13:15"
+      },
+      {
+        "reference": "Luke 14:5",
+        "original": "Luke 14:5"
+      },
+      {
+        "reference": "1 Samuel 14:14",
+        "original": "1 Samuel 14:14"
+      },
+      {
+        "reference": "Hosea 10:11",
+        "original": "Hosea 10:11"
+      },
+      {
+        "reference": "Numbers 7:3",
+        "original": "Numbers 7:3"
+      },
+      {
+        "reference": "1 Samuel 6:7",
+        "original": "1 Samuel 6:7"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chronicles 12:40"
+      },
+      {
+        "reference": "1 Kings 1:9",
+        "original": "1 Kings 1:9"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Samuel 17:29"
+      },
+      {
+        "reference": "Isaiah 7:22",
+        "original": "Isaiah 7:22"
+      },
+      {
+        "reference": "Exodus 23:12",
+        "original": "Exodus 23:12"
+      },
+      {
+        "reference": "Exodus 5:14",
+        "original": "Exodus 5:14"
+      },
+      {
+        "reference": "Leviticus 17:1-6",
+        "original": "Leviticus 17:1-6"
+      },
+      {
+        "reference": "Proverbs 15:17",
+        "original": "Proverbs 15:17"
+      },
+      {
+        "reference": "1 Kings 4:23",
+        "original": "1Kin 4:23"
+      },
+      {
+        "reference": "Psalms 22:13",
+        "original": "Psalms 22:13"
+      }
+    ]
+  },
+  "OZEM": {
+    "name": "Ozem",
+    "slug": "ozem",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(power)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 2:15",
+        "original": "1 Chr. 2:15"
+      },
+      {
+        "reference": "1 Chronicles 2:25",
+        "original": "1 Chr. 2:25"
+      }
+    ]
+  },
+  "OZIAS": {
+    "name": "Ozias",
+    "slug": "ozias",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(strength from the Lord)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:8",
+        "original": "Matt. 1:8"
+      },
+      {
+        "reference": "2 Kings 15:32",
+        "original": "2 Kings 15:32"
+      },
+      {
+        "reference": "2 Kings 15:34",
+        "original": "2 Kings 15:34"
+      },
+      {
+        "reference": "Ezra 2",
+        "original": "Ezra. 2"
+      },
+      {
+        "reference": "Matthew 1:9",
+        "original": "Matthew 1:9"
+      }
+    ]
+  },
+  "OZNI": {
+    "name": "Ozni",
+    "slug": "ozni",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(hearing), one of the sons of Gad (Numbers 26:16) and founder of the family of the Oznites. (Numbers 26:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 46:16",
+        "original": "Gen. 46:16"
+      },
+      {
+        "reference": "Numbers 26:16",
+        "original": "Num. 26:16"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "YARN": {
+    "name": "Yarn",
+    "slug": "yarn",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The notice of yarn is contained in an extremely obscure passage in (1 Kings 10:28; 2 Chronicles 1:16) The Hebrew Received Text is questionable. Gesenius gives the sense of “number” as applying equally to the merchants and the horses: “A band of the king’s merchants bought a drove (of horses) at a price.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Kings 10:28",
+        "original": "1 Kings 10:28"
+      },
+      {
+        "reference": "1 Kings 10:2",
+        "original": "1 Kings 10:2"
+      },
+      {
+        "reference": "2 Chronicles 1:16",
+        "original": "2 Chronicles 1:16"
+      }
+    ]
+  },
+  "YEAR": {
+    "name": "Year",
+    "slug": "year",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "the highest ordinary division of time. Two years were known to, and apparently used by, the Hebrews."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:14",
+        "original": "Gen. 1:14"
+      },
+      {
+        "reference": "Genesis 5:3",
+        "original": "Gen 5:3"
+      },
+      {
+        "reference": "Psalms 74:17",
+        "original": "Psalms 74:17"
+      },
+      {
+        "reference": "Zechariah 14:18",
+        "original": "Zechariah 14:18"
+      }
+    ]
+  },
+  "YEAR OF JUBILEE": {
+    "name": "Year Of Jubilee",
+    "slug": "year-of-jubilee",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Jubilee, The Year Of, YEAR OF]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "YEAR, SABBATICAL": {
+    "name": "Year, Sabbatical",
+    "slug": "year-sabbatical",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Sabbatical Year YEAR]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "YOKE": {
+    "name": "Yoke",
+    "slug": "yoke",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 19:2",
+        "original": "Num. 19:2"
+      },
+      {
+        "reference": "Deuteronomy 21:3",
+        "original": "Deut. 21:3"
+      },
+      {
+        "reference": "Jeremiah 27:2",
+        "original": "Jer. 27:2"
+      },
+      {
+        "reference": "Jeremiah 28:10",
+        "original": "Jer 28:10"
+      },
+      {
+        "reference": "Jeremiah 28:12",
+        "original": "Jer 28:12"
+      },
+      {
+        "reference": "Leviticus 26:13",
+        "original": "Lev. 26:13"
+      },
+      {
+        "reference": "1 Kings 12:4",
+        "original": "1 Kings 12:4"
+      },
+      {
+        "reference": "Isaiah 47:6",
+        "original": "Isa. 47:6"
+      },
+      {
+        "reference": "Lamentations 1:14",
+        "original": "Lam. 1:14"
+      },
+      {
+        "reference": "Lamentations 3:27",
+        "original": "Lam 3:27"
+      },
+      {
+        "reference": "Matthew 11:29",
+        "original": "Matt. 11:29"
+      },
+      {
+        "reference": "Matthew 11:30",
+        "original": "Matt. 11:30"
+      },
+      {
+        "reference": "Acts 15:10",
+        "original": "Acts 15:10"
+      },
+      {
+        "reference": "Galatians 5:1",
+        "original": "Gal. 5:1"
+      },
+      {
+        "reference": "1 Samuel 11:7",
+        "original": "1 Sam. 11:7"
+      },
+      {
+        "reference": "1 Samuel 11:1",
+        "original": "1 Sam. 11:1"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "1 Samuel 14:14",
+        "original": "1 Sam. 14:14"
+      },
+      {
+        "reference": "Isaiah 5:10",
+        "original": "Isa. 5:10"
+      },
+      {
+        "reference": "1 Kings 12:9-11",
+        "original": "1 Kings 12:9-11"
+      },
+      {
+        "reference": "Isaiah 9:4",
+        "original": "Isaiah 9:4"
+      },
+      {
+        "reference": "Jeremiah 5:5",
+        "original": "Jeremiah 5:5"
+      },
+      {
+        "reference": "Jeremiah 28:13",
+        "original": "Jeremiah 28:13"
+      },
+      {
+        "reference": "1 Kings 19:19",
+        "original": "1 Kings 19:19"
+      },
+      {
+        "reference": "1 Kings 19:21",
+        "original": "1 Kings 19:21"
+      },
+      {
+        "reference": "Judges 19:10",
+        "original": "Judges 19:10"
+      },
+      {
+        "reference": "2 Kings 5:17",
+        "original": "2 Kings 5:17"
+      },
+      {
+        "reference": "Isaiah 21:7",
+        "original": "Isaiah 21:7"
+      }
+    ]
+  }
+}

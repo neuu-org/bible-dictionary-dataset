@@ -1,0 +1,825 @@
+{
+  "VAGABOND": {
+    "name": "Vagabond",
+    "slug": "vagabond",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "From Lat. vagabundus, “a wanderer,” “a fugitive;” not used opprobriously (Gen. 4:12, R.V., “wanderer;” Ps. 109:10; Acts 19:13, R.V., “strolling”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:12",
+        "original": "Gen. 4:12"
+      },
+      {
+        "reference": "Psalms 109:10",
+        "original": "Ps. 109:10"
+      },
+      {
+        "reference": "Acts 19:13",
+        "original": "Acts 19:13"
+      }
+    ]
+  },
+  "VAJEZATHA": {
+    "name": "Vajezatha",
+    "slug": "vajezatha",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Purity; worthy of honour, one of Haman’s sons, whom the Jews slew in the palace of Shushan (Esther 9:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 9:9",
+        "original": "Esther 9:9"
+      }
+    ]
+  },
+  "VALLEY": {
+    "name": "Valley",
+    "slug": "valley",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. bik’ah, a “cleft” of the mountains (Deut. 8:7; 11:11; Ps. 104:8; Isa. 41:18); also a low plain bounded by mountains, as the plain of Lebanon at the foot of Hermon around the sources of the Jordan (Josh. 11:17; 12:7), and the valley of Megiddo (2 Chr. 35:22). (2.) ‘Emek, “deep;” “a long, low plain” (Job 39:10, 21; Ps. 65:13; Cant. 2:1), such as the plain of Esdraelon; the “valley of giants” (Josh. 15:8), usually translated “valley of Rephaim” (2 Sam. 5:18); of Elah (1 Sam. 17:2), of Berachah (2 Chr. 20:26); the king’s “dale” (Gen. 14:17); of Jehoshaphat (Joel 3:2, 12), of Achor (Josh. 7:24; Isa. 65:10), Succoth (Ps. 60:6), Ajalon (Josh. 10:12), Jezreel (Hos. 1:5). (3.) Ge, “a bursting,” a “flowing together,” a narrow glen or ravine, such as the valley of the children of Hinnom (2 Kings 23:10); of Eshcol (Deut. 1:24); of Sorek (Judg. 16:4), etc. The “valley of vision” (Isa. 22:1) is usually regarded as denoting Jerusalem, which “may be so called,” says Barnes (Com. on Isa.), “either (1) because there were several valleys within the city and adjacent to it, as the vale between Mount Zion and Moriah, the vale between Mount Moriah and Mount Ophel, between these and Mount Bezetha, and the valley of Jehoshaphat, the valley of the brook Kidron, etc., without the walls of the city; or (2) more probably it was called the valley in reference to its being compassed with hills rising to a considerable elevation above the city” (Ps. 125:2; comp. also Jer. 21:13, where Jerusalem is called a “valley”). (4.) Heb. nahal, a wady or water-course (Gen. 26:19; Cant. 6:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 8:7",
+        "original": "Deut. 8:7"
+      },
+      {
+        "reference": "Deuteronomy 11:11",
+        "original": "Deut 11:11"
+      },
+      {
+        "reference": "Psalms 104:8",
+        "original": "Ps. 104:8"
+      },
+      {
+        "reference": "Isaiah 41:18",
+        "original": "Isa. 41:18"
+      },
+      {
+        "reference": "Joshua 11:17",
+        "original": "Josh. 11:17"
+      },
+      {
+        "reference": "Joshua 12:7",
+        "original": "Josh 12:7"
+      },
+      {
+        "reference": "2 Chronicles 35:22",
+        "original": "2 Chr. 35:22"
+      },
+      {
+        "reference": "Job 39:10",
+        "original": "Job 39:10"
+      },
+      {
+        "reference": "Job 39:21",
+        "original": "Job 39:21"
+      },
+      {
+        "reference": "Psalms 65:13",
+        "original": "Ps. 65:13"
+      },
+      {
+        "reference": "Song of Solomon 2:1",
+        "original": "Cant. 2:1"
+      },
+      {
+        "reference": "Joshua 15:8",
+        "original": "Josh. 15:8"
+      },
+      {
+        "reference": "2 Samuel 5:18",
+        "original": "2 Sam. 5:18"
+      },
+      {
+        "reference": "1 Samuel 17:2",
+        "original": "1 Sam. 17:2"
+      },
+      {
+        "reference": "2 Chronicles 20:26",
+        "original": "2 Chr. 20:26"
+      },
+      {
+        "reference": "Genesis 14:17",
+        "original": "Gen. 14:17"
+      },
+      {
+        "reference": "Joel 3:2",
+        "original": "Joel 3:2"
+      },
+      {
+        "reference": "Joel 3:12",
+        "original": "Joel 3:12"
+      },
+      {
+        "reference": "Joshua 7:24",
+        "original": "Josh. 7:24"
+      },
+      {
+        "reference": "Isaiah 65:10",
+        "original": "Isa. 65:10"
+      },
+      {
+        "reference": "Psalms 60:6",
+        "original": "Ps. 60:6"
+      },
+      {
+        "reference": "Joshua 10:12",
+        "original": "Josh. 10:12"
+      },
+      {
+        "reference": "Hosea 1:5",
+        "original": "Hos. 1:5"
+      },
+      {
+        "reference": "2 Kings 23:10",
+        "original": "2 Kings 23:10"
+      },
+      {
+        "reference": "Deuteronomy 1:24",
+        "original": "Deut. 1:24"
+      },
+      {
+        "reference": "Judges 16:4",
+        "original": "Judg. 16:4"
+      },
+      {
+        "reference": "Isaiah 22:1",
+        "original": "Isa. 22:1"
+      },
+      {
+        "reference": "Psalms 125:2",
+        "original": "Ps. 125:2"
+      },
+      {
+        "reference": "Jeremiah 21:13",
+        "original": "Jer. 21:13"
+      },
+      {
+        "reference": "Genesis 26:19",
+        "original": "Gen. 26:19"
+      },
+      {
+        "reference": "Song of Solomon 6:11",
+        "original": "Cant. 6:11"
+      }
+    ]
+  },
+  "VASHTI": {
+    "name": "Vashti",
+    "slug": "vashti",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Beautiful, the queen of Ahasuerus, who was deposed from her royal dignity because she refused to obey the king when he desired her to appear in the banqueting hall of Shushan the palace (Esther 1:10-12). (See ESTHER.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 1:10-12",
+        "original": "Esther 1:10-12"
+      },
+      {
+        "reference": "Esther 1:1",
+        "original": "Esther 1:1"
+      }
+    ]
+  },
+  "VATICANUS, CODEX": {
+    "name": "Vaticanus, Codex",
+    "slug": "vaticanus-codex",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Is said to be the oldest extant vellum manuscript. It and the Codex Sinaiticus are the two oldest uncial manuscripts. They were probably written in the fourth century. The Vaticanus was placed in the Vatican Library at Rome by Pope Nicolas V. in 1448, its previous history being unknown. It originally consisted in all probability of a complete copy of the Septuagint and of the New Testament. It is now imperfect, and consists of 759 thin, delicate leaves, of which the New Testament fills 142. Like the Sinaiticus, it is of the greatest value to Biblical scholars in aiding in the formation of a correct text of the New Testament. It is referred to by critics as Codex B."
+      }
+    ],
+    "scripture_refs": []
+  },
+  "VEIL, VAIL": {
+    "name": "Veil, vail",
+    "slug": "veil-vail",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. mitpahath (Ruth 3:15; marg., “sheet” or “apron;” R.V., “mantle”). In Isa. 3:22 this word is plural, rendered “wimples;” R.V., “shawls” i.e., wraps. (2.) Massekah (Isa. 25:7; in Isa. 28:20 rendered “covering”). The word denotes something spread out and covering or concealing something else (comp. 2 Cor. 3:13-15). (3.) Masveh (Ex. 34:33, 35), the veil on the face of Moses. This verse should be read, “And when Moses had done speaking with them, he put a veil on his face,” as in the Revised Version. When Moses spoke to them he was without the veil; only when he ceased speaking he put on the veil (comp. 2 Cor. 3:13, etc.). (4.) Paroheth (Ex. 26:31-35), the veil of the tabernacle and the temple, which hung between the holy place and the most holy (2 Chr. 3:14). In the temple a partition wall separated these two places. In it were two folding-doors, which are supposed to have been always open, the entrance being concealed by the veil which the high priest lifted when he entered into the sanctuary on the day of Atonement. This veil was rent when Christ died on the cross (Matt. 27:51; Mark 15:38; Luke 23:45). (5.) Tza’iph (Gen. 24:65). Rebekah “took a vail and covered herself.” (See also 38:14, 19.) Hebrew women generally appeared in public without veils (12:14; 24:16; 29:10; 1 Sam. 1:12). (6.) Radhidh (Cant. 5:7, R.V. “mantle;” Isa. 3:23). The word probably denotes some kind of cloak or wrapper. (7.) Masak, the veil which hung before the entrance to the holy place (Ex. 26:36, 37)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      },
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "Isaiah 25:7",
+        "original": "Isa. 25:7"
+      },
+      {
+        "reference": "Isaiah 28:20",
+        "original": "Isa. 28:20"
+      },
+      {
+        "reference": "2 Corinthians 3:13-15",
+        "original": "2 Cor. 3:13-15"
+      },
+      {
+        "reference": "Exodus 34:33",
+        "original": "Ex. 34:33"
+      },
+      {
+        "reference": "Exodus 34:35",
+        "original": "Ex. 34:35"
+      },
+      {
+        "reference": "2 Corinthians 3:13",
+        "original": "2 Cor. 3:13"
+      },
+      {
+        "reference": "Exodus 26:31-35",
+        "original": "Ex. 26:31-35"
+      },
+      {
+        "reference": "2 Chronicles 3:14",
+        "original": "2 Chr. 3:14"
+      },
+      {
+        "reference": "Matthew 27:51",
+        "original": "Matt. 27:51"
+      },
+      {
+        "reference": "Mark 15:38",
+        "original": "Mark 15:38"
+      },
+      {
+        "reference": "Luke 23:45",
+        "original": "Luke 23:45"
+      },
+      {
+        "reference": "Genesis 24:65",
+        "original": "Gen. 24:65"
+      },
+      {
+        "reference": "1 Samuel 1:12",
+        "original": "1 Sam. 1:12"
+      },
+      {
+        "reference": "Song of Solomon 5:7",
+        "original": "Cant. 5:7"
+      },
+      {
+        "reference": "Isaiah 3:23",
+        "original": "Isa. 3:23"
+      },
+      {
+        "reference": "Exodus 26:36",
+        "original": "Ex. 26:36"
+      },
+      {
+        "reference": "Exodus 26:37",
+        "original": "Ex. 26:37"
+      }
+    ]
+  },
+  "VERSION": {
+    "name": "Version",
+    "slug": "version",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "A translation of the holy Scriptures. This word is not found in the Bible, nevertheless, as frequent references are made in this work to various ancient as well as modern versions, it is fitting that some brief account should be given of the most important of these. These versions are important helps to the right interpretation of the Word. (See SAMARITAN PENTATEUCH.) 1. The Targums. After the return from the Captivity, the Jews, no longer familiar with the old Hebrew, required that their Scriptures should be translated for them into the Chaldaic or Aramaic language and interpreted. These translations and paraphrases were at first oral, but they were afterwards reduced to writing, and thus targums, i.e., “versions” or “translations”, have come down to us. The chief of these are, (1.) The Onkelos Targum, i.e., the targum of Akelas=Aquila, a targum so called to give it greater popularity by comparing it with the Greek translation of Aquila mentioned below. This targum originated about the second century after Christ. (2.) The targum of Jonathan ben Uzziel comes next to that of Onkelos in respect of age and value. It is more a paraphrase on the Prophets, however, than a translation. Both of these targums issued from the Jewish school which then flourished at Babylon. 2. The Greek Versions. (1.) The oldest of these is the Septuagint, usually quoted as the LXX. The origin of this the most important of all the versions is involved in much obscurity. It derives its name from the popular notion that seventy-two translators were employed on it by the direction of Ptolemy Philadelphus, king of Egypt, and that it was accomplished in seventy-two days, for the use of the Jews residing in that country. There is no historical warrant for this notion. It is, however, an established fact that this version was made at Alexandria; that it was begun about 280 B.C., and finished about 200 or 150 B.C.; that it was the work of a number of translators who differed greatly both in their knowledge of Hebrew and of Greek; and that from the earliest times it has borne the name of “The Septuagint”, i.e., The Seventy. “This version, with all its defects, must be of the greatest interest, (a) as preserving evidence for the text far more ancient than the oldest Hebrew manuscripts; (b) as the means by which the Greek Language was wedded to Hebrew thought; (c) as the source of the great majority of quotations from the Old Testament by writers of the New Testament. (2.) The New Testament manuscripts fall into two divisions, Uncials, written in Greek capitals, with no distinction at all between the different words, and very little even between the different lines; and Cursives, in small Greek letters, and with divisions of words and lines. The change between the two kinds of Greek writing took place about the tenth century. Only five manuscripts of the New Testament approaching to completeness are more ancient than this dividing date. The first, numbered A, is the Alexandrian manuscript. Though brought to this country by Cyril Lucar, patriarch of Constantinople, as a present to Charles I., it is believed that it was written, not in that capital, but in Alexandria; whence its title. It is now dated in the fifth century A.D. The second, known as B, is the Vatican manuscript. (See VATICANUS.) The Third, C, or the Ephraem manuscript, was so called because it was written over the writings of Ephraem, a Syrian theological author, a practice very common in the days when writing materials were scarce and dear. It is believed that it belongs to the fifth century, and perhaps a slightly earlier period of it than the manuscript A. The fourth, D, or the manuscript of Beza, was so called because it belonged to the reformer Beza, who found it in the monastery of St. Irenaeus at Lyons in 1562 A.D. It is imperfect, and is dated in the sixth century. The fifth (called Aleph) is the Sinaitic manuscript. (See SINAITICUS.) 3. The Syriac Versions. (See SYRIAC.) 4. The Latin Versions. A Latin version of the Scriptures, called the “Old Latin,” which originated in North Africa, was in common use in the time of Tertullian (A.D. 150). Of this there appear to have been various copies or recensions made. That made in Italy, and called the Itala, was reckoned the most accurate. This translation of the Old Testament seems to have been made not from the original Hebrew but from the LXX. This version became greatly corrupted by repeated transcription, and to remedy the evil Jerome (A.D. 329-420) was requested by Damasus, the bishop of Rome, to undertake a complete revision of it. It met with opposition at first, but was at length, in the seventh century, recognized as the “Vulgate” version. It appeared in a printed from about A.D. 1455, the first book that ever issued from the press. The Council of Trent (1546) declared it “authentic.” It subsequently underwent various revisions, but that which was executed (1592) under the sanction of Pope Clement VIII. was adopted as the "
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:15",
+        "original": "Gen. 3:15"
+      }
+    ]
+  },
+  "VILLAGES": {
+    "name": "Villages",
+    "slug": "villages",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Judg. 5:7, 11). The Hebrew word thus rendered (perazon) means habitations in the open country, unwalled villages (Deut. 3:5; 1 Sam. 6:18). Others, however, following the LXX. and the Vulgate versions, render the word “rulers.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 5:7",
+        "original": "Judg. 5:7"
+      },
+      {
+        "reference": "Judges 5:11",
+        "original": "Judg. 5:11"
+      },
+      {
+        "reference": "Deuteronomy 3:5",
+        "original": "Deut. 3:5"
+      },
+      {
+        "reference": "1 Samuel 6:18",
+        "original": "1 Sam. 6:18"
+      }
+    ]
+  },
+  "VINE": {
+    "name": "Vine",
+    "slug": "vine",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "One of the most important products of Palestine. The first mention of it is in the history of Noah (Gen. 9:20). It is afterwards frequently noticed both in the Old and New Testaments, and in the ruins of terraced vineyards there are evidences that it was extensively cultivated by the Jews. It was cultivated in Palestine before the Israelites took possession of it. The men sent out by Moses brought with them from the Valley of Eshcol a cluster of grapes so large that “they bare it between two upon a staff” (Num. 13: 23). The vineyards of En-gedi (Cant. 1:14), Heshbon, Sibmah, Jazer, Elealeh (Isa. 16:8-10; Jer. 48:32, 34), and Helbon (Ezek. 27:18), as well as of Eshcol, were celebrated. The Church is compared to a vine (Ps. 80:8), and Christ says of himself, “I am the vine” (John 15:1). In one of his parables also (Matt. 21:33) our Lord compares his Church to a vineyard which “a certain householder planted, and hedged round about,” etc. Hos. 10:1 is rendered in the Revised Version, “Israel is a luxuriant vine, which putteth forth his fruit,” instead of “Israel is an empty vine, he bringeth forth fruit unto himself,” of the Authorized Version."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:20",
+        "original": "Gen. 9:20"
+      },
+      {
+        "reference": "Numbers 13",
+        "original": "Num. 13"
+      },
+      {
+        "reference": "Song of Solomon 1:14",
+        "original": "Cant. 1:14"
+      },
+      {
+        "reference": "Isaiah 16:8-10",
+        "original": "Isa. 16:8-10"
+      },
+      {
+        "reference": "Jeremiah 48:32",
+        "original": "Jer. 48:32"
+      },
+      {
+        "reference": "Jeremiah 48:34",
+        "original": "Jer. 48:34"
+      },
+      {
+        "reference": "Ezekiel 27:18",
+        "original": "Ezek. 27:18"
+      },
+      {
+        "reference": "Psalms 80:8",
+        "original": "Ps. 80:8"
+      },
+      {
+        "reference": "John 15:1",
+        "original": "John 15:1"
+      },
+      {
+        "reference": "Matthew 21:33",
+        "original": "Matt. 21:33"
+      },
+      {
+        "reference": "Hosea 10:1",
+        "original": "Hos. 10:1"
+      },
+      {
+        "reference": "Genesis 9:21",
+        "original": "Genesis 9:21"
+      },
+      {
+        "reference": "Genesis 40:9-11",
+        "original": "Genesis 40:9-11"
+      },
+      {
+        "reference": "Psalms 78:47",
+        "original": "Psalms 78:47"
+      },
+      {
+        "reference": "Numbers 13:23",
+        "original": "Numbers 13:23"
+      },
+      {
+        "reference": "Numbers 13:24",
+        "original": "Numbers 13:24"
+      },
+      {
+        "reference": "Numbers 32:9",
+        "original": "Numbers 32:9"
+      },
+      {
+        "reference": "Isaiah 16:8",
+        "original": "Isaiah 16:8"
+      },
+      {
+        "reference": "Isaiah 16:9",
+        "original": "Isaiah 16:9"
+      },
+      {
+        "reference": "Isaiah 16:10",
+        "original": "Isaiah 16:10"
+      },
+      {
+        "reference": "1 Kings 4:25",
+        "original": "1 Kings 4:25"
+      },
+      {
+        "reference": "Psalms 128:3",
+        "original": "Psalms 128:3"
+      },
+      {
+        "reference": "Micah 4:4",
+        "original": "Micah 4:4"
+      },
+      {
+        "reference": "Isaiah 6:2",
+        "original": "Isaiah 6:2"
+      },
+      {
+        "reference": "Isaiah 6:4",
+        "original": "Isaiah 6:4"
+      },
+      {
+        "reference": "Jeremiah 2:21",
+        "original": "Jeremiah 2:21"
+      },
+      {
+        "reference": "John 15:1-6",
+        "original": "John 15:1-6"
+      },
+      {
+        "reference": "Ezekiel 19:11",
+        "original": "Ezekiel 19:11"
+      },
+      {
+        "reference": "Ezekiel 19:12",
+        "original": "Ezekiel 19:12"
+      },
+      {
+        "reference": "Judges 8:27",
+        "original": "Judges 8:27"
+      },
+      {
+        "reference": "Jeremiah 25:30",
+        "original": "Jeremiah 25:30"
+      },
+      {
+        "reference": "Jeremiah 6:9",
+        "original": "Jeremiah 6:9"
+      },
+      {
+        "reference": "Isaiah 5:1",
+        "original": "Isaiah 5:1"
+      },
+      {
+        "reference": "Jeremiah 31:5",
+        "original": "Jeremiah 31:5"
+      },
+      {
+        "reference": "Amos 9:13",
+        "original": "Amos 9:13"
+      },
+      {
+        "reference": "Psalms 80:13",
+        "original": "Psalms 80:13"
+      },
+      {
+        "reference": "Numbers 22:24",
+        "original": "Numbers 22:24"
+      },
+      {
+        "reference": "Nehemiah 4:3",
+        "original": "Nehemiah 4:3"
+      },
+      {
+        "reference": "Ezekiel 13:4",
+        "original": "Ezekiel 13:4"
+      },
+      {
+        "reference": "Ezekiel 13:5",
+        "original": "Ezekiel 13:5"
+      },
+      {
+        "reference": "Isaiah 1:8",
+        "original": "Isaiah 1:8"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isaiah 5:2"
+      }
+    ]
+  },
+  "VINE OF SODOM": {
+    "name": "Vine of Sodom",
+    "slug": "vine-of-sodom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Referred to only in Deut. 32:32. Among the many conjectures as to this tree, the most probable is that it is the ‘osher of the Arabs, which abounds in the region of the Dead Sea. Its fruit are the so-called “apples of Sodom,” which, though beautiful to the eye, are exceedingly bitter to the taste. (See EN-GEDI.) The people of Israel are referred to here by Moses as being utterly corrupt, bringing forth only bitter fruit."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 32:32",
+        "original": "Deut. 32:32"
+      }
+    ]
+  },
+  "VINEGAR": {
+    "name": "Vinegar",
+    "slug": "vinegar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. hometz, Gr. oxos, Fr. vin aigre; i.e., “sour wine.” The Hebrew word is rendered vinegar in Ps. 69:21, a prophecy fulfilled in the history of the crucifixion (Matt. 27:34). This was the common sour wine (posea) daily made use of by the Roman soldiers. They gave it to Christ, not in derision, but from compassion, to assuage his thirst. Prov. 10:26 shows that there was also a stronger vinegar, which was not fit for drinking. The comparison, “vinegar upon nitre,” probably means “vinegar upon soda” (as in the marg. of the R.V.), which then effervesces."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 69:21",
+        "original": "Ps. 69:21"
+      },
+      {
+        "reference": "Matthew 27:34",
+        "original": "Matt. 27:34"
+      },
+      {
+        "reference": "Proverbs 10:26",
+        "original": "Prov. 10:26"
+      },
+      {
+        "reference": "Psalms 49:21",
+        "original": "Psalms 49:21"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      },
+      {
+        "reference": "Matthew 27:48",
+        "original": "Matthew 27:48"
+      },
+      {
+        "reference": "Mark 15:36",
+        "original": "Mark 15:36"
+      },
+      {
+        "reference": "John 19:29",
+        "original": "John 19:29"
+      },
+      {
+        "reference": "John 19:30",
+        "original": "John 19:30"
+      }
+    ]
+  },
+  "VIOL": {
+    "name": "Viol",
+    "slug": "viol",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. nebel (Isa. 5:12, R.V., “lute;” 14:11), a musical instrument, usually rendered “psaltery” (q.v.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 5:12",
+        "original": "Isa. 5:12"
+      }
+    ]
+  },
+  "VIPER": {
+    "name": "Viper",
+    "slug": "viper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "In Job 20:16, Isa. 30:6; 59:5, the Heb. word eph’eh is thus rendered. The Hebrew word, however, probably denotes a species of poisonous serpents known by the Arabic name of ‘el ephah. Tristram has identified it with the sand viper, a species of small size common in sandy regions, and frequently found under stones by the shores of the Dead Sea. It is rapid in its movements, and highly poisonous. In the New Testament echidne is used (Matt. 3:7; 12:34; 23:33) for any poisonous snake. The viper mentioned in Acts 28:3 was probably the vipera aspis, or the Mediterranean viper. (See ADDER.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 20:16",
+        "original": "Job 20:16"
+      },
+      {
+        "reference": "Isaiah 30:6",
+        "original": "Isa. 30:6"
+      },
+      {
+        "reference": "Isaiah 59:5",
+        "original": "Isa 59:5"
+      },
+      {
+        "reference": "Matthew 3:7",
+        "original": "Matt. 3:7"
+      },
+      {
+        "reference": "Matthew 12:34",
+        "original": "Matt 12:34"
+      },
+      {
+        "reference": "Matthew 23:33",
+        "original": "Matt 23:33"
+      },
+      {
+        "reference": "Acts 28:3",
+        "original": "Acts 28:3"
+      }
+    ]
+  },
+  "VIRGIN": {
+    "name": "Virgin",
+    "slug": "virgin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "In a prophecy concerning our Lord, Isaiah (7:14) says, “A virgin [R.V. marg., ‘the virgin’] shall conceive, and bear a son” (comp. Luke 1:31-35). The people of the land of Zidon are thus referred to by Isaiah (23:12), “O thou oppressed virgin, daughter of Zidon;” and of the people of Israel, Jeremiah (18:13) says, “The virgin of Israel hath done a very horrible thing.”"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 1:31-35",
+        "original": "Luke 1:31-35"
+      }
+    ]
+  },
+  "VISION": {
+    "name": "Vision",
+    "slug": "vision",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Luke 1:22), a vivid apparition, not a dream (comp. Luke 24:23; Acts 26:19; 2 Cor. 12:1)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 1:22",
+        "original": "Luke 1:22"
+      },
+      {
+        "reference": "Luke 24:23",
+        "original": "Luke 24:23"
+      },
+      {
+        "reference": "Acts 26:19",
+        "original": "Acts 26:19"
+      },
+      {
+        "reference": "2 Corinthians 12:1",
+        "original": "2 Cor. 12:1"
+      }
+    ]
+  },
+  "VOWS": {
+    "name": "Vows",
+    "slug": "vows",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Voluntary promises which, when once made, were to be kept if the thing vowed was right. They were made under a great variety of circumstances (Gen. 28: 18-22; Lev. 7:16; Num. 30:2-13; Deut. 23:18; Judg. 11:30, 39; 1 Sam. 1:11; Jonah 1:16; Acts 18:18; 21:23)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 28",
+        "original": "Gen. 28"
+      },
+      {
+        "reference": "Leviticus 7:16",
+        "original": "Lev. 7:16"
+      },
+      {
+        "reference": "Numbers 30:2-13",
+        "original": "Num. 30:2-13"
+      },
+      {
+        "reference": "Deuteronomy 23:18",
+        "original": "Deut. 23:18"
+      },
+      {
+        "reference": "Judges 11:30",
+        "original": "Judg. 11:30"
+      },
+      {
+        "reference": "Judges 11:39",
+        "original": "Judg. 11:39"
+      },
+      {
+        "reference": "1 Samuel 1:11",
+        "original": "1 Sam. 1:11"
+      },
+      {
+        "reference": "Jonah 1:16",
+        "original": "Jonah 1:16"
+      },
+      {
+        "reference": "Acts 18:18",
+        "original": "Acts 18:18"
+      },
+      {
+        "reference": "Acts 21:23",
+        "original": "Acts 21:23"
+      },
+      {
+        "reference": "Genesis 28:18-22",
+        "original": "Genesis 28:18-22"
+      },
+      {
+        "reference": "Genesis 31:13",
+        "original": "Genesis 31:13"
+      },
+      {
+        "reference": "Job 22:27",
+        "original": "Job 22:27"
+      },
+      {
+        "reference": "Leviticus 27:28",
+        "original": "Leviticus 27:28"
+      },
+      {
+        "reference": "Leviticus 27:9",
+        "original": "Leviticus 27:9"
+      },
+      {
+        "reference": "Leviticus 10:33",
+        "original": "Leviticus 10:33"
+      },
+      {
+        "reference": "2 Samuel 15:8",
+        "original": "2 Samuel 15:8"
+      },
+      {
+        "reference": "Leviticus 27:1-7",
+        "original": "Leviticus 27:1-7"
+      },
+      {
+        "reference": "Numbers 30:2",
+        "original": "Numbers 30:2"
+      },
+      {
+        "reference": "Numbers 23:21",
+        "original": "Numbers 23:21"
+      },
+      {
+        "reference": "Ecclesiastes 5:4",
+        "original": "Ecclesiastes 5:4"
+      },
+      {
+        "reference": "Numbers 30:3-18",
+        "original": "Numbers 30:3-18"
+      },
+      {
+        "reference": "Ezra 10:8",
+        "original": "Ezra 10:8"
+      },
+      {
+        "reference": "Micah 4:13",
+        "original": "Micah 4:13"
+      },
+      {
+        "reference": "Acts 21:24",
+        "original": "Acts 21:24"
+      }
+    ]
+  },
+  "VULTURE": {
+    "name": "Vulture",
+    "slug": "vulture",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. da’ah (Lev. 11:14). In the parallel passage (Deut. 14:13) the Hebrew word used is ra’ah, rendered “glede;” LXX., “gups;” Vulg., “milvus.” A species of ravenous bird, distinguished for its rapid flight. “When used without the epithet ‘red,’ the name is commonly confined to the black kite. The habits of the bird bear out the allusion in Isa. 34:15, for it is, excepting during the winter three months, so numerous everywhere in Palestine as to be almost gregarious.” (See EAGLE.) (2.) In Job 28:7 the Heb. ‘ayyah is thus rendered. The word denotes a clamorous and a keen-sighted bird of prey. In Lev. 11:14 and Deut. 14:13 it is rendered “kite” (q.v.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:14",
+        "original": "Lev. 11:14"
+      },
+      {
+        "reference": "Deuteronomy 14:13",
+        "original": "Deut. 14:13"
+      },
+      {
+        "reference": "Isaiah 34:15",
+        "original": "Isa. 34:15"
+      },
+      {
+        "reference": "Job 28:7",
+        "original": "Job 28:7"
+      }
+    ]
+  }
+}

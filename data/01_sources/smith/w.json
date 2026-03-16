@@ -1,0 +1,3017 @@
+{
+  "WAGES": {
+    "name": "Wages",
+    "slug": "wages",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The earliest mention of wages is of a recompense, not in money, but in kind, to Jacob from Laban. (Genesis 29:15,20; 30:28; 31:7,8,41) In Egypt money payments by way of wages were in use, but the terms cannot now be ascertained. (Exodus 2:9) The only mention of the rate of wages in Scripture is found in the parable of the householder and the vineyard, (Matthew 20:2) where the laborer’s wages was set at one denarius per day, probably 15 to 17 cents, a sum which may be fairly taken as equivalent to the denarius, and to the usual pay of a soldier (ten asses per diem) in the later days of the Roman republic. Tac. Ann. i. 17; Polyb. vi. 39. In earlier times it is probable that the rate was lower; but it is likely that laborers, and also soldiers, were supplied with provisions. The law was very strict in requiring daily payment of wages. (Leviticus 19:13; 24:14,15) The employer who refused to give his-laborers sufficient victuals is censured (Job 22:11) and the iniquity of withholding wages is denounced. (Jeremiah 22:13; Malachi 3:5; James 6:4)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 20:2",
+        "original": "Matt. 20:2"
+      },
+      {
+        "reference": "Leviticus 19:13",
+        "original": "Lev. 19:13"
+      },
+      {
+        "reference": "Deuteronomy 24:14",
+        "original": "Deut. 24:14"
+      },
+      {
+        "reference": "Deuteronomy 24:15",
+        "original": "Deut. 24:15"
+      },
+      {
+        "reference": "Jeremiah 22:13",
+        "original": "Jer. 22:13"
+      },
+      {
+        "reference": "Malachi 3:5",
+        "original": "Mal. 3:5"
+      },
+      {
+        "reference": "James 5:4",
+        "original": "James 5:4"
+      },
+      {
+        "reference": "Matthew 20:1-14",
+        "original": "Matt. 20:1-14"
+      },
+      {
+        "reference": "Genesis 29:15",
+        "original": "Gen. 29:15"
+      },
+      {
+        "reference": "Genesis 29:20",
+        "original": "Gen. 29:20"
+      },
+      {
+        "reference": "Genesis 30:28",
+        "original": "Genesis 30:28"
+      },
+      {
+        "reference": "Genesis 31:7",
+        "original": "Genesis 31:7"
+      },
+      {
+        "reference": "Genesis 31:8",
+        "original": "Genesis 31:8"
+      },
+      {
+        "reference": "Genesis 31:41",
+        "original": "Genesis 31:41"
+      },
+      {
+        "reference": "Exodus 2:9",
+        "original": "Exodus 2:9"
+      },
+      {
+        "reference": "Leviticus 24:14",
+        "original": "Leviticus 24:14"
+      },
+      {
+        "reference": "Leviticus 24:15",
+        "original": "Leviticus 24:15"
+      },
+      {
+        "reference": "Job 22:11",
+        "original": "Job 22:11"
+      },
+      {
+        "reference": "James 6:4",
+        "original": "James 6:4"
+      }
+    ]
+  },
+  "WAGON": {
+    "name": "Wagon",
+    "slug": "wagon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The Oriental wagon, or arabah, is a vehicle composed of two or three planks fixed on two solid circular blocks of wood from two to five feet in diameter, which serve as wheels. For the conveyance of passengers, mattresses or clothes are laid in the bottom and the vehicle is drawn by buffaloes or oxen. [Cart and Chariot]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 45:19",
+        "original": "Gen. 45:19"
+      },
+      {
+        "reference": "Genesis 45:21",
+        "original": "Gen. 45:21"
+      },
+      {
+        "reference": "Genesis 45:27",
+        "original": "Gen. 45:27"
+      },
+      {
+        "reference": "Numbers 7:3",
+        "original": "Num. 7:3"
+      },
+      {
+        "reference": "Numbers 7:7",
+        "original": "Num 7:7"
+      },
+      {
+        "reference": "Numbers 7:8",
+        "original": "Num 7:8"
+      },
+      {
+        "reference": "1 Samuel 6:7",
+        "original": "1 Sam. 6:7"
+      },
+      {
+        "reference": "Ezekiel 23:24",
+        "original": "Ezek. 23:24"
+      }
+    ]
+  },
+  "WALLS": {
+    "name": "Walls",
+    "slug": "walls",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Only a few points need be noticed."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 6:48",
+        "original": "Luke 6:48"
+      },
+      {
+        "reference": "Numbers 22:24",
+        "original": "Numbers 22:24"
+      }
+    ]
+  },
+  "WANDERING IN THE WILDERNESS": {
+    "name": "Wandering In The Wilderness",
+    "slug": "wandering-in-the-wilderness",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Wilderness Of The Wandering OF THE WANDERING]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WAR": {
+    "name": "War",
+    "slug": "war",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The most important topic in connection with war is the formation of the army which is destined to carry it on. [Army] In (1 Kings 9:22) at a period (Solomon’s reign) when the organization of the army was complete, we have apparently a list of the various gradations of rank in the service, as follows:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 6:11-17",
+        "original": "Eph. 6:11-17"
+      },
+      {
+        "reference": "1 Thessalonians 5:8",
+        "original": "1 Thess. 5:8"
+      },
+      {
+        "reference": "2 Timothy 2:3",
+        "original": "2 Tim. 2:3"
+      },
+      {
+        "reference": "2 Timothy 2:4",
+        "original": "2 Tim. 2:4"
+      },
+      {
+        "reference": "Revelation 3:21",
+        "original": "Rev. 3:21"
+      },
+      {
+        "reference": "1 Kings 9:22",
+        "original": "1 Kings 9:22"
+      },
+      {
+        "reference": "Numbers 13:17",
+        "original": "Numbers 13:17"
+      },
+      {
+        "reference": "Joshua 2:1",
+        "original": "Joshua 2:1"
+      },
+      {
+        "reference": "Judges 7:10",
+        "original": "Judges 7:10"
+      },
+      {
+        "reference": "1 Samuel 26:4",
+        "original": "1 Samuel 26:4"
+      },
+      {
+        "reference": "2 Samuel 1:23",
+        "original": "2 Samuel 1:23"
+      },
+      {
+        "reference": "2 Samuel 2:18",
+        "original": "2 Samuel 2:18"
+      },
+      {
+        "reference": "1 Chronicles 12:8",
+        "original": "1 Chronicles 12:8"
+      },
+      {
+        "reference": "Joshua 8:2",
+        "original": "Joshua 8:2"
+      },
+      {
+        "reference": "Joshua 8:12",
+        "original": "Joshua 8:12"
+      },
+      {
+        "reference": "Judges 20:36",
+        "original": "Judges 20:36"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judges 7:16"
+      },
+      {
+        "reference": "2 Samuel 5:23",
+        "original": "2 Samuel 5:23"
+      },
+      {
+        "reference": "1 Samuel 17",
+        "original": "1 Samuel 17"
+      },
+      {
+        "reference": "2 Samuel 2:14",
+        "original": "2 Samuel 2:14"
+      },
+      {
+        "reference": "1 Samuel 17:25",
+        "original": "1 Samuel 17:25"
+      },
+      {
+        "reference": "1 Samuel 18:25",
+        "original": "1 Samuel 18:25"
+      },
+      {
+        "reference": "2 Samuel 18:11",
+        "original": "2 Samuel 18:11"
+      },
+      {
+        "reference": "1 Chronicles 11:6",
+        "original": "1 Chronicles 11:6"
+      },
+      {
+        "reference": "2 Samuel 2:28",
+        "original": "2 Samuel 2:28"
+      },
+      {
+        "reference": "2 Samuel 18:16",
+        "original": "2 Samuel 18:16"
+      },
+      {
+        "reference": "2 Samuel 20:22",
+        "original": "2 Samuel 20:22"
+      },
+      {
+        "reference": "Ezekiel 4:2",
+        "original": "Ezekiel 4:2"
+      },
+      {
+        "reference": "Micah 5:1",
+        "original": "Micah 5:1"
+      },
+      {
+        "reference": "2 Samuel 20:15",
+        "original": "2 Samuel 20:15"
+      },
+      {
+        "reference": "2 Kings 19:32",
+        "original": "2 Kings 19:32"
+      },
+      {
+        "reference": "Isaiah 37:33",
+        "original": "Isaiah 37:33"
+      },
+      {
+        "reference": "2 Kings 25:1",
+        "original": "2 Kings 25:1"
+      },
+      {
+        "reference": "Jeremiah 52:4",
+        "original": "Jeremiah 52:4"
+      },
+      {
+        "reference": "Ezekiel 17:17",
+        "original": "Ezekiel 17:17"
+      },
+      {
+        "reference": "Ezekiel 21:22",
+        "original": "Ezekiel 21:22"
+      },
+      {
+        "reference": "Ezekiel 26:8",
+        "original": "Ezekiel 26:8"
+      },
+      {
+        "reference": "1 Samuel 31:8",
+        "original": "1 Samuel 31:8"
+      },
+      {
+        "reference": "2Macc 8:27",
+        "original": "2 Macc 8:27"
+      },
+      {
+        "reference": "Judges 9:45",
+        "original": "Judges 9:45"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Samuel 12:31"
+      },
+      {
+        "reference": "2 Chronicles 25:12",
+        "original": "2 Chronicles 25:12"
+      },
+      {
+        "reference": "Judges 1:6",
+        "original": "Judges 1:6"
+      },
+      {
+        "reference": "1 Samuel 11:2",
+        "original": "1 Samuel 11:2"
+      },
+      {
+        "reference": "Numbers 31:26",
+        "original": "Numbers 31:26"
+      }
+    ]
+  },
+  "WASHING THE HANDS AND FEET": {
+    "name": "Washing The Hands And Feet",
+    "slug": "washing-the-hands-and-feet",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "As knives and forks were not used in the East, in Scripture times, in eating, it was necessary that the hand, which was thrust into the common dish, should be scrupulously clean; and again, as sandals were ineffectual against the dust and heat of the climate, washing the feet on entering a house was an act both of respect to the company and of refreshment to the traveller. The former of these usages was transformed by the Pharisees of the New Testament age into a matter of ritual observance, (Mark 7:3) and special rules were laid down as to the time and manner of its performance. Washing the feet did not rise to the dignity of a ritual observance except in connection with the services of the sanctuary. (Exodus 30:19,21) It held a high place, however, among the rites of hospitality. Immediately that a guest presented himself at the tent door it was usual to offer the necessary materials for washing the feet. (Genesis 18:4; 19:2; 24:32; 43:24; Judges 19:21) It was a yet more complimentary act, betokening equally humility and affection, if the host himself performed the office for his guest. (1 Samuel 25:41; Luke 7:38,44; John 13:5-14; 1 Timothy 5:10) Such a token of hospitality is still occasionally exhibited in the East."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 7:3",
+        "original": "Mark 7:3"
+      },
+      {
+        "reference": "Exodus 30:19",
+        "original": "Exodus 30:19"
+      },
+      {
+        "reference": "Exodus 30:21",
+        "original": "Exodus 30:21"
+      },
+      {
+        "reference": "Genesis 18:4",
+        "original": "Genesis 18:4"
+      },
+      {
+        "reference": "Genesis 19:2",
+        "original": "Genesis 19:2"
+      },
+      {
+        "reference": "Genesis 24:32",
+        "original": "Genesis 24:32"
+      },
+      {
+        "reference": "Genesis 43:24",
+        "original": "Genesis 43:24"
+      },
+      {
+        "reference": "Judges 19:21",
+        "original": "Judges 19:21"
+      },
+      {
+        "reference": "1 Samuel 25:41",
+        "original": "1 Samuel 25:41"
+      },
+      {
+        "reference": "Luke 7:38",
+        "original": "Luke 7:38"
+      },
+      {
+        "reference": "Luke 7:44",
+        "original": "Luke 7:44"
+      },
+      {
+        "reference": "John 13:5-14",
+        "original": "John 13:5-14"
+      },
+      {
+        "reference": "1 Timothy 5:10",
+        "original": "1 Timothy 5:10"
+      }
+    ]
+  },
+  "WATCHES OF NIGHT": {
+    "name": "Watches Of Night",
+    "slug": "watches-of-night",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The Jews, like the Greeks and Romans, divided the night into military watches instead of hours, each watch representing the period for which sentinels or pickets remained on duty. The proper Jewish reckoning recognized only three such watches, entitled the first or “beginning of the watches,” (Lamentations 2:19) the middle watch, (Judges 7:19) and the morning watch. (Exodus 14:24; 1 Samuel 11:11) These would last respectively from sunset to 10 P.M.; from 10 P.M. to 2 A.M.; and from 2 A.M. to sunrise. After the establishment of the Roman supremacy, the number of watches was increased to four, which were described either according to their numerical order, as in the case of the “fourth watch,” (Matthew 14:25) or by the terms “even,” “midnight,” “cock-crowing” and “morning.” (Mark 13:35) These terminated respectively at 9 P.M., midnight, 3 A.M. and 6 A.M."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Lamentations 2:19",
+        "original": "Lamentations 2:19"
+      },
+      {
+        "reference": "Judges 7:19",
+        "original": "Judges 7:19"
+      },
+      {
+        "reference": "Exodus 14:24",
+        "original": "Exodus 14:24"
+      },
+      {
+        "reference": "1 Samuel 11:11",
+        "original": "1 Samuel 11:11"
+      },
+      {
+        "reference": "Matthew 14:25",
+        "original": "Matthew 14:25"
+      },
+      {
+        "reference": "Mark 13:35",
+        "original": "Mark 13:35"
+      }
+    ]
+  },
+  "WATER OF JEALOUSY": {
+    "name": "Water of jealousy",
+    "slug": "water-of-jealousy",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Numbers 5:11-31) The ritual prescribed consisted in the husband’s bringing before the priest the woman suspected of infidelity, and the essential part of it is unquestionably the oath to which the “water” was subsidiary, symbolical and ministerial. With her he was to bring an offering of barley meal. As she stood holding the offering, so the priest stood holding till earthen vessel of holy water mixed with the dust from the floor of the sanctuary, and, declaring her free from all evil consequences if innocent, solemnly devoted her in the name of Jehovah to be “a curse and an oath among her people” if guilty. He then “wrote these curses in a book and blotted them out with the bitter water.” and having thrown the handful of meal on the altar, “caused the woman to drink” the potion thus drugged, she moreover answering to the words of his imprecation, “Amen, amen.” Josephus adds, if the suspicion was unfounded, she obtained conception; if true, she died infamously, (This was entirely different from most trials of this kind, for the bitter water the woman must drink was harmless in itself, and only by a direct act of God could it injure her it guilty while in most heathen trials the suspected party must take poison, or suffer that which only a miracle would save them from if they were innocent.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 5:11-31",
+        "original": "Num. 5:11-31"
+      }
+    ]
+  },
+  "WATER OF SEPARATION": {
+    "name": "Water of separation",
+    "slug": "water-of-separation",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Purification]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 19",
+        "original": "Num. 19"
+      }
+    ]
+  },
+  "WAVE OFFERING": {
+    "name": "Wave Offering",
+    "slug": "wave-offering",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "This rite, together with that of “heaving” or “raising” the offering was an inseparable accompaniment of peace offerings. In such the right shoulder, considered the choicest part of the victim, was to be (“heaved,” and viewed as holy to the Lord, only eaten therefore by the priest: the breast was to be “waved,” and eaten by the worshipper. The scriptural notices of these rites are to be found in (Exodus 29:24,28; Leviticus 7:30,34; 8:27; 9:21; 10:14,15; 23:10,15,20; Numbers 6:20; 18:11,18,26-29) etc. In conjecturing the meaning of this rite, regard must be had that it was the accompaniment of peace offerings, which were witnesses to a ratified covenant—an established communion between God and man."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:24",
+        "original": "Exodus 29:24"
+      },
+      {
+        "reference": "Exodus 29:28",
+        "original": "Exodus 29:28"
+      },
+      {
+        "reference": "Leviticus 7:30",
+        "original": "Leviticus 7:30"
+      },
+      {
+        "reference": "Leviticus 7:34",
+        "original": "Leviticus 7:34"
+      },
+      {
+        "reference": "Leviticus 8:27",
+        "original": "Leviticus 8:27"
+      },
+      {
+        "reference": "Leviticus 9:21",
+        "original": "Leviticus 9:21"
+      },
+      {
+        "reference": "Leviticus 10:14",
+        "original": "Leviticus 10:14"
+      },
+      {
+        "reference": "Leviticus 10:15",
+        "original": "Leviticus 10:15"
+      },
+      {
+        "reference": "Leviticus 23:10",
+        "original": "Leviticus 23:10"
+      },
+      {
+        "reference": "Leviticus 23:15",
+        "original": "Leviticus 23:15"
+      },
+      {
+        "reference": "Leviticus 23:20",
+        "original": "Leviticus 23:20"
+      },
+      {
+        "reference": "Numbers 6:20",
+        "original": "Numbers 6:20"
+      },
+      {
+        "reference": "Numbers 18:11",
+        "original": "Numbers 18:11"
+      },
+      {
+        "reference": "Numbers 18:18",
+        "original": "Numbers 18:18"
+      },
+      {
+        "reference": "Numbers 18:26-29",
+        "original": "Numbers 18:26-29"
+      }
+    ]
+  },
+  "WEAPONS": {
+    "name": "Weapons",
+    "slug": "weapons",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Arms, Armor]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WEASEL": {
+    "name": "Weasel",
+    "slug": "weasel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(choled) occurs only in (Leviticus 11:29) in the list of unclean animals; but the Hebrew word ought more probably to be translated “mole.” Moles are common in Palestine."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 11:29",
+        "original": "Lev. 11:29"
+      }
+    ]
+  },
+  "WEAVING": {
+    "name": "Weaving",
+    "slug": "weaving",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The art of weaving appears to be coeval with the first dawning of civilization. We find it practiced with great skill by the Egyptians at a very early period; The vestures of fine linen” such as Joseph wore, (Genesis 41:42) were the product of Egyptian looms. The Israelites were probably acquainted with the process before their sojourn in Egypt; but it was undoubtedly there that they attained the proficiency which enabled them to execute the hangings of the tabernacle, (Exodus 35:35; 1 Chronicles 4:21) and other artistic textures. The Egyptian loom was usually upright, and the weaver stood at his work. The cloth was fixed sometimes at the top, sometimes at the bottom. The modern Arabs use a procumbent loom, raised above the ground by short legs. The textures produced by the Jewish weavers were very various. The coarser kinds, such tent-cloth, sack-cloth and the “hairy garments” of the poor, were made goat’s or camel’s hair. (Exodus 26:7; Matthew 3:4) Wool was extensively used for ordinary clothing, (Leviticus 13:47; Proverbs 27:26; 31:13; Ezekiel 27:18) while for finer work flax was used, varying in quality, and producing the different textures described in the Bible as “linen” and “fine linen.” The mixture of wool and flax in cloth intended for a garment was interdicted. (Leviticus 19:19; 22:11)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 41:42",
+        "original": "Genesis 41:42"
+      },
+      {
+        "reference": "Exodus 35:35",
+        "original": "Exodus 35:35"
+      },
+      {
+        "reference": "1 Chronicles 4:21",
+        "original": "1 Chronicles 4:21"
+      },
+      {
+        "reference": "Exodus 26:7",
+        "original": "Exodus 26:7"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matthew 3:4"
+      },
+      {
+        "reference": "Leviticus 13:47",
+        "original": "Leviticus 13:47"
+      },
+      {
+        "reference": "Proverbs 27:26",
+        "original": "Proverbs 27:26"
+      },
+      {
+        "reference": "Proverbs 31:13",
+        "original": "Proverbs 31:13"
+      },
+      {
+        "reference": "Ezekiel 27:18",
+        "original": "Ezekiel 27:18"
+      },
+      {
+        "reference": "Leviticus 19:19",
+        "original": "Leviticus 19:19"
+      },
+      {
+        "reference": "Leviticus 22:11",
+        "original": "Leviticus 22:11"
+      }
+    ]
+  },
+  "WEDDING": {
+    "name": "Wedding",
+    "slug": "wedding",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Marriage]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WEEK": {
+    "name": "Week",
+    "slug": "week",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "There can be no doubt about the great antiquity of measuring time by a period of seven days. (Genesis 8:10; 29:27) The origin of this division of time is a matter which has given birth to much speculation. Its antiquity is so great its observance so widespread, and it occupies so important a place in sacred things, that it must probably be thrown back as far as the creation of man. The week and the Sabbath are thus as old as man himself. A purely theological ground is thus established for the week. They who embrace this view support it by a reference to the six days’ creation and the divine rest on the seventh. 1st. That the week rests on a theological ground may be cheerfully acknowledged by both sides; but nothing is determined by such acknowledgment as to the original cause of adopting this division of time. Whether the week gave its sacredness to the number seven, or whether the ascendancy of that number helped to determine the dimensions of the week, it is impossible to say. 2d. The weekly division was adopted by all the Shemitic races, and, in the later period of their history at least, by the Egyptians. On the other hand, there is no reason for thinking the week known till a late period to either Greeks or Romans. So far from the week being a division of time without ground in nature, there was much to recommend its adoption. And further, the week is a most natural and nearly an exact quadri-partition of the month, so that the quarters of the moon may easily have suggested it. It is clear that if not in Paul’s time, yet very soon after, the whole Roman world had adopted the hebdomadal division. Weeks, Feast of. [Pentecost]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:2",
+        "original": "Gen. 2:2"
+      },
+      {
+        "reference": "Genesis 2:3",
+        "original": "Gen. 2:3"
+      },
+      {
+        "reference": "Exodus 34:22",
+        "original": "Ex. 34:22"
+      },
+      {
+        "reference": "Leviticus 12:5",
+        "original": "Lev. 12:5"
+      },
+      {
+        "reference": "Numbers 28:26",
+        "original": "Num. 28:26"
+      },
+      {
+        "reference": "Deuteronomy 16:16",
+        "original": "Deut. 16:16"
+      },
+      {
+        "reference": "2 Chronicles 8:13",
+        "original": "2 Chr. 8:13"
+      },
+      {
+        "reference": "Jeremiah 5:24",
+        "original": "Jer. 5:24"
+      },
+      {
+        "reference": "Daniel 9:24-27",
+        "original": "Dan. 9:24-27"
+      },
+      {
+        "reference": "Daniel 10:2",
+        "original": "Dan 10:2"
+      },
+      {
+        "reference": "Daniel 10:3",
+        "original": "Dan 10:3"
+      },
+      {
+        "reference": "Genesis 8:10",
+        "original": "Genesis 8:10"
+      },
+      {
+        "reference": "Genesis 29:27",
+        "original": "Genesis 29:27"
+      }
+    ]
+  },
+  "WEIGHTS AND MEASURES": {
+    "name": "Weights And Measures",
+    "slug": "weights-and-measures",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "A. WEIGHTS.—The general principle of the present inquiry is to give the evidence of the monuments the preference on all doubtful points. All ancient Greek systems of weight were derived, either directly or indirectly, from an eastern source. The older systems of ancient Greece and Persia were the AEginetan, the Attic, the Babylonian and the Euboic."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 6:15",
+        "original": "Genesis 6:15"
+      },
+      {
+        "reference": "Genesis 6:16",
+        "original": "Genesis 6:16"
+      },
+      {
+        "reference": "Genesis 7:20",
+        "original": "Genesis 7:20"
+      },
+      {
+        "reference": "Jeremiah 52:21",
+        "original": "Jeremiah 52:21"
+      },
+      {
+        "reference": "Exodus 25:25",
+        "original": "Exodus 25:25"
+      },
+      {
+        "reference": "1 Kings 7:26",
+        "original": "1 Kings 7:26"
+      },
+      {
+        "reference": "2 Chronicles 4:5",
+        "original": "2 Chronicles 4:5"
+      },
+      {
+        "reference": "Psalms 39:5",
+        "original": "Psalms 39:5"
+      },
+      {
+        "reference": "Exodus 28:16",
+        "original": "Exodus 28:16"
+      },
+      {
+        "reference": "1 Samuel 17:4",
+        "original": "1 Samuel 17:4"
+      },
+      {
+        "reference": "Ezekiel 43:13",
+        "original": "Ezekiel 43:13"
+      },
+      {
+        "reference": "Isaiah 40:12",
+        "original": "Isaiah 40:12"
+      },
+      {
+        "reference": "Ezekiel 40:5-8",
+        "original": "Ezekiel 40:5-8"
+      },
+      {
+        "reference": "Ezekiel 41:8",
+        "original": "Ezekiel 41:8"
+      },
+      {
+        "reference": "Ezekiel 42:16-29",
+        "original": "Ezekiel 42:16-29"
+      },
+      {
+        "reference": "2 Samuel 6:13",
+        "original": "2 Samuel 6:13"
+      },
+      {
+        "reference": "Matthew 5:41",
+        "original": "Matthew 5:41"
+      },
+      {
+        "reference": "Genesis 30:36",
+        "original": "Genesis 30:36"
+      },
+      {
+        "reference": "Genesis 31:23",
+        "original": "Genesis 31:23"
+      },
+      {
+        "reference": "Exodus 3:18",
+        "original": "Exodus 3:18"
+      },
+      {
+        "reference": "Exodus 5:3",
+        "original": "Exodus 5:3"
+      },
+      {
+        "reference": "Numbers 10:33",
+        "original": "Numbers 10:33"
+      },
+      {
+        "reference": "Numbers 11:31",
+        "original": "Numbers 11:31"
+      },
+      {
+        "reference": "Numbers 33:8",
+        "original": "Numbers 33:8"
+      },
+      {
+        "reference": "Numbers 1:2",
+        "original": "Numbers 1:2"
+      },
+      {
+        "reference": "1 Kings 19:4",
+        "original": "1 Kings 19:4"
+      },
+      {
+        "reference": "2 Kings 3:9",
+        "original": "2 Kings 3:9"
+      },
+      {
+        "reference": "Jonah 3:3",
+        "original": "Jonah 3:3"
+      },
+      {
+        "reference": "1Macc 5:24",
+        "original": "1 Macc. 5:24"
+      },
+      {
+        "reference": "1Macc 7:45",
+        "original": "1 Macc. 7:45"
+      },
+      {
+        "reference": "Tob 6:1",
+        "original": "Tobit 6:1"
+      },
+      {
+        "reference": "Luke 2:44",
+        "original": "Luke 2:44"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Exodus 16:29",
+        "original": "Exodus 16:29"
+      },
+      {
+        "reference": "Numbers 35:5",
+        "original": "Numbers 35:5"
+      },
+      {
+        "reference": "2Macc 11:5",
+        "original": "2 Macc. 11:5"
+      },
+      {
+        "reference": "2Macc 12:9",
+        "original": "2 Macc. 12:9"
+      },
+      {
+        "reference": "2Macc 12:17",
+        "original": "2 Macc. 12:17"
+      },
+      {
+        "reference": "2Macc 12:29",
+        "original": "2 Macc. 12:29"
+      },
+      {
+        "reference": "Luke 24:13",
+        "original": "Luke 24:13"
+      },
+      {
+        "reference": "John 6:19",
+        "original": "John 6:19"
+      },
+      {
+        "reference": "John 11:18",
+        "original": "John 11:18"
+      },
+      {
+        "reference": "Revelation 14:20",
+        "original": "Revelation 14:20"
+      },
+      {
+        "reference": "Revelation 21:18",
+        "original": "Revelation 21:18"
+      },
+      {
+        "reference": "Numbers 35:4",
+        "original": "Numbers 35:4"
+      },
+      {
+        "reference": "Ezekiel 40:27",
+        "original": "Ezekiel 40:27"
+      },
+      {
+        "reference": "Ezekiel 42:16-19",
+        "original": "Ezekiel 42:16-19"
+      },
+      {
+        "reference": "Revelation 21:16",
+        "original": "Revelation 21:16"
+      },
+      {
+        "reference": "Leviticus 14:10",
+        "original": "Leviticus 14:10"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Exodus 29:40"
+      },
+      {
+        "reference": "Exodus 30:24",
+        "original": "Exodus 30:24"
+      },
+      {
+        "reference": "Numbers 15:4",
+        "original": "Numbers 15:4"
+      },
+      {
+        "reference": "Numbers 15:7",
+        "original": "Numbers 15:7"
+      },
+      {
+        "reference": "Numbers 15:8",
+        "original": "Numbers 15:8"
+      },
+      {
+        "reference": "Ezekiel 4:11",
+        "original": "Ezekiel 4:11"
+      },
+      {
+        "reference": "1 Kings 7:38",
+        "original": "1 Kings 7:38"
+      },
+      {
+        "reference": "2 Chronicles 2:10",
+        "original": "2 Chronicles 2:10"
+      },
+      {
+        "reference": "Ezra 7:22",
+        "original": "Ezra 7:22"
+      },
+      {
+        "reference": "Isaiah 5:10",
+        "original": "Isaiah 5:10"
+      },
+      {
+        "reference": "2 Kings 6:25",
+        "original": "2 Kings 6:25"
+      },
+      {
+        "reference": "Exodus 16:16-36",
+        "original": "Exodus 16:16-36"
+      },
+      {
+        "reference": "Genesis 18:6",
+        "original": "Genesis 18:6"
+      },
+      {
+        "reference": "1 Samuel 25:18",
+        "original": "1 Samuel 25:18"
+      },
+      {
+        "reference": "2 Kings 7:1",
+        "original": "2 Kings 7:1"
+      },
+      {
+        "reference": "2 Kings 7:16",
+        "original": "2 Kings 7:16"
+      },
+      {
+        "reference": "Matthew 13:33",
+        "original": "Matthew 13:33"
+      },
+      {
+        "reference": "Luke 13:21",
+        "original": "Luke 13:21"
+      },
+      {
+        "reference": "Exodus 16:36",
+        "original": "Exodus 16:36"
+      },
+      {
+        "reference": "Leviticus 5:11",
+        "original": "Leviticus 5:11"
+      },
+      {
+        "reference": "Leviticus 6:20",
+        "original": "Leviticus 6:20"
+      },
+      {
+        "reference": "Numbers 5:15",
+        "original": "Numbers 5:15"
+      },
+      {
+        "reference": "Numbers 28:5",
+        "original": "Numbers 28:5"
+      },
+      {
+        "reference": "Judges 6:19",
+        "original": "Judges 6:19"
+      },
+      {
+        "reference": "Ruth 2:17",
+        "original": "Ruth 2:17"
+      },
+      {
+        "reference": "1 Samuel 1:24",
+        "original": "1 Samuel 1:24"
+      },
+      {
+        "reference": "1 Samuel 17:17",
+        "original": "1 Samuel 17:17"
+      },
+      {
+        "reference": "Ezekiel 45:11",
+        "original": "Ezekiel 45:11"
+      },
+      {
+        "reference": "Ezekiel 45:13",
+        "original": "Ezekiel 45:13"
+      },
+      {
+        "reference": "Ezekiel 46:5",
+        "original": "Ezekiel 46:5"
+      },
+      {
+        "reference": "Ezekiel 46:7",
+        "original": "Ezekiel 46:7"
+      },
+      {
+        "reference": "Ezekiel 46:11",
+        "original": "Ezekiel 46:11"
+      },
+      {
+        "reference": "Ezekiel 46:14",
+        "original": "Ezekiel 46:14"
+      },
+      {
+        "reference": "Hosea 3:2",
+        "original": "Hosea 3:2"
+      },
+      {
+        "reference": "Leviticus 27:16",
+        "original": "Leviticus 27:16"
+      },
+      {
+        "reference": "Numbers 11:32",
+        "original": "Numbers 11:32"
+      },
+      {
+        "reference": "1 Kings 4:22",
+        "original": "1 Kings 4:22"
+      },
+      {
+        "reference": "1 Kings 5:11",
+        "original": "1 Kings 5:11"
+      },
+      {
+        "reference": "2 Chronicles 27:5",
+        "original": "2 Chronicles 27:5"
+      },
+      {
+        "reference": "Ezekiel 45:14",
+        "original": "Ezekiel 45:14"
+      },
+      {
+        "reference": "Luke 16:7",
+        "original": "Luke 16:7"
+      },
+      {
+        "reference": "John 2:6",
+        "original": "John 2:6"
+      },
+      {
+        "reference": "Revelation 6:6",
+        "original": "Revelation 6:6"
+      },
+      {
+        "reference": "Mark 7:4",
+        "original": "Mark 7:4"
+      },
+      {
+        "reference": "Mark 7:8",
+        "original": "Mark 7:8"
+      },
+      {
+        "reference": "Matthew 5:15",
+        "original": "Matthew 5:15"
+      },
+      {
+        "reference": "Mark 4:21",
+        "original": "Mark 4:21"
+      },
+      {
+        "reference": "Luke 11:33",
+        "original": "Luke 11:33"
+      }
+    ]
+  },
+  "WELL": {
+    "name": "Well",
+    "slug": "well",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Wells in Palestine are usually excavated from the solid limestone rock, sometimes with steps to descend into them. (Genesis 24:16) The brims are furnished with a curb or low wall of stone, bearing marks of high antiquity in the furrows worn by the ropes used in drawing water. It was on a curb of this sort that our Lord sat when he conversed with the woman of Samaria, (John 4:6) and it was this, the usual stone cover, which the woman placed on the mouth of the well at Bahurim, (2 Samuel 17:19) where the Authorized Version weakens the sense by omitting the article. The usual methods for raising water are the following:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 21:19",
+        "original": "Gen. 21:19"
+      },
+      {
+        "reference": "Genesis 21:25",
+        "original": "Gen. 21:25"
+      },
+      {
+        "reference": "Genesis 21:30",
+        "original": "Gen. 21:30"
+      },
+      {
+        "reference": "Genesis 21:31",
+        "original": "Gen. 21:31"
+      },
+      {
+        "reference": "Genesis 24:16",
+        "original": "Genesis 24:16"
+      },
+      {
+        "reference": "John 4:6",
+        "original": "John 4:6"
+      },
+      {
+        "reference": "2 Samuel 17:19",
+        "original": "2 Samuel 17:19"
+      },
+      {
+        "reference": "Genesis 24:14-20",
+        "original": "Genesis 24:14-20"
+      },
+      {
+        "reference": "John 4:11",
+        "original": "John 4:11"
+      }
+    ]
+  },
+  "WHALE": {
+    "name": "Whale",
+    "slug": "whale",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "As to the signification of the Hebrew terms tan and tannin, variously rendered in the Authorized Version by “dragon,” “whale,” “serpent,” “sea-monster” see Dragon. It remains for us in this article to consider the transaction recorded in the book of Jonah, of that prophet having been swallowed up by some great fish” which in (Matthew 12:40) is called cetos (ketos), rendered in our version by “whale.” In the first glace, it is necessary to observe that the Greek word cetos, used by St. Matthew is not restricted in its meaning to “a whale,” or any Cetacean ; like the Latin cete or cetus, it may denote any sea-monster, either “a whale,” Or “a shark,” or “a seal,” or “a tunny of enormous size.” Although two or three species of whale are found in the Mediterranean Sea, yet the “great fish” that swallowed the prophet cannot properly be identified with any Cetacean, for, although the sperm whale has a gullet sufficiently large to admit the body of a man, yet, it can hardly be the fish intended, as the natural food of Cetaceans consists of small animals, such as medusae and crustacea. The only fish, then, capable of swallowing a man would be a large specimen of the white shark (Carcharias vulgaris), that dreaded enemy of sailors, and the most voracious of the family of Squalidae . This shark, which sometimes attains the length of thirty feet, is quite able to swallow a man whole. The whole body of a man in armor has been found in the stomach of a white shark: and Captain King, in his survey of Australia, says he had caught one which could have swallowed a man with the greatest ease. Blumenbach mentions that a whole horse has’ been found in a shark, and Captain Basil Hall reports the taking of one in which, besides other things, he found the whole skin of a buffalo which a short time before had been thrown overboard from his ship (p. 27). The white shark is not uncommon in the Mediterranean."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 7:12",
+        "original": "Job 7:12"
+      },
+      {
+        "reference": "Deuteronomy 32:33",
+        "original": "Deut. 32:33"
+      },
+      {
+        "reference": "Psalms 91:13",
+        "original": "Ps. 91:13"
+      },
+      {
+        "reference": "Jeremiah 51:34",
+        "original": "Jer. 51:34"
+      },
+      {
+        "reference": "Psalms 74:13",
+        "original": "Ps. 74:13"
+      },
+      {
+        "reference": "Isaiah 27:1",
+        "original": "Isa. 27:1"
+      },
+      {
+        "reference": "Exodus 7:9",
+        "original": "Ex. 7:9"
+      },
+      {
+        "reference": "Genesis 1:21",
+        "original": "Gen. 1:21"
+      },
+      {
+        "reference": "Lamentations 4:3",
+        "original": "Lam. 4:3"
+      },
+      {
+        "reference": "Matthew 12:40",
+        "original": "Matt. 12:40"
+      }
+    ]
+  },
+  "WHEAT": {
+    "name": "Wheat",
+    "slug": "wheat",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "the well-known valuable cereal, cultivated from the earliest times, is first mentioned in ((Genesis 30:14) in the account of Jacob’s sojourn with Laban in Mesopotamia. Egypt in ancient times was celebrated for the growth of its wheat; the best quality was all bearded; and the same varieties existed in ancient as in modern times, among which may be mentioned the seven-eared quality described in Pharaoh’s dream. (Genesis 41:22) Babylonia was also noted for the excellence of its wheat and other cereals. Syria and Palestine produced wheat of fine quality and in large quantities. (Psalms 81:16; 147:14) etc. There appear to be two or three kinds of wheat at present grown in Palestine, the Triticum vulgare, the T. spelta, and another variety of bearded wheat which appears to be the same as the Egyptian kind, the T. compositum . In the parable of the sower our Lord alludes to grains of wheat which in good ground produce a hundred-fold. (Matthew 13:8) The common Triticum vulgare will sometimes produce one hundred grains in the ear. Wheat is reaped to ward the end of April, in May, and in June, according to the differences of soil and position; it was sown either broadcast and then ploughed in or trampled in by cattle, (Isaiah 32:20) or in rows, if we rightly understand (Isaiah 28:25) which seems to imply that the seeds were planted apart in order to insure larger and fuller ears. The wheat was put into the ground in the winter, and some time after the barley; in the Egyptian plague of hail, consequently, the barley suffered, but the wheat had not appeared, and so escaped injury."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 41:5",
+        "original": "Gen. 41:5"
+      },
+      {
+        "reference": "Deuteronomy 32:14",
+        "original": "Deut. 32:14"
+      },
+      {
+        "reference": "Psalms 81:16",
+        "original": "Ps. 81:16"
+      },
+      {
+        "reference": "Psalms 147:14",
+        "original": "Ps 147:14"
+      },
+      {
+        "reference": "1 Kings 5:11",
+        "original": "1 Kings 5:11"
+      },
+      {
+        "reference": "Ezekiel 27:17",
+        "original": "Ezek. 27:17"
+      },
+      {
+        "reference": "Acts 12:20",
+        "original": "Acts 12:20"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      },
+      {
+        "reference": "1 Samuel 17:17",
+        "original": "1 Sam. 17:17"
+      },
+      {
+        "reference": "2 Samuel 17:28",
+        "original": "2 Sam. 17:28"
+      },
+      {
+        "reference": "Deuteronomy 23:25",
+        "original": "Deut. 23:25"
+      },
+      {
+        "reference": "Matthew 12:1",
+        "original": "Matt. 12:1"
+      },
+      {
+        "reference": "Mark 2:23",
+        "original": "Mark 2:23"
+      },
+      {
+        "reference": "Luke 6:1",
+        "original": "Luke 6:1"
+      },
+      {
+        "reference": "Leviticus 23:14",
+        "original": "Lev. 23:14"
+      },
+      {
+        "reference": "Genesis 30:14",
+        "original": "Genesis 30:14"
+      },
+      {
+        "reference": "Genesis 41:22",
+        "original": "Genesis 41:22"
+      },
+      {
+        "reference": "Matthew 13:8",
+        "original": "Matthew 13:8"
+      },
+      {
+        "reference": "Isaiah 32:20",
+        "original": "Isaiah 32:20"
+      },
+      {
+        "reference": "Isaiah 28:25",
+        "original": "Isaiah 28:25"
+      }
+    ]
+  },
+  "WIDOW": {
+    "name": "Widow",
+    "slug": "widow",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Under the Mosaic dispensation no legal provision was made for the maintenance of widows. They were left dependent partly on the affection of relations, more especially of the eldest son, whose birthright, or extra share of the property, imposed such a duty upon him, and partly on the privileges accorded to other distressed classes, such as a participation in the triennial third tithe, (14:29; 26:12) in leasing, (24:19-21) and in religious feasts. (16:11,14) With regard to the remarriage of widows, the only restriction imposed by the Mosaic law had reference to the contingency of one being left childless in which case the brother of the deceased husband had a right to marry the widow. (25:5,6; Matthew 22:23-30) In the apostolic Church the widows were sustained at the public expense, the relief being daily administered in kind, under the superintendence of officers appointed for this special purpose, (Acts 6:1-6) Particular directions are given by St.Paul as to the class of persons entitled to such public maintenance. (1 Timothy 5:3-16) Out of the body of such widows a certain number were to be enrolled, the qualifications for such enrollment being that they were not under sixty years of age; that they had been “the wife of one man,” probably meaning but once married ; and that they had led useful and charitable lives. vs. (1 Timothy 5:9,10) We are not disposed to identify the widows of the Bible either with the deaconesses or with the presbutides Of the early Church. The order of widows existed as a separate institution, contemporaneously with these offices, apparently for the same eleemosynary purpose for which it was originally instituted."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 22:23-30",
+        "original": "Matthew 22:23-30"
+      },
+      {
+        "reference": "Acts 6:1-6",
+        "original": "Acts 6:1-6"
+      },
+      {
+        "reference": "1 Timothy 5:3-16",
+        "original": "1 Timothy 5:3-16"
+      },
+      {
+        "reference": "1 Timothy 5:9",
+        "original": "1 Timothy 5:9"
+      },
+      {
+        "reference": "1 Timothy 5:10",
+        "original": "1 Timothy 5:10"
+      }
+    ]
+  },
+  "WIFE": {
+    "name": "Wife",
+    "slug": "wife",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Marriage]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:24",
+        "original": "Gen. 2:24"
+      },
+      {
+        "reference": "Matthew 19:4-6",
+        "original": "Matt. 19:4-6"
+      },
+      {
+        "reference": "Genesis 4:19",
+        "original": "Gen. 4:19"
+      },
+      {
+        "reference": "Exodus 21:10",
+        "original": "Ex. 21:10"
+      },
+      {
+        "reference": "Proverbs 31:10-31",
+        "original": "Prov. 31:10-31"
+      },
+      {
+        "reference": "1 Timothy 5:14",
+        "original": "1 Tim. 5:14"
+      },
+      {
+        "reference": "Deuteronomy 22:13-21",
+        "original": "Deut. 22:13-21"
+      },
+      {
+        "reference": "Matthew 19:3-9",
+        "original": "Matt. 19:3-9"
+      },
+      {
+        "reference": "1 Corinthians 7:2-5",
+        "original": "1 Cor. 7:2-5"
+      },
+      {
+        "reference": "Ephesians 5:22-33",
+        "original": "Eph. 5:22-33"
+      },
+      {
+        "reference": "Colossians 3:18",
+        "original": "Col. 3:18"
+      },
+      {
+        "reference": "Colossians 3:19",
+        "original": "Col. 3:19"
+      },
+      {
+        "reference": "1 Peter 3:1-7",
+        "original": "1 Pet. 3:1-7"
+      }
+    ]
+  },
+  "WILDERNESS OF THE WANDERING": {
+    "name": "Wilderness Of The Wandering",
+    "slug": "wilderness-of-the-wandering",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(The region in which the Israelites spent nearly 38 years of their existence after they had left Egypt, and spent a year before Mount Sinai. They went as far as Kadesh, on the southernmost border of Palestine, from which place spies were sent up into the promised land. These returned with such a report of the inhabitants and their walled cities that the people were discouraged, and began to murmur and rebel. For their sin they were compelled to remain 38 years longer in the wilderness, because it showed that they were not yet prepared and trained to conquer and to hold their promised possessions. The wilderness of the wandering was the great central limestone plateau of the sinaitic peninsula. It was bordered on the east by the valley of the Arabah, which runs from the Dead Sea to the head of the eastern branch of the Red Sea. On the south and south west were the granite mountains of Sinai and on the north the Mediterranean Sea and the mountainous region south of Judea. It is called the Desert of Paran, and Badiet et-Tih, which means “Desert of the Wandering.” The children of Israel were not probably marching as a nation from place to place in this wilder new during these 38 years, but they probably had a kind of headquarters at Kadesh, and were “compelled to linger on as do the Bedouin Arabs of the present day, in a half-savage, homeless state, moving about from place to place, and pitching their tents wherever they could find pasture for their flocks and herds.”—E.H. Palmer. Toward the close of the forty years from Egypt they again assembled at Kadesh, and, once more under the leadership of the Shechinah, they marched down the Arabah on their way to the promised land.—ED.)"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WILLOWS": {
+    "name": "Willows",
+    "slug": "willows",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "are mentioned in (Leviticus 23:40; Job 40:22; Psalms 137:2; Isaiah 44:4) With respect to the tree upon which the captive Israelites hung their harps, there can be no doubt that the weeping willow Salix babylonica, is intended. This tree grows abundantly on the banks of the Euphrates, in other parts of Asia as in Palestine. The Hebrew word translated willows is generic, and includes several species of the large family of Salices, which is well represented in Palestine and the Bible lands, such as the Salix alba, S. viminalis (osier), S. aegyptiaca ."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 23:40",
+        "original": "Lev. 23:40"
+      },
+      {
+        "reference": "Job 40:22",
+        "original": "Job 40:22"
+      },
+      {
+        "reference": "Isaiah 15:7",
+        "original": "Isa. 15:7"
+      },
+      {
+        "reference": "Isaiah 44:3",
+        "original": "Isa 44:3"
+      },
+      {
+        "reference": "Isaiah 44:4",
+        "original": "Isa 44:4"
+      },
+      {
+        "reference": "Psalms 137:1",
+        "original": "Ps. 137:1"
+      },
+      {
+        "reference": "Psalms 137:2",
+        "original": "Ps 137:2"
+      },
+      {
+        "reference": "Psalms 137",
+        "original": "Ps. 137"
+      },
+      {
+        "reference": "Ezekiel 17:5",
+        "original": "Ezek. 17:5"
+      }
+    ]
+  },
+  "WILLOWS, THE BROOK OF THE": {
+    "name": "Willows, The Brook Of The",
+    "slug": "willows-the-brook-of-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a wady mentioned by Isaiah, (Isaiah 15:7) in his dirge over Moab. It is situated on the southern boundary of Moab, and is now called Wady el-Aksa."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 15:7",
+        "original": "Isaiah 15:7"
+      }
+    ]
+  },
+  "WILLS": {
+    "name": "Wills",
+    "slug": "wills",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Under a system of close inheritance like that of the Jews, the scope forbid bequest in respect of land was limited by the right of redemption and general re-entry in the jubilee year; but the law does not forbid bequests by will of such limited interest in land as was consistent with those rights. The case of houses in walled towns was different, and there can be no doubt that they must, in fact, have frequently been bequeathed by will, (Leviticus 25:30) Two instances are recorded in the Old Testament under the law of the testamentary disposition, (1) effected in the case of Ahithophel, (2 Samuel 17:23) (2) recommended in the case of Hezekiah. (2 Kings 20:1; Isaiah 38:1) [Heir]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:30",
+        "original": "Leviticus 25:30"
+      },
+      {
+        "reference": "2 Samuel 17:23",
+        "original": "2 Samuel 17:23"
+      },
+      {
+        "reference": "2 Kings 20:1",
+        "original": "2 Kings 20:1"
+      },
+      {
+        "reference": "Isaiah 38:1",
+        "original": "Isaiah 38:1"
+      }
+    ]
+  },
+  "WIMPLE": {
+    "name": "Wimple",
+    "slug": "wimple",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "an old English word for hood or veil, used in the Authorized Version of (Isaiah 3:22) The same Hebrew word is translated “veil” in (Ruth 3:15) but it signifies rather a kind of shawl of mantle."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      }
+    ]
+  },
+  "WINDOW": {
+    "name": "Window",
+    "slug": "window",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The window of an Oriental house consists generally of an aperture closed in with lattice-work. (Judges 5:28; Proverbs 7:6) Authorized Version “casement;” (Ecclesiastes 12:3) Authorized Version “window;” (Song of Solomon 2:9; Hosea 13:3) Authorized Version “chimney.” Glass has been introduced into Egypt in modern times as a protection against the cold of winter, but lattice-work is still the usual, and with the poor the only, contrivance for closing the window. The windows generally look into the inner court of the house, but in every house one or more look into the street. In Egypt these outer windows generally project over the doorway. [House]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 1:2",
+        "original": "2 Kings 1:2"
+      },
+      {
+        "reference": "Acts 20:9",
+        "original": "Acts 20:9"
+      },
+      {
+        "reference": "Joshua 2:15",
+        "original": "Josh. 2:15"
+      },
+      {
+        "reference": "2 Corinthians 11:33",
+        "original": "2 Cor. 11:33"
+      },
+      {
+        "reference": "Genesis 7:11",
+        "original": "Gen. 7:11"
+      },
+      {
+        "reference": "Malachi 3:10",
+        "original": "Mal. 3:10"
+      },
+      {
+        "reference": "Isaiah 54:12",
+        "original": "Isa. 54:12"
+      },
+      {
+        "reference": "Judges 5:28",
+        "original": "Judges 5:28"
+      },
+      {
+        "reference": "Proverbs 7:6",
+        "original": "Proverbs 7:6"
+      },
+      {
+        "reference": "Ecclesiastes 12:3",
+        "original": "Ecclesiastes 12:3"
+      },
+      {
+        "reference": "Hosea 13:3",
+        "original": "Hosea 13:3"
+      }
+    ]
+  },
+  "WINDS": {
+    "name": "Winds",
+    "slug": "winds",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "That the Hebrews recognized the existence of four prevailing winds as issuing, broadly speaking, from the four cardinal points, north, south, east and west, may be inferred from their custom of using the expression “four winds” as equivalent to the “four quarters” of the hemisphere. (Ezekiel 37:9; Daniel 8:8; Zechariah 2:6; Matthew 24:31) The north wind, or, as it was usually called “the north,” was naturally the coldest of the four, Ecclus. 43:20 and its presence is hence invoked as favorable to vegetation in (Song of Solomon 4:16) It is described in (Proverbs 25:23) as bringing rain; in this case we must understand the northwest wind. The northwest wind prevails from the autumnal equinox to the beginning of November, and the north wind from June to the equinox. The east wind crosses the sandy wastes of Arabia Deserts before reaching Palestine and was hence termed “the wind of the wilderness.” (Job 1:19; Jeremiah 13:14) It blows with violence, and is hence supposed to be used generally for any violent wind. (Job 27:21; 38:24; Psalms 48:7; Isaiah 27:8; Ezekiel 27:26) In Palestine the east wind prevails from February to June. The south wind, which traverses the Arabian peninsula before reaching Palestine, must necessarily be extremely hot. (Job 37:17; Luke 12:55) The west and southwest winds reach Palestine loaded with moisture gathered from the Mediterranean, and are hence expressly termed by the Arabs “the fathers of the rain.” Westerly winds prevail in Palestine from November to February. In addition to the four regular winds, we have notice in the Bible of the local squalls, (Mark 4:37; Luke 8:23) to which the Sea of Gennesareth was liable. In the narrative of St. Paul’s voyage we meet with the Greek term Lips to describe the southwest wind; the Latin Carus or Caurus, the northwest wind (Acts 27:12) and Euroclydon, a wind of a very violent character coming from east-northeast. (Acts 27:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 49:36",
+        "original": "Jer. 49:36"
+      },
+      {
+        "reference": "Ezekiel 37:9",
+        "original": "Ezek. 37:9"
+      },
+      {
+        "reference": "Daniel 8:8",
+        "original": "Dan. 8:8"
+      },
+      {
+        "reference": "Zechariah 2:6",
+        "original": "Zech. 2:6"
+      },
+      {
+        "reference": "Ezekiel 17:10",
+        "original": "Ezek. 17:10"
+      },
+      {
+        "reference": "Ezekiel 19:12",
+        "original": "Ezek 19:12"
+      },
+      {
+        "reference": "Job 27:21",
+        "original": "Job 27:21"
+      },
+      {
+        "reference": "Isaiah 27:8",
+        "original": "Isa. 27:8"
+      },
+      {
+        "reference": "Luke 12:54",
+        "original": "Luke 12:54"
+      },
+      {
+        "reference": "Job 37:17",
+        "original": "Job 37:17"
+      },
+      {
+        "reference": "Luke 12:55",
+        "original": "Luke 12:55"
+      },
+      {
+        "reference": "Isaiah 21:1",
+        "original": "Isa. 21:1"
+      },
+      {
+        "reference": "Daniel 7:2",
+        "original": "Dan. 7:2"
+      },
+      {
+        "reference": "Psalms 18:10",
+        "original": "Ps. 18:10"
+      },
+      {
+        "reference": "Psalms 135:7",
+        "original": "Ps 135:7"
+      },
+      {
+        "reference": "Matthew 24:31",
+        "original": "Matthew 24:31"
+      },
+      {
+        "reference": "Sir 43:20",
+        "original": "Ecclus. 43:20"
+      },
+      {
+        "reference": "Proverbs 25:23",
+        "original": "Proverbs 25:23"
+      },
+      {
+        "reference": "Job 1:19",
+        "original": "Job 1:19"
+      },
+      {
+        "reference": "Jeremiah 13:14",
+        "original": "Jeremiah 13:14"
+      },
+      {
+        "reference": "Job 38:24",
+        "original": "Job 38:24"
+      },
+      {
+        "reference": "Psalms 48:7",
+        "original": "Psalms 48:7"
+      },
+      {
+        "reference": "Ezekiel 27:26",
+        "original": "Ezekiel 27:26"
+      },
+      {
+        "reference": "Mark 4:37",
+        "original": "Mark 4:37"
+      },
+      {
+        "reference": "Luke 8:23",
+        "original": "Luke 8:23"
+      },
+      {
+        "reference": "Acts 27:12",
+        "original": "Acts 27:12"
+      },
+      {
+        "reference": "Acts 27:14",
+        "original": "Acts 27:14"
+      }
+    ]
+  },
+  "WINE": {
+    "name": "Wine",
+    "slug": "wine",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The manufacture of wine is carried back in the Bible to the age of Noah, (Genesis 9:20,21) to whom the discovery of the process is apparently, though not explicitly, attributed. The natural history and culture of the vine are described under a separate head. [Vine] The only other plant whose fruit is noticed as having been converted into wine was the pomegranate. (Song of Solomon 8:2) In Palestine the vintage takes place in September, and is celebrated with great rejoicing. The ripe fruit was gathered in baskets, (Jeremiah 6:9) as represented in Egyptian paintings, and was carried to the wine-press. It was then placed in the upper one of the two vats or receptacles of which the winepress was formed, and was subjected to the process of “treading,” which has prevailed in all ages in Oriental and south European countries. (Nehemiah 13:15; Job 24:11; Isaiah 18:10; Jeremiah 25:30; 48:33; Amos 9:13; Revelation 19:15) A certain amount of juice exuded front the ripe fruit from its own pressure before treading commenced. This appears to have been kept separate from the rest of the juice, and to have formed the “sweet wine” noticed in (Acts 2:13) [See below] The “treading” was effected by one or more men, according to the size of the vat. They encouraged one another by shouts. (Isaiah 16:9,10; Jeremiah 25:30; 48:33) Their legs and garments were dyed red with the juice. (Genesis 40:11; Isaiah 63:2,3) The expressed juice escaped by an aperture into the lower vat, or was at once collected in vessels. A hand-press was occasionally used in Egypt, but we have no notice of such an instrument in the Bible. As to the subsequent treatment of the wine we have but little information. Sometimes it was preserved in its unfermented state and drunk as must, but more generally it was bottled off after fermentation and if it were designed to be kept for some time a certain amount of lees was added to give it body. (Isaiah 25:6) The wine consequently required to be “refined” or strained previous to being brought to table. (Isaiah 25:6) To wine, is attributed the “darkly-flashing eye,” (Genesis 40:12) Authorized Version “red,” the unbridled tongue, (Proverbs 20:1; Isaiah 28:7) the excitement of the spirit, (Proverbs 31:6; Isaiah 5:11; Zechariah 9:15; 10:7) the enchained affections of its votaries, (Hosea 4:11) the perverted judgment, (Proverbs 31:5; Isaiah 28:7) the indecent exposure, (Habakkuk 2:15,16) and the sickness resulting from the heat (chemah, Authorized Version “bottles”) of wine. (Hosea 7:5) The allusions to the effects of tirosh are confined to a single passage, but this a most decisive one, viz. (Hosea 4:11) “Whoredom and wine (yayin) and new wine (tirosh) take away the heart,” where tirosh appears as the climax of engrossing influences, in immediate connection with yayin . It has been disputed whether the Hebrew wine was fermented; but the impression produced on the mind by a general review of the above notices is that the Hebrew words indicating wine refer to fermented, intoxicating wine. The notices of fermentation are not very decisive. A certain amount of fermentation is implied in the distension of the leather bottles when new wine was placed in them, and which was liable to burst old bottles. It is very likely that new wine was preserved in the state of must by placing it in jars or bottles and then burying it in the earth. The mingling that we read of in conjunction with wine may have been designed either to increase or to diminish the strength of the wine, according as spices or water formed the ingredient that was added. The notices chiefly favor the former view; for mingled liquor was prepared for high festivals, (Proverbs 9:2,5) and occasions of excess. (Proverbs 23:30; Isaiah 5:22) At the same time strength was not the sole object sought; the wine “mingled with myrrh,” given to Jesus, was designed to deaden pain, (Mark 15:23) and the spiced pomegranate wine prepared by the bride, (Song of Solomon 8:2) may well have been of a mild character. In the New Testament the character of the “sweet wine,” noticed in (Acts 2:13) calls for some little remark. It could not be new wine in the proper sense of the term, inasmuch as about eight months must have elapsed between the vintage and the feast of Pentecost. The explanations of the ancient lexicographers rather lead us to infer that its luscious qualities were due, not to its being recently made, but to its being produced from the very purest juice of the grape. There can be little doubt that the wines of palestine varied in quality, and were named after the localities in which they were made. The only wines of which we have special notice belonged to Syria these were the wine of Helbon (Ezekiel 27:18) and the wine of Lebanon, famed for its aroma. (Hosea 14:7) With regard to the uses of wine in private life there is little to remark. It was produced on occasions of ordinary hospitality, (Genesis 14:18) and at festivals, such as marriages. (John 2:3) Under the Mosaic law"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 6:19",
+        "original": "2 Sam. 6:19"
+      },
+      {
+        "reference": "1 Chronicles 16:3",
+        "original": "1 Chr. 16:3"
+      },
+      {
+        "reference": "Song of Solomon 2:5",
+        "original": "Cant. 2:5"
+      },
+      {
+        "reference": "Hosea 3:1",
+        "original": "Hos. 3:1"
+      },
+      {
+        "reference": "Song of Solomon 8:2",
+        "original": "Cant. 8:2"
+      },
+      {
+        "reference": "Isaiah 49:26",
+        "original": "Isa. 49:26"
+      },
+      {
+        "reference": "Joel 1:5",
+        "original": "Joel 1:5"
+      },
+      {
+        "reference": "Joel 3:18",
+        "original": "Joel 3:18"
+      },
+      {
+        "reference": "Amos 9:13",
+        "original": "Amos 9:13"
+      },
+      {
+        "reference": "Deuteronomy 32:14",
+        "original": "Deut. 32:14"
+      },
+      {
+        "reference": "Isaiah 27:2",
+        "original": "Isa. 27:2"
+      },
+      {
+        "reference": "Ezra 6:9",
+        "original": "Ezra 6:9"
+      },
+      {
+        "reference": "Ezra 7:22",
+        "original": "Ezra 7:22"
+      },
+      {
+        "reference": "Daniel 5:1",
+        "original": "Dan. 5:1"
+      },
+      {
+        "reference": "Daniel 5:2",
+        "original": "Dan. 5:2"
+      },
+      {
+        "reference": "Daniel 5:4",
+        "original": "Dan. 5:4"
+      },
+      {
+        "reference": "Genesis 49:11",
+        "original": "Gen. 49:11"
+      },
+      {
+        "reference": "Numbers 6:3",
+        "original": "Num. 6:3"
+      },
+      {
+        "reference": "Deuteronomy 23:24",
+        "original": "Deut. 23:24"
+      },
+      {
+        "reference": "Isaiah 5:22",
+        "original": "Isa. 5:22"
+      },
+      {
+        "reference": "Psalms 75:8",
+        "original": "Ps. 75:8"
+      },
+      {
+        "reference": "Proverbs 23:30",
+        "original": "Prov. 23:30"
+      },
+      {
+        "reference": "Isaiah 65:11",
+        "original": "Isa. 65:11"
+      },
+      {
+        "reference": "Deuteronomy 28:51",
+        "original": "Deut. 28:51"
+      },
+      {
+        "reference": "Proverbs 3:10",
+        "original": "Prov. 3:10"
+      },
+      {
+        "reference": "Micah 6:15",
+        "original": "Micah 6:15"
+      },
+      {
+        "reference": "Genesis 27:28",
+        "original": "Gen. 27:28"
+      },
+      {
+        "reference": "Deuteronomy 33:28",
+        "original": "Deut. 33:28"
+      },
+      {
+        "reference": "Isaiah 36:17",
+        "original": "Isa. 36:17"
+      },
+      {
+        "reference": "2 Chronicles 32:28",
+        "original": "2 Chr. 32:28"
+      },
+      {
+        "reference": "Joel 2:19",
+        "original": "Joel 2:19"
+      },
+      {
+        "reference": "Hosea 4:11",
+        "original": "Hos. 4:11"
+      },
+      {
+        "reference": "Isaiah 1:22",
+        "original": "Isa. 1:22"
+      },
+      {
+        "reference": "Hosea 4:18",
+        "original": "Hos. 4:18"
+      },
+      {
+        "reference": "Nahum 1:10",
+        "original": "Nah. 1:10"
+      },
+      {
+        "reference": "Numbers 28:7",
+        "original": "Num. 28:7"
+      },
+      {
+        "reference": "Leviticus 10:9",
+        "original": "Lev. 10:9"
+      },
+      {
+        "reference": "Judges 13:4",
+        "original": "Judg. 13:4"
+      },
+      {
+        "reference": "Judges 13:7",
+        "original": "Judg. 13:7"
+      },
+      {
+        "reference": "Isaiah 28:7",
+        "original": "Isa. 28:7"
+      },
+      {
+        "reference": "Isaiah 5:11",
+        "original": "Isa. 5:11"
+      },
+      {
+        "reference": "Isaiah 24:9",
+        "original": "Isa 24:9"
+      },
+      {
+        "reference": "Isaiah 29:9",
+        "original": "Isa 29:9"
+      },
+      {
+        "reference": "Isaiah 56:12",
+        "original": "Isa 56:12"
+      },
+      {
+        "reference": "Proverbs 20:1",
+        "original": "Prov. 20:1"
+      },
+      {
+        "reference": "Proverbs 31:6",
+        "original": "Prov 31:6"
+      },
+      {
+        "reference": "Micah 2:11",
+        "original": "Micah 2:11"
+      },
+      {
+        "reference": "Deuteronomy 16:13",
+        "original": "Deut. 16:13"
+      },
+      {
+        "reference": "Joel 2:24",
+        "original": "Joel 2:24"
+      },
+      {
+        "reference": "Haggai 2:16",
+        "original": "Hag. 2:16"
+      },
+      {
+        "reference": "Jeremiah 48:33",
+        "original": "Jer. 48:33"
+      },
+      {
+        "reference": "2 Kings 6:27",
+        "original": "2 Kings 6:27"
+      },
+      {
+        "reference": "Job 24:11",
+        "original": "Job. 24:11"
+      },
+      {
+        "reference": "Isaiah 25:6",
+        "original": "Isa. 25:6"
+      },
+      {
+        "reference": "Acts 2:13",
+        "original": "Acts 2:13"
+      },
+      {
+        "reference": "Genesis 43:11",
+        "original": "Gen. 43:11"
+      },
+      {
+        "reference": "Exodus 3:8",
+        "original": "Ex. 3:8"
+      },
+      {
+        "reference": "Exodus 3:17",
+        "original": "Ex 3:17"
+      },
+      {
+        "reference": "Exodus 13:5",
+        "original": "Ex 13:5"
+      },
+      {
+        "reference": "Exodus 33:3",
+        "original": "Ex 33:3"
+      },
+      {
+        "reference": "Leviticus 20:24",
+        "original": "Lev. 20:24"
+      },
+      {
+        "reference": "Numbers 13",
+        "original": "Num. 13"
+      },
+      {
+        "reference": "John 2:1-11",
+        "original": "John 2:1-11"
+      },
+      {
+        "reference": "Jeremiah 35",
+        "original": "Jer. 35"
+      },
+      {
+        "reference": "Numbers 6:1-4",
+        "original": "Num. 6:1-4"
+      },
+      {
+        "reference": "Judges 13:5",
+        "original": "Judg. 13:5"
+      },
+      {
+        "reference": "Luke 1:15",
+        "original": "Luke 1:15"
+      },
+      {
+        "reference": "Luke 7:33",
+        "original": "Luke 7:33"
+      },
+      {
+        "reference": "Leviticus 10:1",
+        "original": "Lev. 10:1"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Ex. 29:40"
+      },
+      {
+        "reference": "Exodus 29:41",
+        "original": "Ex. 29:41"
+      },
+      {
+        "reference": "Leviticus 23:13",
+        "original": "Lev. 23:13"
+      },
+      {
+        "reference": "Numbers 15:5",
+        "original": "Num. 15:5"
+      },
+      {
+        "reference": "Numbers 15:7",
+        "original": "Num. 15:7"
+      },
+      {
+        "reference": "Numbers 15:10",
+        "original": "Num. 15:10"
+      },
+      {
+        "reference": "Luke 21:34",
+        "original": "Luke 21:34"
+      },
+      {
+        "reference": "Romans 13:13",
+        "original": "Rom. 13:13"
+      },
+      {
+        "reference": "Ephesians 5:18",
+        "original": "Eph. 5:18"
+      },
+      {
+        "reference": "1 Timothy 3:8",
+        "original": "1 Tim. 3:8"
+      },
+      {
+        "reference": "Titus 1:7",
+        "original": "Titus 1:7"
+      },
+      {
+        "reference": "Genesis 9:20",
+        "original": "Genesis 9:20"
+      },
+      {
+        "reference": "Genesis 9:21",
+        "original": "Genesis 9:21"
+      },
+      {
+        "reference": "Jeremiah 6:9",
+        "original": "Jeremiah 6:9"
+      },
+      {
+        "reference": "Nehemiah 13:15",
+        "original": "Nehemiah 13:15"
+      },
+      {
+        "reference": "Isaiah 18:10",
+        "original": "Isaiah 18:10"
+      },
+      {
+        "reference": "Jeremiah 25:30",
+        "original": "Jeremiah 25:30"
+      },
+      {
+        "reference": "Revelation 19:15",
+        "original": "Revelation 19:15"
+      },
+      {
+        "reference": "Isaiah 16:9",
+        "original": "Isaiah 16:9"
+      },
+      {
+        "reference": "Isaiah 16:10",
+        "original": "Isaiah 16:10"
+      },
+      {
+        "reference": "Genesis 40:11",
+        "original": "Genesis 40:11"
+      },
+      {
+        "reference": "Isaiah 63:2",
+        "original": "Isaiah 63:2"
+      },
+      {
+        "reference": "Isaiah 63:3",
+        "original": "Isaiah 63:3"
+      },
+      {
+        "reference": "Genesis 40:12",
+        "original": "Genesis 40:12"
+      },
+      {
+        "reference": "Zechariah 9:15",
+        "original": "Zechariah 9:15"
+      },
+      {
+        "reference": "Zechariah 10:7",
+        "original": "Zechariah 10:7"
+      },
+      {
+        "reference": "Proverbs 31:5",
+        "original": "Proverbs 31:5"
+      },
+      {
+        "reference": "Habakkuk 2:15",
+        "original": "Habakkuk 2:15"
+      },
+      {
+        "reference": "Habakkuk 2:16",
+        "original": "Habakkuk 2:16"
+      },
+      {
+        "reference": "Hosea 7:5",
+        "original": "Hosea 7:5"
+      },
+      {
+        "reference": "Proverbs 9:2",
+        "original": "Proverbs 9:2"
+      },
+      {
+        "reference": "Proverbs 9:5",
+        "original": "Proverbs 9:5"
+      },
+      {
+        "reference": "Mark 15:23",
+        "original": "Mark 15:23"
+      },
+      {
+        "reference": "Ezekiel 27:18",
+        "original": "Ezekiel 27:18"
+      },
+      {
+        "reference": "Hosea 14:7",
+        "original": "Hosea 14:7"
+      },
+      {
+        "reference": "Genesis 14:18",
+        "original": "Genesis 14:18"
+      },
+      {
+        "reference": "John 2:3",
+        "original": "John 2:3"
+      },
+      {
+        "reference": "Exodus 22:29",
+        "original": "Exodus 22:29"
+      }
+    ]
+  },
+  "WINEPRESS": {
+    "name": "Winepress",
+    "slug": "winepress",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "From the scanty notices contained in the Bible we gather that, the wine-presses of the Jews consisted of two receptacles of vats placed at different elevations, in the upper one of which the grapes were trodden, while the lower one received the expressed juice. The two vats are mentioned together only in (Joel 3:13) “The press is full: the fats overflow”—the upper vat being full of fruit, the lower one overflowing with the must. [Wine] The two vats were usually hewn out of the solid rock. (Isaiah 5:2) margin; (Matthew 21:33) Ancient winepresses, so constructed, are still to he seen in Palestine."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 3:13",
+        "original": "Joel 3:13"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isaiah 5:2"
+      },
+      {
+        "reference": "Matthew 21:33",
+        "original": "Matthew 21:33"
+      }
+    ]
+  },
+  "WINNOWING": {
+    "name": "Winnowing",
+    "slug": "winnowing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Agriculture]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WISDOM OF JESUS, SON OF SIRACH": {
+    "name": "Wisdom Of Jesus, Son Of Sirach",
+    "slug": "wisdom-of-jesus-son-of-sirach",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Ecclesiasticus]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WISDOM, THE, OF SOLOMON": {
+    "name": "Wisdom, The, Of Solomon",
+    "slug": "wisdom-the-of-solomon",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a, book of the Apocrypha, may be divided into two parts, the first, chs. 1-9, containing the doctrine of wisdom in its moral and intellectual aspects: the second, the doctrine of wisdom as shown in history. chs. 10-19. The first part contains the praise of wisdom as the source of immortality, in contrast with the teaching of sensualists; and next the praise of wisdom as the guide of practical and intellectual life, the stay of princes, and the interpreter of the universe. The second part, again, follows the action of wisdom summarily, as preserving God’s servants, from Adam to Moses, and more particularly in the punishment of the Egyptians and Canaanites. Style and language .—The literary character of the book is most remarkable and interesting. In the richness and freedom of its vocabulary it most closely resembles the Fourth Book of Maccabees, but it is superior to that fine declamation in both power and variety of diction. The magnificent description of wisdom ch. 7:22-8:1, must rank among the noblest passages of human eloquence, and it would be perhaps impossible to point out any piece of equal length in the remains of classical antiquity more pregnant with noble thought or more rich in expressive phraseology. Doctrinal character.—The theological teaching of the book offers, in many respects, the nearest approach to the language and doctrines of Greek philosophy that is found in any Jewish writing up to the time of Philo. There is much in the views which it gives of the world of man and of the divine nature which springs rather from the combination or conflict of Hebrew and Greek thought than from the independent development of Hebrew thought alone. The conception is presented of the body as a mere weight and clog to the soul. ch, 9:15; contrast (2 Corinthians 5:1-4) There is, on the other hand no trace of the characteristic Christian doctrine of a resurrection of the body. The identification of the tempter, (Genesis 3:1) ... directly or indirectly with the devil, as the bringer “of death into the world” ch. 2:23, 24, is the most remarkable development of biblical doctrine which the book contains. Generally, too, it may be observed that, as in the cognate books, Proverbs and Ecclesiastes, there are few traces of the recognition of the sinfulness even of the wise man in his wisdom, which forms in the Psalms and the prophets, the basis of the Christian doctrine of the atonement: yet comp. (Genesis 15:2) In connection with the Old Testament Scriptures, the book, as a whole, may be regarded as carrying on one step farther the great problem of life contained in Ecclesiastes and Job. Date.—From internal evidence it seems most reasonable to believe that the work was composed in Greek at Alexandria some time before the time of Philo-about 120-80 B.C. It seems impossible to study this book dispassionately and not feel that it forms one of the last links in the chain of providential connection between the Old and New Covenants. It would not be easy to find elsewhere any pre-Christian view of religion equally wide, sustained and definite."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Corinthians 5:1-4",
+        "original": "2 Corinthians 5:1-4"
+      },
+      {
+        "reference": "Genesis 3:1",
+        "original": "Genesis 3:1"
+      },
+      {
+        "reference": "Genesis 15:2",
+        "original": "Genesis 15:2"
+      }
+    ]
+  },
+  "WISE MEN": {
+    "name": "Wise men",
+    "slug": "wise-men",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Magi]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 2:12",
+        "original": "Dan. 2:12"
+      },
+      {
+        "reference": "Matthew 2:7",
+        "original": "Matt. 2:7"
+      }
+    ]
+  },
+  "WITCH, WITCHCRAFTS": {
+    "name": "Witch, Witchcrafts",
+    "slug": "witch-witchcrafts",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Divination; Magic, Magicians]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WITNESS": {
+    "name": "Witness",
+    "slug": "witness",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Among people with whom writing is not common the evidence of a transaction is given by some tangible memorial or significant ceremony: Abraham gave seven ewe-lambs to Abimelech as an evidence of his property in the well of Beersheba. Jacob raised a heap of stones, “the heap of witness.” as a boundary-mark between himself and Laban. (Genesis 21:30; 31:47,52) The tribes of Reuben and Gad raised an “altar” as a witness to the covenant between themselves and the rest of the nation. Joshua set up a stone as an evidence of the allegiance promised by Israel to God. (Joshua 22:10,26,34; 24:26,27) But written evidence was by no means unknown to the Jews. Divorce was to be proved by a written document. (24:1,3) In civil contracts, at least in later times documentary evidence was required and carefully preserved. (Isaiah 8:16; Jeremiah 32:10-16) On the whole the law was very careful to provide and enforce evidence for all its infractions and all transactions bearing on them. Among special provisions with respect to evidence are the following:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 17:6",
+        "original": "Deut. 17:6"
+      },
+      {
+        "reference": "Deuteronomy 19:15",
+        "original": "Deut 19:15"
+      },
+      {
+        "reference": "Deuteronomy 13:9",
+        "original": "Deut. 13:9"
+      },
+      {
+        "reference": "Deuteronomy 17:7",
+        "original": "Deut 17:7"
+      },
+      {
+        "reference": "1 Kings 21:13",
+        "original": "1 Kings 21:13"
+      },
+      {
+        "reference": "Matthew 27:1",
+        "original": "Matt. 27:1"
+      },
+      {
+        "reference": "Acts 7:57",
+        "original": "Acts 7:57"
+      },
+      {
+        "reference": "Acts 7:58",
+        "original": "Acts 7:58"
+      },
+      {
+        "reference": "Deuteronomy 19:16-21",
+        "original": "Deut. 19:16-21"
+      },
+      {
+        "reference": "Leviticus 5:1",
+        "original": "Lev. 5:1"
+      },
+      {
+        "reference": "Genesis 21:30",
+        "original": "Genesis 21:30"
+      },
+      {
+        "reference": "Genesis 31:47",
+        "original": "Genesis 31:47"
+      },
+      {
+        "reference": "Genesis 31:52",
+        "original": "Genesis 31:52"
+      },
+      {
+        "reference": "Joshua 22:10",
+        "original": "Joshua 22:10"
+      },
+      {
+        "reference": "Joshua 22:26",
+        "original": "Joshua 22:26"
+      },
+      {
+        "reference": "Joshua 22:34",
+        "original": "Joshua 22:34"
+      },
+      {
+        "reference": "Joshua 24:26",
+        "original": "Joshua 24:26"
+      },
+      {
+        "reference": "Joshua 24:27",
+        "original": "Joshua 24:27"
+      },
+      {
+        "reference": "Isaiah 8:16",
+        "original": "Isaiah 8:16"
+      },
+      {
+        "reference": "Jeremiah 32:10-16",
+        "original": "Jeremiah 32:10-16"
+      },
+      {
+        "reference": "Numbers 35:30",
+        "original": "Numbers 35:30"
+      },
+      {
+        "reference": "Numbers 17:6",
+        "original": "Numbers 17:6"
+      },
+      {
+        "reference": "John 8:17",
+        "original": "John 8:17"
+      },
+      {
+        "reference": "2 Corinthians 13:1",
+        "original": "2 Corinthians 13:1"
+      },
+      {
+        "reference": "1 Timothy 5:19",
+        "original": "1Tim 5:19"
+      },
+      {
+        "reference": "Numbers 5:13",
+        "original": "Numbers 5:13"
+      },
+      {
+        "reference": "Exodus 20:16",
+        "original": "Exodus 20:16"
+      },
+      {
+        "reference": "Exodus 23:1",
+        "original": "Exodus 23:1"
+      },
+      {
+        "reference": "Leviticus 18:16",
+        "original": "Leviticus 18:16"
+      },
+      {
+        "reference": "Leviticus 18:18",
+        "original": "Leviticus 18:18"
+      },
+      {
+        "reference": "Exodus 22:13",
+        "original": "Exodus 22:13"
+      }
+    ]
+  },
+  "WIZARD": {
+    "name": "Wizard",
+    "slug": "wizard",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Divination; Magic, Magicians]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 19:31",
+        "original": "Lev. 19:31"
+      },
+      {
+        "reference": "Leviticus 20:6",
+        "original": "Lev 20:6"
+      },
+      {
+        "reference": "Leviticus 20:27",
+        "original": "Lev 20:27"
+      },
+      {
+        "reference": "1 Samuel 28:3",
+        "original": "1 Sam. 28:3"
+      },
+      {
+        "reference": "Isaiah 8:19",
+        "original": "Isa. 8:19"
+      },
+      {
+        "reference": "Isaiah 19:3",
+        "original": "Isa 19:3"
+      }
+    ]
+  },
+  "WOLF": {
+    "name": "Wolf",
+    "slug": "wolf",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "There can be little doubt that the wolf of Palestine is the common Canis lupus, and that this is the animal so frequently mentioned in the Bible. (The wolf is a fierce animal of the same species as the dog, which it resembles. The common color is gray with a tinting of fawn, and the hair is long and black. The Syrian wolf is of lighter color than the wolf of Europe it is the dread of the shepherds of Palestine.—ED.) Wolves were doubtless far more common in biblical times than they are now, though they are occasionally seen by modern travellers. The following are the scriptural allusions to the wolf: Its ferocity is mentioned in (Genesis 49:27; Ezekiel 22:27); Habb 1:8; Matt 7:15 Its nocturnal habits, in (Jeremiah 5:6; Zephaniah 3:3); Habb 1:8 Its attacking sheep and lambs, (Matthew 10:16; Luke 10:3; John 10:12) Isaiah (Isaiah 11:6; 65:25) foretells the peaceful reign of the Messiah under the metaphor of a wolf dwelling with a lamb: cruel persecutors are compared with wolves. (Matthew 10:16; Acts 20:29)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 49:27",
+        "original": "Gen. 49:27"
+      },
+      {
+        "reference": "Judges 19",
+        "original": "Judg. 19"
+      },
+      {
+        "reference": "Isaiah 11:6",
+        "original": "Isa. 11:6"
+      },
+      {
+        "reference": "Jeremiah 5:6",
+        "original": "Jer. 5:6"
+      },
+      {
+        "reference": "Habakkuk 1:8",
+        "original": "Hab. 1:8"
+      },
+      {
+        "reference": "Zephaniah 3:3",
+        "original": "Zeph. 3:3"
+      },
+      {
+        "reference": "Ezekiel 22:27",
+        "original": "Ezek. 22:27"
+      },
+      {
+        "reference": "Matthew 7:15",
+        "original": "Matt. 7:15"
+      },
+      {
+        "reference": "Matthew 10:16",
+        "original": "Matt 10:16"
+      },
+      {
+        "reference": "Acts 20:29",
+        "original": "Acts 20:29"
+      },
+      {
+        "reference": "Luke 10:3",
+        "original": "Luke 10:3"
+      },
+      {
+        "reference": "John 10:12",
+        "original": "John 10:12"
+      },
+      {
+        "reference": "Isaiah 65:25",
+        "original": "Isaiah 65:25"
+      }
+    ]
+  },
+  "WOMEN": {
+    "name": "Women",
+    "slug": "women",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "The position of women in the Hebrew commonwealth contrasts favorably with that which in the present day is assigned to them generally in eastern countries. The most salient point of contrast in the usages of ancient as compared with modern Oriental society was the large amount of liberty enjoyed by women. Instead of being immured in a harem, or appearing in public with the face covered. The wives and maidens of ancient times mingled freely and openly with the other sex in the duties and amenities of ordinary life. Rebekah travelled on a camel with her face unveiled until she came into the presence of her affianced. (Genesis 24:64,65) Jacob saluted Rachel with a kiss in the presence of the shepherds. (Genesis 29:11) Women played no inconsiderable part in public celebrations (Exodus 15:20,21; Judges 11:34) The odes of Deborah, Judg 5, and of Hannah, (1 Samuel 2:1) etc., exhibit a degree of intellectual cultivation which is in itself a proof of the position of the sex in that period. Women also occasionally held public office, particularly that of prophetess or inspired teacher. (Exodus 15:20; Judges 4:4; 2 Kings 22:14; Nehemiah 6:14; Luke 2:36) The management of household affairs devolved mainly on the women. The value of a virtuous and active housewife forms a frequent topic in the book of Proverbs. ch. (Proverbs 11:16; 12:4; 14:1; 31:10) etc. Her influence was of course proportionably great."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:64",
+        "original": "Genesis 24:64"
+      },
+      {
+        "reference": "Genesis 24:65",
+        "original": "Genesis 24:65"
+      },
+      {
+        "reference": "Genesis 29:11",
+        "original": "Genesis 29:11"
+      },
+      {
+        "reference": "Exodus 15:20",
+        "original": "Exodus 15:20"
+      },
+      {
+        "reference": "Exodus 15:21",
+        "original": "Exodus 15:21"
+      },
+      {
+        "reference": "Judges 11:34",
+        "original": "Judges 11:34"
+      },
+      {
+        "reference": "Judges 5",
+        "original": "Judg 5"
+      },
+      {
+        "reference": "1 Samuel 2:1",
+        "original": "1 Samuel 2:1"
+      },
+      {
+        "reference": "Judges 4:4",
+        "original": "Judges 4:4"
+      },
+      {
+        "reference": "2 Kings 22:14",
+        "original": "2 Kings 22:14"
+      },
+      {
+        "reference": "Nehemiah 6:14",
+        "original": "Nehemiah 6:14"
+      },
+      {
+        "reference": "Luke 2:36",
+        "original": "Luke 2:36"
+      },
+      {
+        "reference": "Proverbs 11:16",
+        "original": "Proverbs 11:16"
+      },
+      {
+        "reference": "Proverbs 12:4",
+        "original": "Proverbs 12:4"
+      },
+      {
+        "reference": "Proverbs 14:1",
+        "original": "Proverbs 14:1"
+      },
+      {
+        "reference": "Proverbs 31:10",
+        "original": "Proverbs 31:10"
+      }
+    ]
+  },
+  "WOOD": {
+    "name": "Wood",
+    "slug": "wood",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Forest]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WOOL": {
+    "name": "Wool",
+    "slug": "wool",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "was an article of the highest value among the Jews, as the staple material for the manufacture of clothing. (Leviticus 13:47; 22:11; Job 31:20; Proverbs 31:13; Ezekiel 34:3; Hosea 2:5) The importance of wool is incidentally shown by the notice that Mesha’s tribute was paid in a certain number of rams “with the wool.” (2 Kings 3:1) The wool of Damascus was highly prized in the mart of Tyre. (Ezekiel 27:18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 13:47",
+        "original": "Lev. 13:47"
+      },
+      {
+        "reference": "Leviticus 13:48",
+        "original": "Lev 13:48"
+      },
+      {
+        "reference": "Leviticus 13:52",
+        "original": "Lev 13:52"
+      },
+      {
+        "reference": "Leviticus 13:59",
+        "original": "Lev 13:59"
+      },
+      {
+        "reference": "Leviticus 19:19",
+        "original": "Lev 19:19"
+      },
+      {
+        "reference": "Deuteronomy 18:4",
+        "original": "Deut. 18:4"
+      },
+      {
+        "reference": "Deuteronomy 22:11",
+        "original": "Deut. 22:11"
+      },
+      {
+        "reference": "Ezekiel 27:18",
+        "original": "Ezek. 27:18"
+      },
+      {
+        "reference": "Leviticus 22:11",
+        "original": "Leviticus 22:11"
+      },
+      {
+        "reference": "Job 31:20",
+        "original": "Job 31:20"
+      },
+      {
+        "reference": "Proverbs 31:13",
+        "original": "Proverbs 31:13"
+      },
+      {
+        "reference": "Ezekiel 34:3",
+        "original": "Ezekiel 34:3"
+      },
+      {
+        "reference": "Hosea 2:5",
+        "original": "Hosea 2:5"
+      },
+      {
+        "reference": "2 Kings 3:1",
+        "original": "2 Kings 3:1"
+      }
+    ]
+  },
+  "WORM": {
+    "name": "Worm",
+    "slug": "worm",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "the representative in the Authorized Version of several Hebrew words. Sas, which occurs in (Isaiah 51:18) probably denotes some particular species of moth, whose larva is injurious to wool. Rimmah, (Exodus 16:20) points evidently to various kinds of maggots and the larvae of insects which feed on putrefying animal matter, rather than to earthworms. Toleah is applied in (28:39) to some kinds of larvae destructive to the vines. In (Job 19:26; 21:26; 24:20) there is an allusion to worms (insect larvae) feeding on the dead bodies of the buried. There is the same allusion in (Isaiah 66:24) which words are applied by our Lord, (Mark 9:44,46,48) metaphorically to the torments of the guilty in the world of departed spirits. The valley of Hinnom near Jerusalem, where the filth of the city was cast, was alive with worms. The death of Herod Agrippa I, was caused by worms. (Acts 12:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 51:8",
+        "original": "Isa. 51:8"
+      },
+      {
+        "reference": "Exodus 16:20",
+        "original": "Ex. 16:20"
+      },
+      {
+        "reference": "Exodus 16:24",
+        "original": "Ex. 16:24"
+      },
+      {
+        "reference": "Job 25:6",
+        "original": "Job 25:6"
+      },
+      {
+        "reference": "Isaiah 14:11",
+        "original": "Isa. 14:11"
+      },
+      {
+        "reference": "Deuteronomy 28:39",
+        "original": "Deut. 28:39"
+      },
+      {
+        "reference": "Jonah 4:7",
+        "original": "Jonah 4:7"
+      },
+      {
+        "reference": "Job 17:14",
+        "original": "Job 17:14"
+      },
+      {
+        "reference": "Job 21:26",
+        "original": "Job 21:26"
+      },
+      {
+        "reference": "Job 24:20",
+        "original": "Job 24:20"
+      },
+      {
+        "reference": "Micah 7:17",
+        "original": "Micah 7:17"
+      },
+      {
+        "reference": "Psalms 22:6",
+        "original": "Ps. 22:6"
+      },
+      {
+        "reference": "Isaiah 41:14",
+        "original": "Isa. 41:14"
+      },
+      {
+        "reference": "Mark 9:44",
+        "original": "Mark 9:44"
+      },
+      {
+        "reference": "Mark 9:46",
+        "original": "Mark 9:46"
+      },
+      {
+        "reference": "Mark 9:48",
+        "original": "Mark 9:48"
+      },
+      {
+        "reference": "Isaiah 66:24",
+        "original": "Isa. 66:24"
+      },
+      {
+        "reference": "Isaiah 51:18",
+        "original": "Isaiah 51:18"
+      },
+      {
+        "reference": "Job 19:26",
+        "original": "Job 19:26"
+      },
+      {
+        "reference": "Acts 12:23",
+        "original": "Acts 12:23"
+      }
+    ]
+  },
+  "WORMWOOD": {
+    "name": "Wormwood",
+    "slug": "wormwood",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Four kinds of wormwood are found in Palestine— Artemisia nilotica, A. Judaica, A. fructicosa and A. cinerea . The word occurs frequently in the Bible, and generally in a metaphorical sense. In (Jeremiah 9:15; 23:15; Lamentations 3:15,19) wormwood is symbolical of bitter calamity and sorrow; unrighteous judges are said to “turn judgment to wormwood.” (Amos 5:7) The Orientals typified sorrows, cruelties and calamities of any kind by plants of a poisonous or bitter nature."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 29:18",
+        "original": "Deut. 29:18"
+      },
+      {
+        "reference": "Proverbs 5:4",
+        "original": "Prov. 5:4"
+      },
+      {
+        "reference": "Jeremiah 9:15",
+        "original": "Jer. 9:15"
+      },
+      {
+        "reference": "Amos 5:7",
+        "original": "Amos 5:7"
+      },
+      {
+        "reference": "Amos 6:12",
+        "original": "Amos 6:12"
+      },
+      {
+        "reference": "Revelation 8:10",
+        "original": "Rev. 8:10"
+      },
+      {
+        "reference": "Revelation 8:11",
+        "original": "Rev. 8:11"
+      },
+      {
+        "reference": "Jeremiah 23:15",
+        "original": "Jeremiah 23:15"
+      },
+      {
+        "reference": "Lamentations 3:15",
+        "original": "Lamentations 3:15"
+      },
+      {
+        "reference": "Lamentations 3:19",
+        "original": "Lamentations 3:19"
+      }
+    ]
+  },
+  "WORSHIPPER": {
+    "name": "Worshipper",
+    "slug": "worshipper",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "a translation of the Greek word neocoros, used once only, (Acts 19:35) in the margin, “temple-keeper.” The neocoros was originally an attendant in a temple probably intrusted with its charge. The term neocoros became thus applied to cities or communities which undertook the worship of particular emperors even during their lives. The first occurrence of the term in connection with Ephesus is on coins of the age of Nero, A.D. 54-68."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 19:35",
+        "original": "Acts 19:35"
+      }
+    ]
+  },
+  "WRESTLING": {
+    "name": "Wrestling",
+    "slug": "wrestling",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Games]"
+      }
+    ],
+    "scripture_refs": []
+  },
+  "WRITING": {
+    "name": "Writing",
+    "slug": "writing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "There is no account in the Bible of the origin of writing. That the Egyptians in the time of Joseph were acquainted with writing of a certain kind there is evidence to prove, but there is nothing to show that up to this period the knowledge extended to the Hebrew family. At the same time there is no evidence against it. Writing is first distinctly mentioned in (Exodus 17:14) and the connection clearly implies that it was not then employed for the first time but was so familiar as to be used for historic records. It is not absolutely necessary to infer from this that the art of writing was an accomplishment possessed by every Hebrew citizen. If we examine the instances in which writing is mentioned in connection with individuals, we shall find that in all cases the writers were men of superior position. In (Isaiah 29:11,12) there is clearly a distinction drawn between the man who was able to read and the man who was not, and it seems a natural inference that the accomplishments of reading and writing were not widely spread among the people, when we find that they are universally attributed to those of high rank or education-kings, priests, prophets and professional scribes. In the name Kirjathsepher (book-town), (Joshua 15:15) there is an indication of a knowledge of writing among the Phoenicians. The Hebrews, then, a branch of the great Semitic family, being in possession of the art of writing, according to their own historical records, at a very early period, the further questions arise, what character they made use of, and whence they obtained it. Recent investigations have shown that the square Hebrew character is of comparatively modern date, and has been formed from a more ancient type by a gradual process of development. What then was this ancient type? Most probably the Phoenician. Pliny was of opinion that letters were of Assyrian origin. Dioderus Siculus (v. 74) says that the Syrians invented letters, and from them the Phoenicians, having learned them transferred them to the Greeks. According to Tacitus (Ann. xi. 14,, Egypt was believed to be the source whence the Phoenicians got their knowledge. Be this as it may, to the Phoenicians, the daring seamen and adventurous colonizers of the ancient world the voice of tradition has assigned the honor of the invention of letters. Whether it came to them from an Aramean or an Egyptian source can at best he but the subject of conjecture. It may, however, be reasonably inferred that the ancient Hebrews derived from or shared with the Phoenicians the knowledge of writing and the use of letters. The names of the Hebrew letters indicate that they must have been the invention of a Shemitic people, and that they were moreover a pastoral people may be inferred from the same evidence. But whether or not the Phoenicians were the inventors of the Shemitic alphabet, there can be no doubt of their just claim to being its chief disseminators; and with this understanding we may accept the genealogy of alphabets as given by Gesenius, and exhibited in the accompanying table. The old Semitic alphabets may he divided into two principal classes:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 17:14",
+        "original": "Ex. 17:14"
+      },
+      {
+        "reference": "Joshua 10:38",
+        "original": "Josh. 10:38"
+      },
+      {
+        "reference": "Joshua 15:15",
+        "original": "Josh 15:15"
+      },
+      {
+        "reference": "Judges 1:11",
+        "original": "Judg. 1:11"
+      },
+      {
+        "reference": "2 Samuel 11:14",
+        "original": "2 Sam. 11:14"
+      },
+      {
+        "reference": "2 Samuel 11:15",
+        "original": "2 Sam. 11:15"
+      },
+      {
+        "reference": "1 Kings 21:8",
+        "original": "1 Kings 21:8"
+      },
+      {
+        "reference": "1 Kings 21:9",
+        "original": "1 Kings 21:9"
+      },
+      {
+        "reference": "1 Kings 21:11",
+        "original": "1 Kings 21:11"
+      },
+      {
+        "reference": "2 Kings 10:1",
+        "original": "2 Kings 10:1"
+      },
+      {
+        "reference": "2 Kings 10:3",
+        "original": "2 Kings 10:3"
+      },
+      {
+        "reference": "2 Kings 10:6",
+        "original": "2 Kings 10:6"
+      },
+      {
+        "reference": "2 Kings 10:7",
+        "original": "2 Kings 10:7"
+      },
+      {
+        "reference": "2 Chronicles 21:12-15",
+        "original": "2 Chr. 21:12-15"
+      },
+      {
+        "reference": "2 Chronicles 30:1",
+        "original": "2 Chr. 30:1"
+      },
+      {
+        "reference": "2 Chronicles 30:6-9",
+        "original": "2 Chr. 30:6-9"
+      },
+      {
+        "reference": "Isaiah 29:11",
+        "original": "Isaiah 29:11"
+      },
+      {
+        "reference": "Isaiah 29:12",
+        "original": "Isaiah 29:12"
+      },
+      {
+        "reference": "Psalms 25:0-0;",
+        "original": "Psal 25,34,37,111,112,119,145"
+      },
+      {
+        "reference": "Proverbs 31:10-31",
+        "original": "Proverbs 31:10-31"
+      },
+      {
+        "reference": "Lamentations 1:1-4",
+        "original": "Lamentations 1:1-4"
+      },
+      {
+        "reference": "Exodus 25:5",
+        "original": "Exodus 25:5"
+      },
+      {
+        "reference": "Leviticus 13:48",
+        "original": "Leviticus 13:48"
+      },
+      {
+        "reference": "2 John 1:1",
+        "original": "2 John 1"
+      },
+      {
+        "reference": "3Macc 4:20",
+        "original": "3 Macc. 4:20"
+      },
+      {
+        "reference": "2 Timothy 4:13",
+        "original": "2 Timothy 4:13"
+      },
+      {
+        "reference": "Psalms 40:7",
+        "original": "Psalms 40:7"
+      },
+      {
+        "reference": "Isaiah 34:4",
+        "original": "Isai 34:4"
+      },
+      {
+        "reference": "Jeremiah 36:14",
+        "original": "Jere 36:14"
+      },
+      {
+        "reference": "Ezekiel 2:9",
+        "original": "Ezek 2:9"
+      },
+      {
+        "reference": "Zechariah 5:1",
+        "original": "Zech 5:1"
+      },
+      {
+        "reference": "Daniel 12:4",
+        "original": "Daniel 12:4"
+      },
+      {
+        "reference": "Revelation 5:1",
+        "original": "Revelation 5:1"
+      },
+      {
+        "reference": "Jeremiah 36:23",
+        "original": "Jeremiah 36:23"
+      },
+      {
+        "reference": "Luke 11:63",
+        "original": "Luke 11:63"
+      },
+      {
+        "reference": "Job 19:24",
+        "original": "Job 19:24"
+      },
+      {
+        "reference": "Psalms 45:1",
+        "original": "Psalms 45:1"
+      },
+      {
+        "reference": "Jeremiah 8:8",
+        "original": "Jeremiah 8:8"
+      },
+      {
+        "reference": "Jeremiah 17:1",
+        "original": "Jeremiah 17:1"
+      },
+      {
+        "reference": "Exodus 32:4",
+        "original": "Exodus 32:4"
+      },
+      {
+        "reference": "Isaiah 8:1",
+        "original": "Isaiah 8:1"
+      },
+      {
+        "reference": "3 John 1:1",
+        "original": "3 John 1"
+      },
+      {
+        "reference": "3Macc 5:20",
+        "original": "3 Macc. 5:20"
+      },
+      {
+        "reference": "Jeremiah 36:18",
+        "original": "Jeremiah 36:18"
+      },
+      {
+        "reference": "2 Corinthians 3:3",
+        "original": "2 Corinthians 3:3"
+      },
+      {
+        "reference": "Ezekiel 9:2",
+        "original": "Ezekiel 9:2"
+      },
+      {
+        "reference": "Ezekiel 9:3",
+        "original": "Ezekiel 9:3"
+      },
+      {
+        "reference": "Ezra 7:8",
+        "original": "Ezra 7:8"
+      },
+      {
+        "reference": "2Esd 14:24",
+        "original": "2 Esdr. 14:24"
+      }
+    ]
+  }
+}
