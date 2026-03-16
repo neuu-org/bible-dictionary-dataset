@@ -5,7 +5,7 @@ split_sources.py
 Splits the unified dictionary (02_unified) into separate source files
 for Easton's Bible Dictionary and Smith's Bible Dictionary.
 
-Reads from data/02_unified/, writes to data/01_sources/easton/ and data/01_sources/smith/.
+Reads from data/01_parsed/, writes to data/02_sources/easton/ and data/02_sources/smith/.
 
 Each source gets only its own definitions, organized by letter (a.json ... z.json).
 
